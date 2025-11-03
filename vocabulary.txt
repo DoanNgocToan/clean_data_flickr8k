@@ -92,7 +92,7 @@ leash
 ground
 orange
 hat
-starring
+starring \1
 something
 wears
 glasses
@@ -150,7 +150,7 @@ city
 overalls
 working
 stone
-aross
+aross /2
 walking
 paved
 metal
@@ -262,7 +262,7 @@ outdoors
 surf
 lab
 tags
-frolicks
+frolicks /6
 splashes
 this
 splashing
@@ -381,7 +381,7 @@ overlook
 rest
 ledge
 above
-moutains
+moutains /1
 down
 many
 inflatable
@@ -440,7 +440,7 @@ have
 pillow
 fight
 kids
-pillowfight
+pillowfight /6
 bed
 having
 constructions
@@ -474,7 +474,7 @@ oncoming
 brochure
 train
 rides
-magizine
+magazine /5
 book
 pamphlet
 rocky
@@ -508,7 +508,7 @@ mountains
 ski
 s
 landscape
-snowcovered
+snow-covered /4
 mountain
 beautiful
 pauses
@@ -606,7 +606,7 @@ bulldog
 sheep
 boxer
 pushing
-anouther
+another /3
 skinny
 smaller
 int
@@ -774,7 +774,7 @@ wheel
 wheelers
 empty
 all
-gin
+gin /7
 fourwheeler
 airborne
 quad
@@ -825,7 +825,7 @@ stacking
 against
 backdrop
 shoes
-rappeling
+rappelling  /8
 headlamp
 attached
 snakeskin

@@ -1,5 +1,5 @@
 image,caption
-1000268201_693b08cb0e.jpg,A child in a pink dress is climbing up a set of stairs in an entry way .
+1000268201_693b08cb0e.jpg,A child in a pink dress is climbing up a set of stairs in an entryway .
 1000268201_693b08cb0e.jpg,A girl going into a wooden building .
 1000268201_693b08cb0e.jpg,A little girl climbing into a wooden playhouse .
 1000268201_693b08cb0e.jpg,A little girl climbing the stairs to her playhouse .
@@ -19,7 +19,7 @@ image,caption
 1003163366_44323f5815.jpg,a man sleeping on a bench outside with a white and black dog sitting next to him .
 1003163366_44323f5815.jpg,A shirtless man lies on a park bench with his dog .
 1003163366_44323f5815.jpg,man laying on bench holding leash of dog sitting on ground
-1007129816_e794419615.jpg,A man in an orange hat starring at something .
+1007129816_e794419615.jpg,A man in an orange hat staring at something .
 1007129816_e794419615.jpg,A man wears an orange hat and glasses .
 1007129816_e794419615.jpg,A man with gauges and glasses is wearing a Blitz hat .
 1007129816_e794419615.jpg,A man with glasses is wearing a beer can crocheted hat .
@@ -41,7 +41,7 @@ image,caption
 1012212859_01547e3f17.jpg,White dog with brown ears standing near water with head turned to one side .
 1015118661_980735411b.jpg,A boy smiles in front of a stony wall in a city .
 1015118661_980735411b.jpg,A little boy is standing on the street while a man in overalls is working on a stone wall .
-1015118661_980735411b.jpg,A young boy runs aross the street .
+1015118661_980735411b.jpg,A young boy runs across the street .
 1015118661_980735411b.jpg,A young child is walking on a stone paved street with a metal pole and a man behind him .
 1015118661_980735411b.jpg,Smiling boy in white shirt and blue jeans in front of rock wall with man in overalls behind him .
 1015584366_dfcec3c85a.jpg,A black dog leaps over a log .
@@ -52,7 +52,7 @@ image,caption
 101654506_8eb26cfb60.jpg,A brown and white dog is running through the snow .
 101654506_8eb26cfb60.jpg,A dog is running in the snow
 101654506_8eb26cfb60.jpg,A dog running through snow .
-101654506_8eb26cfb60.jpg,a white and brown dog is running through a snow covered field .
+101654506_8eb26cfb60.jpg,a white and brown dog is running through a snow-covered field .
 101654506_8eb26cfb60.jpg,The white and brown dog is running over the surface of the snow .
 101669240_b2d3e7f17b.jpg,A man in a hat is displaying pictures next to a skier in a blue hat .
 101669240_b2d3e7f17b.jpg,A man skis past another man displaying paintings in the snow .
@@ -84,13 +84,13 @@ image,caption
 1022454332_6af2c1449a.jpg,A little boy at a lake watching a duck .
 1022454332_6af2c1449a.jpg,A young boy waves his hand at the duck in the water surrounded by a green park .
 1022454332_6af2c1449a.jpg,"Two people are at the edge of a lake , facing the water and the city skyline ."
-1022454428_b6b660a67b.jpg,"A couple and an infant , being held by the male , sitting next to a pond with a near by stroller ."
+1022454428_b6b660a67b.jpg,"A couple and an infant , being held by the male , sitting next to a pond with a nearby stroller ."
 1022454428_b6b660a67b.jpg,A couple sit on the grass with a baby and stroller .
 1022454428_b6b660a67b.jpg,A couple with their newborn baby sitting under a tree facing a lake .
 1022454428_b6b660a67b.jpg,A man and woman care for an infant along the side of a body of water .
 1022454428_b6b660a67b.jpg,Couple with a baby sit outdoors next to their stroller .
 1022975728_75515238d8.jpg,A black dog running in the surf .
-1022975728_75515238d8.jpg,A black lab with tags frolicks in the water .
+1022975728_75515238d8.jpg,A black lab with tags frolics in the water .
 1022975728_75515238d8.jpg,A dog splashes in the water
 1022975728_75515238d8.jpg,The black dog runs through the water .
 1022975728_75515238d8.jpg,This is a black dog splashing in the water .
@@ -107,7 +107,7 @@ image,caption
 102455176_5f8ead62d5.jpg,A man uses ice picks and crampons to scale ice .
 102455176_5f8ead62d5.jpg,an ice climber in a blue jacket and black pants is scaling a frozen ice wall .
 102455176_5f8ead62d5.jpg,An ice climber scaling a frozen waterfall .
-102455176_5f8ead62d5.jpg,A person in blue and red ice climbing with two picks .
+102455176_5f8ead62d5.jpg,A person in blue and red ice climbing with two pickaxes .
 102455176_5f8ead62d5.jpg,Climber climbing an ice wall
 1026685415_0431cbf574.jpg,A black dog carries a green toy in his mouth as he walks through the grass .
 1026685415_0431cbf574.jpg,A black dog carrying something through the grass .
@@ -135,7 +135,7 @@ image,caption
 103195344_5d2dc613a3.jpg,A man sitting in front of a metal sculpture in front of a building .
 103195344_5d2dc613a3.jpg,The man with the backpack is sitting in a buildings courtyard in front of an art sculpture reading .
 103205630_682ca7285b.jpg,A tent is being set up on the ice .
-103205630_682ca7285b.jpg,Two men are about to enter an ice fishing tent on a snow covered lake .
+103205630_682ca7285b.jpg,Two men are about to enter an ice fishing tent on a snow-covered lake .
 103205630_682ca7285b.jpg,two men setting up a blue ice fishing hut on an iced over lake
 103205630_682ca7285b.jpg,"Two men , standing on an ice , looking into something covered with a blue tarp ."
 103205630_682ca7285b.jpg,Two people standing outside a blue tent structure on a snowy surface .
@@ -158,7 +158,7 @@ image,caption
 104136873_5b5d41be75.jpg,Three people are on a hilltop overlooking a green valley .
 104136873_5b5d41be75.jpg,Three people hang out on top of a big hill .
 104136873_5b5d41be75.jpg,Three people overlook a green valley .
-104136873_5b5d41be75.jpg,Three people rest on a ledge above the moutains .
+104136873_5b5d41be75.jpg,Three people rest on a ledge above the mountains .
 1042020065_fb3d3ba5ba.jpg,A boy in a green shirt is looking down at many inflatable boats .
 1042020065_fb3d3ba5ba.jpg,A boy in a green shirt watches kayakers .
 1042020065_fb3d3ba5ba.jpg,A boy looks over a railing at the many boats and rafts below in the water .
@@ -195,7 +195,7 @@ image,caption
 1053804096_ad278b25f1.jpg,A girl with pigtails plays in the water .
 1053804096_ad278b25f1.jpg,A young girl in pigtails plays in the water .
 1055623002_8195a43714.jpg,A group of four children wearing pajamas have a pillow fight .
-1055623002_8195a43714.jpg,A group of kids have a pillow-fight .
+1055623002_8195a43714.jpg,A group of kids have a pillow fight .
 1055623002_8195a43714.jpg,A group of young children playing pillow fight on a bed .
 1055623002_8195a43714.jpg,Children having a pillow fight .
 1055623002_8195a43714.jpg,Four children are having a pillow fight .
@@ -215,7 +215,7 @@ image,caption
 1056338697_4f7d7ce270.jpg,A woman with blonde hair wearing a blue tube top is waving on the side of the street .
 1056338697_4f7d7ce270.jpg,The woman in the blue dress is holding out her arm at oncoming traffic .
 1056359656_662cee0814.jpg,A little girl looking at a brochure on train rides
-1056359656_662cee0814.jpg,a young blond girl with a magizine in her hands
+1056359656_662cee0814.jpg,a young blond girl with a magazine in her hands
 1056359656_662cee0814.jpg,A young girl on a train reads a book about train rides .
 1056359656_662cee0814.jpg,A young girl sits on a seat and looks at a train pamphlet .
 1056359656_662cee0814.jpg,Child sitting down looking at train ride brochure
@@ -245,9 +245,9 @@ image,caption
 106490881_5a2dd9b7bd.jpg,Children playing on the beach .
 106490881_5a2dd9b7bd.jpg,The boy is playing on the shore of an ocean .
 106514190_bae200f463.jpg,A hiker standing high on a bluff overlooking the mountains below .
-106514190_bae200f463.jpg,a person on ski 's looks from hill over snow covered landscape
+106514190_bae200f463.jpg,a person on ski 's looks from hill over snow-covered landscape
 106514190_bae200f463.jpg,A skier is overlooking a snow-covered mountain .
-106514190_bae200f463.jpg,A skier is overlooking the beautiful white snow covered landscape .
+106514190_bae200f463.jpg,A skier is overlooking the beautiful white snow-covered landscape .
 106514190_bae200f463.jpg,A skier pauses on a mountaintop .
 1067180831_a59dc64344.jpg,A black and white dog is attempting to catch a yellow and purple object in a low cut yard .
 1067180831_a59dc64344.jpg,A black and white dog jumps after a yellow toy .
@@ -315,9 +315,9 @@ image,caption
 10815824_2997e03d76.jpg,"A man , and girl and two horses are near a contained fire ."
 10815824_2997e03d76.jpg,Two people and two horses watching a fire .
 1082252566_8c79beef93.jpg,"A bulldog , a sheep dog , and a boxer standing in a yard ."
-1082252566_8c79beef93.jpg,A large brown dog is pushing a small Boston terrier with his face while anouther dog watches .
-1082252566_8c79beef93.jpg,A large skinny dog stands near two smaller dogs int the dirt .
-1082252566_8c79beef93.jpg,There are three dogs starring at a ball in the middle of them .
+1082252566_8c79beef93.jpg,A large brown dog is pushing a small Boston terrier with his face while another dog watches .
+1082252566_8c79beef93.jpg,A large skinny dog stands near two smaller dogs in the dirt .
+1082252566_8c79beef93.jpg,There are three dogs staring at a ball in the middle of them .
 1082252566_8c79beef93.jpg,Three dogs of various sizes .
 1082379191_ec1e53f996.jpg,A lady and a man with no shirt sit on a dock .
 1082379191_ec1e53f996.jpg,A man and a woman are sitting on a dock together .
@@ -335,27 +335,27 @@ image,caption
 1084104085_3b06223afe.jpg,"The girl is in a harness , climbing rocks ."
 1084104085_3b06223afe.jpg,Woman climbing an artificial rock wall .
 1087168168_70280d024a.jpg,A boy is jumping on an inflatable ring and a girl is watching him
-1087168168_70280d024a.jpg,A boy jumping on a water jumphouse
+1087168168_70280d024a.jpg,A boy jumping on a water jump house
 1087168168_70280d024a.jpg,A teenage boy is jumping on an inflatable slide .
 1087168168_70280d024a.jpg,A young boy jumping and a young girl seating in an inflatable pool .
 1087168168_70280d024a.jpg,Two young kids are playing in the water on an inflated toy .
 1087539207_9f77ab3aaf.jpg,A family playing on a tractor on a beautiful day
 1087539207_9f77ab3aaf.jpg,Children ride a tractor in a field .
 1087539207_9f77ab3aaf.jpg,Several children playing on a Polaris vehicle outdoors .
-1087539207_9f77ab3aaf.jpg,The children played on the four wheeler in the field .
+1087539207_9f77ab3aaf.jpg,The children played on the four-wheeler in the field .
 1087539207_9f77ab3aaf.jpg,The four kids are riding on an ATV in a field .
 1088767354_2acee738cf.jpg,A woman in a red costume to the left of a man and woman standing together .
 1088767354_2acee738cf.jpg,A woman wearing a red costume looks at two other people standing on a street .
 1088767354_2acee738cf.jpg,A young woman in a red sequined costume and feather stands on the sidewalk .
 1088767354_2acee738cf.jpg,The girl in the salmon colored bikini is standing next to two young people ; one is wearing a black outfit and the other is drinking pop .
-1088767354_2acee738cf.jpg,Two young people are approached by a flamboyant young woman dressed in a red bikini and a red feathered headress .
+1088767354_2acee738cf.jpg,Two young people are approached by a flamboyant young woman dressed in a red bikini and a red feathered headdress .
 108898978_7713be88fc.jpg,Skiiers walking up the hill through a forest .
 108898978_7713be88fc.jpg,Two men are skiing in the snow in a wooded area .
 108898978_7713be88fc.jpg,Two people wearing yellow jackets cross-country skiing .
 108898978_7713be88fc.jpg,Two skiers are making their way through woodland .
 108898978_7713be88fc.jpg,Two skiers are sliding down a trail in the woods .
 108899015_bf36131a57.jpg,A lone skier is making their way up a mountain .
-108899015_bf36131a57.jpg,Skiiers at the top of a snow covered hill .
+108899015_bf36131a57.jpg,Skiiers at the top of a snow-covered hill .
 108899015_bf36131a57.jpg,Two hikers climbing a snowy hill .
 108899015_bf36131a57.jpg,Two people are on a snow-covered mountain .
 108899015_bf36131a57.jpg,Two people climbing up a snowy mountain .
@@ -373,11 +373,11 @@ image,caption
 109202756_b97fcdc62c.jpg,A woman in a blue jacket rides a brown pony near water .
 109202756_b97fcdc62c.jpg,A woman rides a horse near a frozen lake in the wintertime .
 109202756_b97fcdc62c.jpg,A young blond woman sitting atop a brown draft horse in the snowy mountains .
-109202756_b97fcdc62c.jpg,Woman n blue jacket sits on daft horse near a frozen lake .
+109202756_b97fcdc62c.jpg,Woman in blue jacket sits on daft horse near a frozen lake .
 109202801_c6381eef15.jpg,Two draft horses pull a cart through the snow .
 109202801_c6381eef15.jpg,Two golden brown horses pull a sleigh driven by a woman in a blue coat .
 109202801_c6381eef15.jpg,Two horses are pulling a woman in a cart .
-109202801_c6381eef15.jpg,Two horses pull a carriage driven by a woman over snow covered ground .
+109202801_c6381eef15.jpg,Two horses pull a carriage driven by a woman over snow-covered ground .
 109202801_c6381eef15.jpg,Two horses pulling a sled steered by a smiling blond woman .
 109260216_85b0be5378.jpg,A person climbing down a sheer rock cliff using a rope
 109260216_85b0be5378.jpg,"A person climbs a tall , flat mountain while holding onto a safety rope ."
@@ -456,20 +456,20 @@ image,caption
 109738916_236dc456ac.jpg,Two helmeted men sit on yellow snowmobiles while another man stands behind watching .
 109823394_83fcb735e1.jpg,Three people drive ATVs .
 109823394_83fcb735e1.jpg,Three people on ATVs in a brown field turn their heads to look at the camera .
-109823394_83fcb735e1.jpg,Three people on ATV 's outside .
-109823394_83fcb735e1.jpg,three people on four wheel ATV 's in a field .
-109823394_83fcb735e1.jpg,Three people ride their four wheelers through the field .
-109823395_6fb423a90f.jpg,A four wheeler jumping in an empty field .
-109823395_6fb423a90f.jpg,A man on a four wheeler is flying through the air .
+109823394_83fcb735e1.jpg,Three people on ATV outside .
+109823394_83fcb735e1.jpg,three people on four wheel ATV in a field .
+109823394_83fcb735e1.jpg,Three people ride their four-wheeler through the field .
+109823395_6fb423a90f.jpg,A four-wheeler jumping in an empty field .
+109823395_6fb423a90f.jpg,A man on a four-wheeler is flying through the air .
 109823395_6fb423a90f.jpg,A person is riding an orange ATV in a large empty field .
-109823395_6fb423a90f.jpg,Man jumping with all terrain vehicle
+109823395_6fb423a90f.jpg,Man jumping with a terrain vehicle
 109823395_6fb423a90f.jpg,Man on an ATV catching air !
-109823397_e35154645f.jpg,A man jumps gin the air while riding an ATV
+109823397_e35154645f.jpg,A man jumps in the air while riding an ATV
 109823397_e35154645f.jpg,A man on a four-wheeler jumps near a small building .
 109823397_e35154645f.jpg,An ATV is airborne over a field in front of a white structure .
 109823397_e35154645f.jpg,A person dressed in a tan jacket jumps a quad over a harvested cornfield in front of a small out building .
-109823397_e35154645f.jpg,Man on four wheeler in the air .
-1100214449_d10861e633.jpg,A boy in s striped shirt is jumping in front of a water fountain .
+109823397_e35154645f.jpg,Man on four-wheeler in the air .
+1100214449_d10861e633.jpg,A boy in striped shirt is jumping in front of a water fountain .
 1100214449_d10861e633.jpg,A boy is jumping off the side of a running stone water fountain in front of a building .
 1100214449_d10861e633.jpg,A happy boy is jumping in front OD city fountain .
 1100214449_d10861e633.jpg,A little boy is jumping in front of a fountain .
@@ -495,13 +495,13 @@ image,caption
 1107246521_d16a476380.jpg,A black dog running after his rope toy .
 1107246521_d16a476380.jpg,A large black dog is playing in a grassy yard .
 1107471216_4336c9b328.jpg,A little girl is holding a cine camera in front of her face .
-1107471216_4336c9b328.jpg,A young girl is looking through an old fashioned video camera .
+1107471216_4336c9b328.jpg,A young girl is looking through an old-fashioned video camera .
 1107471216_4336c9b328.jpg,A young girl steadies her aim with a camera
 1107471216_4336c9b328.jpg,Girl with rosy cheeks and lips holding black toy gun .
 1107471216_4336c9b328.jpg,There is a kid with a gun .
 1110208841_5bb6806afe.jpg,A black and white Border Collie catches a Frisbee in front of an audience .
 1110208841_5bb6806afe.jpg,a brown and white dog catches a Frisbee in it mouth in front of a group of people .
-1110208841_5bb6806afe.jpg,A brown and white dug jumping up to catch a Frisbee while an audience watches .
+1110208841_5bb6806afe.jpg,A brown and white dog jumping up to catch a Frisbee while an audience watches .
 1110208841_5bb6806afe.jpg,"A dog jumps to catch a Frisbee , while many people watch ."
 1110208841_5bb6806afe.jpg,An agile dog catches a Frisbee while a crowd of onlookers watches closely .
 1112212364_0c48235fc2.jpg,A baby is sitting on and playing with smooth rocks .
@@ -518,7 +518,7 @@ image,caption
 111537217_082a4ba060.jpg,A man climbing the side of a cliff .
 111537217_082a4ba060.jpg,A man is rock climbing .
 111537217_082a4ba060.jpg,"Man with red shoes , white shirt and grey pants climbing ."
-111537217_082a4ba060.jpg,The young man with the white t-shirt and jeans is rappeling up the rock wall .
+111537217_082a4ba060.jpg,The young man with the white t-shirt and jeans is rappelling up the rock wall .
 111537222_07e56d5a30.jpg,A climber wearing a blue helmet and headlamp is attached to a rope on the rock face .
 111537222_07e56d5a30.jpg,A man climbs a rocky wall .
 111537222_07e56d5a30.jpg,a rock climber climbs a large rock .
@@ -1944,7 +1944,7 @@ image,caption
 1397887419_e798697b93.jpg,The dogs are running through the yard .
 1397887419_e798697b93.jpg,The light brown dog and dark brown dog are running in the green grass .
 1397887419_e798697b93.jpg,Two brown dogs are running on the grass .
-1397923690_d3bf1f799e.jpg,A man is carefully skiing down a snow covered hill wearing a backpack .
+1397923690_d3bf1f799e.jpg,A man is carefully skiing down a snow-covered hill wearing a backpack .
 1397923690_d3bf1f799e.jpg,A person skis down a snowy hill .
 1397923690_d3bf1f799e.jpg,A skier wearing a black backpack is making his way down a hill .
 1397923690_d3bf1f799e.jpg,a skier with poles is walking through the snow
@@ -2209,9 +2209,9 @@ image,caption
 142802798_962a4ec5ce.jpg,A skateboarder doing a trick on a stone wall .
 142802798_962a4ec5ce.jpg,A skater rides his board on a ramp .
 142802798_962a4ec5ce.jpg,The boys rides his skateboard up the wall .
-1428578577_82864facae.jpg,Two hikers wearing dark clothes rest on a snow covered peak .
+1428578577_82864facae.jpg,Two hikers wearing dark clothes rest on a snow-covered peak .
 1428578577_82864facae.jpg,"Two people pose for a picture amidst a snowy , rocky landscape ."
-1428578577_82864facae.jpg,Two people standing at the edge of a snow covered cliff .
+1428578577_82864facae.jpg,Two people standing at the edge of a snow-covered cliff .
 1428578577_82864facae.jpg,Two people standing on top of a rock in the middle of snow and cloud .
 1428578577_82864facae.jpg,Two people stand on the edge of a recently snowed on cliff .
 1428641354_f7453afbea.jpg,A woman and a boy are making hamburgers in the kitchen .
@@ -2607,7 +2607,7 @@ image,caption
 1472882567_33dc14c8b6.jpg,a group of skiers going up a mountain
 1472882567_33dc14c8b6.jpg,Four cross-country skiers climb uphill .
 1472882567_33dc14c8b6.jpg,Four people climbing a hill in the snow .
-1472882567_33dc14c8b6.jpg,Four skiers walking up a snow covered hill .
+1472882567_33dc14c8b6.jpg,Four skiers walking up a snow-covered hill .
 1472882567_33dc14c8b6.jpg,four skiers climbing snow drapped mountain .
 1473080948_bae2925dc8.jpg,A kayaker wearing a blue wetsuit and black helmet paddles his yellow kayak in murky rolling rapids .
 1473080948_bae2925dc8.jpg,A man kayaking through rapids .
@@ -3221,8 +3221,8 @@ image,caption
 1650280501_29810b46e5.jpg,Students are sitting in an auditorium with notes out in front of them .
 1655781989_b15ab4cbff.jpg,A group of mountain climbers
 1655781989_b15ab4cbff.jpg,A group of people walking in a line through the snow toward a mountain .
-1655781989_b15ab4cbff.jpg,A line of people are making their way through snow covered mountains .
-1655781989_b15ab4cbff.jpg,People are walking through a snow covered field with a mountain the background .
+1655781989_b15ab4cbff.jpg,A line of people are making their way through snow-covered mountains .
+1655781989_b15ab4cbff.jpg,People are walking through a snow-covered field with a mountain the background .
 1655781989_b15ab4cbff.jpg,People facing mountains in the snow .
 1659358133_95cd1027bd.jpg,a brown dog sniffs a tree stump .
 1659358133_95cd1027bd.jpg,A dog sniffs a newly cut tree trunk .
@@ -3374,7 +3374,7 @@ image,caption
 1713248099_d860df4e10.jpg,"Black dog , orange dog and black and white dog , on grass ."
 1713248099_d860df4e10.jpg,Three dogs are running through a grassy field .
 1713248099_d860df4e10.jpg,three multicolored dogs standing in a grassy field
-1714316707_8bbaa2a2ba.jpg,A boy in a red jacket smacks a snow covered tree with a stick .
+1714316707_8bbaa2a2ba.jpg,A boy in a red jacket smacks a snow-covered tree with a stick .
 1714316707_8bbaa2a2ba.jpg,A child stands underneath a snow-covered tree .
 1714316707_8bbaa2a2ba.jpg,A little boy shakes the snow off of a tree .
 1714316707_8bbaa2a2ba.jpg,A person in a red jacket stands under a snow-covered tree .
@@ -3750,7 +3750,7 @@ image,caption
 1821238649_2fda79d6d7.jpg,A woman in a red devil costume in front of a fountain .
 1821238649_2fda79d6d7.jpg,A woman wears a devil costume and poses in front of a fountain .
 182493240_40410254b0.jpg,Two men raise their arms atop a snowy mountain .
-182493240_40410254b0.jpg,Two people jumping up with snow covered mountains in the background .
+182493240_40410254b0.jpg,Two people jumping up with snow-covered mountains in the background .
 182493240_40410254b0.jpg,Two people kneel on the snow and raise their arms with mountains behind them .
 182493240_40410254b0.jpg,Two people raise their arms on a snowy hill in the mountains .
 182493240_40410254b0.jpg,two snowboarders throw up their hands .
@@ -4158,7 +4158,7 @@ image,caption
 2004674713_2883e63c67.jpg,A person is watching two puppies playing .
 2004674713_2883e63c67.jpg,A person standing behind two dogs interacting with one another .
 2004674713_2883e63c67.jpg,A person stands next to a snarling brown and black dog while a light brown dog stands up .
-2004674713_2883e63c67.jpg,"Two dogs , one brown , one gray play while a person in jeans stand near by ."
+2004674713_2883e63c67.jpg,"Two dogs , one brown , one gray play while a person in jeans stand nearby ."
 200771289_31902164a7.jpg,Men wearing sunglasses with their backs turned to the camera .
 200771289_31902164a7.jpg,The backs of two men wearing backpacks near some tents .
 200771289_31902164a7.jpg,Two men in black bulletproof vests watch something taking place to the right of the picture .
@@ -4323,7 +4323,7 @@ image,caption
 2052953131_30834196fb.jpg,A person is walking up a snowy hill
 2052953131_30834196fb.jpg,A person wearing a red jacket climbs a snowy hill .
 2052953131_30834196fb.jpg,Mountain climber climbing snowy mountaintop .
-2052953131_30834196fb.jpg,Person in red and black parka climbing snow covered hill
+2052953131_30834196fb.jpg,Person in red and black parka climbing snow-covered hill
 2053006423_6adf69ca67.jpg,A man in shorts is standing on a rock looking out at the view from the hilltop .
 2053006423_6adf69ca67.jpg,a man looking at the view of a grassy mountain standing on a rock
 2053006423_6adf69ca67.jpg,A shirtless man standing on a rock overlooking a hillside .
@@ -4490,7 +4490,7 @@ image,caption
 2064792226_97e41d8167.jpg,Two people ridding a colorfully decorated bicycle .
 2064792226_97e41d8167.jpg,Two people ride a colorful bike while a blond woman takes their picture .
 2065309381_705b774f51.jpg,A man snowboarding down a mountain covered with snow .
-2065309381_705b774f51.jpg,A skier rapidly descending a steep snow covered hill .
+2065309381_705b774f51.jpg,A skier rapidly descending a steep snow-covered hill .
 2065309381_705b774f51.jpg,A snowboarder coasting down the side of a snowy hill .
 2065309381_705b774f51.jpg,Snowboarder going down a fresh hill .
 2065309381_705b774f51.jpg,The sun is shining above the snow and trees .
@@ -4991,7 +4991,7 @@ image,caption
 2097489021_ca1b9f5c3b.jpg,Young girl waving turquiose leotard and pink tutu with wings waving wand .
 2098174172_e57d86ea03.jpg,A hiker is posing in front of snowy mountains .
 2098174172_e57d86ea03.jpg,A hiker is standing in before the mountain holding two walking sticks .
-2098174172_e57d86ea03.jpg,A man stands in front of snow covered mountains .
+2098174172_e57d86ea03.jpg,A man stands in front of snow-covered mountains .
 2098174172_e57d86ea03.jpg,A man with two ski poles stands near a mountaintop .
 2098174172_e57d86ea03.jpg,The man wears a green hat and jacket while standing in front of a mountain .
 2098418613_85a0c9afea.jpg,A brown chow mix dog is standing in front of a van with euro plats in the middle of a messy yard .
@@ -5142,7 +5142,7 @@ image,caption
 2109911919_af45b93ef3.jpg,A person climbing up a snowy mountain .
 2109911919_af45b93ef3.jpg,A person climbing up the side of a snowy mountain to fetch his or her ski poles .
 2109911919_af45b93ef3.jpg,A skier climbs up a snowy trail toward his poles .
-2109911919_af45b93ef3.jpg,A climber with a backpack accends a snow covered mountain .
+2109911919_af45b93ef3.jpg,A climber with a backpack accends a snow-covered mountain .
 2109911919_af45b93ef3.jpg,Man climbing a steep snow-covered slope .
 2110692070_8aaaa1ae39.jpg,A dog is running through a green yard .
 2110692070_8aaaa1ae39.jpg,A dog running though a green yard .
@@ -5690,7 +5690,7 @@ image,caption
 2176980976_7054c99621.jpg,The mountain are light tan in color .
 2176980976_7054c99621.jpg,Three people sitting on a cliff .
 2178064851_bb39652d28.jpg,A child in a lake .
-2178064851_bb39652d28.jpg,A little kid is starring into a body of water .
+2178064851_bb39652d28.jpg,A little kid is staring into a body of water .
 2178064851_bb39652d28.jpg,A small girl with a necklace is swimming .
 2178064851_bb39652d28.jpg,A wet child stands in chest deep ocean water .
 2178064851_bb39652d28.jpg,The child has a necklace on and is in the water .
@@ -5859,7 +5859,7 @@ image,caption
 2192131110_8a40e7c028.jpg,kid swinging on a swing
 2192131110_8a40e7c028.jpg,Person on swing
 2192131110_8a40e7c028.jpg,This girl is having so much fun on the swing !
-2192333873_2a0cbe849d.jpg,A boy is flying down a snow covered slope on his sled .
+2192333873_2a0cbe849d.jpg,A boy is flying down a snow-covered slope on his sled .
 2192333873_2a0cbe849d.jpg,A boy watches another person falling in the snow .
 2192333873_2a0cbe849d.jpg,A snowboarder crashes into another .
 2192333873_2a0cbe849d.jpg,a young boy falling down into the snow with another boy in the background
@@ -5930,7 +5930,7 @@ image,caption
 2195419145_36722e8d54.jpg,a man and a police officer talk to each other .
 2195419145_36722e8d54.jpg,A man in a suit and an officer smile for the camera .
 2195620255_6693479734.jpg,Two brown dogs trot along frozen ground in a rural setting .
-2195620255_6693479734.jpg,Two dogs play out in the snow covered grass .
+2195620255_6693479734.jpg,Two dogs play out in the snow-covered grass .
 2195620255_6693479734.jpg,Two dogs run through a snow-patched desert .
 2195620255_6693479734.jpg,Two golden retrievers running in a slightly snowy desert .
 2195620255_6693479734.jpg,Two golden retrievers running in a snow dusted field .
@@ -6059,7 +6059,7 @@ image,caption
 2203449950_e51d0f9065.jpg,A young girl dressed in a princess costume dress
 2203449950_e51d0f9065.jpg,A young girl dressed up in a princess costume outside .
 2203449950_e51d0f9065.jpg,The young girl standing on the grass is wearing a pink dress .
-2203615439_3c7cdc39dc.jpg,A man dressed in denim is walking along a snow covered street next to red brick buildings .
+2203615439_3c7cdc39dc.jpg,A man dressed in denim is walking along a snow-covered street next to red brick buildings .
 2203615439_3c7cdc39dc.jpg,A man in blue walks down a snowy street next to a brick building .
 2203615439_3c7cdc39dc.jpg,A man stands by a building because there is snow and ice on the ground nearby .
 2203615439_3c7cdc39dc.jpg,a man wearing a jean jacket ND a pair of jeans walking next to a red brick building .
@@ -6465,7 +6465,7 @@ image,caption
 2241768909_3d96d48417.jpg,A man with glasses and a woman wearing a hat that looks like a dog are outside in the snow .
 2241768909_3d96d48417.jpg,A woman with a panda hat and headphones is in front of a man outside in the snow .
 2242178517_2325b85e5f.jpg,A little girl is shoveling snow .
-2242178517_2325b85e5f.jpg,A small child dressed all in blue for winter stands holding a red snowshovel with a snow covered mini van behind him .
+2242178517_2325b85e5f.jpg,A small child dressed all in blue for winter stands holding a red snowshovel with a snow-covered mini van behind him .
 2242178517_2325b85e5f.jpg,A small child is shoveling snow with an orange shovel .
 2242178517_2325b85e5f.jpg,A toddler shovels a snowy driveway with a bright orange shovel .
 2242178517_2325b85e5f.jpg,A young child shovels snow .
@@ -6548,7 +6548,7 @@ image,caption
 2247138288_7355861203.jpg,A group of people and a dog sweeping snow .
 2247138288_7355861203.jpg,A group of people playing in the snow with brooms .
 2247138288_7355861203.jpg,A group of people with brooms standing in the snow with a dog in the forefront .
-2247138288_7355861203.jpg,"Group of people standing on a snow covered ground , some are holding brooms , there is a dog with the group ."
+2247138288_7355861203.jpg,"Group of people standing on a snow-covered ground , some are holding brooms , there is a dog with the group ."
 2247192427_5e106f24a9.jpg,Children play basketball on a court .
 2247192427_5e106f24a9.jpg,four young boys play basketball .
 2247192427_5e106f24a9.jpg,Several children are playing a basketball game on a basketball court .
@@ -6601,7 +6601,7 @@ image,caption
 2250555512_71670078f5.jpg,a single man drinking a mug of green liquid
 2250870111_8402d2319d.jpg,A person is reading a magazine on a snowing sidewalk .
 2250870111_8402d2319d.jpg,A person wearing jeans and a brown coat is reading and smoking on the sidewalk by a road covered with dirty snow .
-2250870111_8402d2319d.jpg,A woman reads on newspaper on a snow covered street .
+2250870111_8402d2319d.jpg,A woman reads on newspaper on a snow-covered street .
 2250870111_8402d2319d.jpg,A woman smokes a cigarette and looks at a magazine in the middle of a snowy road .
 2250870111_8402d2319d.jpg,A woman smoking a cigarette is standing next to the road during a wintery day .
 2251418114_2b0cd4c139.jpg,A boy stands on a rocky mountain .
@@ -6925,10 +6925,10 @@ image,caption
 2271667421_7b21fc23b8.jpg,Several cross-country skiers following a trail .
 2271667421_7b21fc23b8.jpg,Skiers walking up the slope .
 2271671533_7538ccd556.jpg,A backpacker hiking near a snowy mountain .
-2271671533_7538ccd556.jpg,A hiker is walking in the snow with a snow covered mountain behind them .
+2271671533_7538ccd556.jpg,A hiker is walking in the snow with a snow-covered mountain behind them .
 2271671533_7538ccd556.jpg,An adult hikes in the snow with a mountain in the background .
 2271671533_7538ccd556.jpg,A person across a field of snow with a mountain in the background .
-2271671533_7538ccd556.jpg,A person stands in the snow at the bottom of a snow covered mountain .
+2271671533_7538ccd556.jpg,A person stands in the snow at the bottom of a snow-covered mountain .
 2271755053_e1b1ec8442.jpg,A boy with red shorts is holding a basketball in a basketball court .
 2271755053_e1b1ec8442.jpg,A young boy is playing basketball in an official game .
 2271755053_e1b1ec8442.jpg,The boy is playing basketball .
@@ -6955,9 +6955,9 @@ image,caption
 2272489996_95b0a62d15.jpg,Two terriers running in a grassy area .
 2272489996_95b0a62d15.jpg,Two white and black dogs running in the grass .
 2272491304_cb7c7ed16f.jpg,Skiiers on snow cappedhills
-2272491304_cb7c7ed16f.jpg,A group of skiers shown on a snow covered mountain .
+2272491304_cb7c7ed16f.jpg,A group of skiers shown on a snow-covered mountain .
 2272491304_cb7c7ed16f.jpg,Five cross-country skiers making their way across snowy terrain .
-2272491304_cb7c7ed16f.jpg,Five people skiing on snow covered slopes .
+2272491304_cb7c7ed16f.jpg,Five people skiing on snow-covered slopes .
 2272491304_cb7c7ed16f.jpg,"There are five skiers , with backpacks , in the snow ."
 2272548482_0b4aec5cdd.jpg,"A boy holds a basketball during a game , while others watch ."
 2272548482_0b4aec5cdd.jpg,A boy is holding a basketball in one hand .
@@ -7227,7 +7227,7 @@ image,caption
 2288530008_4ebcee2174.jpg,A man carrying a red bag is looking closely at the black train that is emitting smoke .
 2288530008_4ebcee2174.jpg,A man looking into a train engine .
 2288530008_4ebcee2174.jpg,A train blowing smoke .
-2288530008_4ebcee2174.jpg,People stand on a sidewalk near an old fashioned train .
+2288530008_4ebcee2174.jpg,People stand on a sidewalk near an old-fashioned train .
 2288530008_4ebcee2174.jpg,The man stands close to the train at the busy train station .
 2289068031_fe26990183.jpg,A motocross rider rides in the air over a bar .
 2289068031_fe26990183.jpg,A motorbike jumping a pole .
@@ -7319,7 +7319,7 @@ image,caption
 2295894587_2fd8faf550.jpg,A white dog running across the snow .
 2295894587_2fd8faf550.jpg,The white dog is hard to see in the snow as it runs payfully .
 2295894587_2fd8faf550.jpg,White dog with mouth open running in the snow .
-2296166785_292a4e9f4c.jpg,"Two children jumping int the sand on a beach , the sand is being kicked up and the water is bright blue ."
+2296166785_292a4e9f4c.jpg,"Two children jumping in the sand on a beach , the sand is being kicked up and the water is bright blue ."
 2296166785_292a4e9f4c.jpg,Two children jump as they run down a large sand dune towards the beach .
 2296166785_292a4e9f4c.jpg,Two girls holding hands and jumping as they walk downhill on beach .
 2296166785_292a4e9f4c.jpg,Two kids running down a sand dune to the beach .
@@ -7574,7 +7574,7 @@ image,caption
 2313822078_282dc07531.jpg,a small child playing on a tire swing
 2313822078_282dc07531.jpg,a small kid swinging on a tire swing
 2313822078_282dc07531.jpg,A very little child swings on a tire swing .
-2314722788_6262c3aa40.jpg,A black and brown dog are starring at each other .
+2314722788_6262c3aa40.jpg,A black and brown dog are staring at each other .
 2314722788_6262c3aa40.jpg,A dark brown dog and a light brown dog in a field stare at each other .
 2314722788_6262c3aa40.jpg,Two dogs are facing each other in a grassy field .
 2314722788_6262c3aa40.jpg,Two dogs are looking at each other .
@@ -7586,9 +7586,9 @@ image,caption
 2314732154_83bc7f7314.jpg,The brown dog sees a black dog laying in the dry grass .
 2315418282_80bd0bb1c0.jpg,A brown and white dog is leaping over a log near water in the snow .
 2315418282_80bd0bb1c0.jpg,a dog jumps over a fallen tree .
-2315418282_80bd0bb1c0.jpg,A small dog in a harness jumps over a snow covered log while another dog watches .
-2315418282_80bd0bb1c0.jpg,The white dog leaping over a snow covered log .
-2315418282_80bd0bb1c0.jpg,White dog with tan spot leaping over snow covered object with white and black dog behind .
+2315418282_80bd0bb1c0.jpg,A small dog in a harness jumps over a snow-covered log while another dog watches .
+2315418282_80bd0bb1c0.jpg,The white dog leaping over a snow-covered log .
+2315418282_80bd0bb1c0.jpg,White dog with tan spot leaping over snow-covered object with white and black dog behind .
 2315807231_6948b3f3a5.jpg,A brown dog is shaking off the snow .
 2315807231_6948b3f3a5.jpg,A brown dog squats in a deep pile of snow .
 2315807231_6948b3f3a5.jpg,A brown long-haired dog plays in the snow
@@ -7632,7 +7632,7 @@ image,caption
 2319175397_3e586cfaf8.jpg,Two husky-like white dogs are outside on snow .
 2319175397_3e586cfaf8.jpg,two samoyads play in the snow .
 2319175397_3e586cfaf8.jpg,Two white dogs are playing in the snow .
-2319175397_3e586cfaf8.jpg,Two white dogs running and playing in a snow covered field .
+2319175397_3e586cfaf8.jpg,Two white dogs running and playing in a snow-covered field .
 2319175397_3e586cfaf8.jpg,Two white furry dogs play in the snow .
 2319197581_94f807b204.jpg,"A fluffy , white dog running in the snow ."
 2319197581_94f807b204.jpg,A white dog running across the snow
@@ -7754,7 +7754,7 @@ image,caption
 232874193_c691df882d.jpg,A large dog frolics in the grass .
 232874193_c691df882d.jpg,A long haired black and brown dog runs through the grass .
 232874193_c691df882d.jpg,Black dog running on green grass with mouth open .
-2330062180_355ccbceb5.jpg,A dog running down a snow covered hill
+2330062180_355ccbceb5.jpg,A dog running down a snow-covered hill
 2330062180_355ccbceb5.jpg,A dog running through snow .
 2330062180_355ccbceb5.jpg,A golden dog bounds across the snow-covered hill .
 2330062180_355ccbceb5.jpg,a white dog is running through the snow .
@@ -7822,7 +7822,7 @@ image,caption
 2335428699_4eba9b6245.jpg,Children are playing on a trampoline in the snow .
 2335428699_4eba9b6245.jpg,Children jumping on a trampoline .
 2335428699_4eba9b6245.jpg,Five children jump on a large trampoline while the snow outside melts .
-2335428699_4eba9b6245.jpg,"Four children on a trampoline , in a snow covered area ."
+2335428699_4eba9b6245.jpg,"Four children on a trampoline , in a snow-covered area ."
 2335428699_4eba9b6245.jpg,Several children and jumping on a trampoline in the snow .
 2335619125_2e2034f2c3.jpg,A big black dog bares its teeth while running through the snow .
 2335619125_2e2034f2c3.jpg,A black dog is running through the snow .
@@ -8344,7 +8344,7 @@ image,caption
 2377460540_8cfb62463a.jpg,A dog running through a lot of twigs .
 2377460540_8cfb62463a.jpg,A lean dog runs through a wooded area .
 2377460540_8cfb62463a.jpg,A weimaraner dog runs through the woods wearing a red collar .
-2378127945_8dc9da82d7.jpg,"A dog is jumping through the air in an open , snow covered field ."
+2378127945_8dc9da82d7.jpg,"A dog is jumping through the air in an open , snow-covered field ."
 2378127945_8dc9da82d7.jpg,A dog jumps over the sand .
 2378127945_8dc9da82d7.jpg,A little dog is leaping through the air over a snowy field .
 2378127945_8dc9da82d7.jpg,Black dog jumps through snowy field .
@@ -8389,7 +8389,7 @@ image,caption
 2381102729_12fc4d4c76.jpg,A tan dog jumps across some water while another dog watches .
 2381102729_12fc4d4c76.jpg,the white dog jumps over a stream of water .
 2381102729_12fc4d4c76.jpg,White dog leaping across a small body of water .
-2381583688_a6dd0a7279.jpg,A lady with glasses and a warm hat looks int other distance .
+2381583688_a6dd0a7279.jpg,A lady with glasses and a warm hat looks in other distance .
 2381583688_a6dd0a7279.jpg,An elderly woman in a knitted cap and white jacket .
 2381583688_a6dd0a7279.jpg,An elderly woman sits in a chair and wear a winter hat and coat .
 2381583688_a6dd0a7279.jpg,An old woman wearing a ski hat and glasses is sitting on a blue chair .
@@ -9848,7 +9848,7 @@ image,caption
 2461372011_ebbf513766.jpg,A person climbs a snowy hill while a black dog follows .
 2461372011_ebbf513766.jpg,A person climbs up a snowy hill while their dog follows .
 2461372011_ebbf513766.jpg,A person hiking up a hill in the snow with a dog .
-2461372011_ebbf513766.jpg,The hiker is walking up a snow covered hill with a black dog .
+2461372011_ebbf513766.jpg,The hiker is walking up a snow-covered hill with a black dog .
 2461616306_3ee7ac1b4b.jpg,A boy is diving through the air into a swimming pool .
 2461616306_3ee7ac1b4b.jpg,A boy jumps into a pool on a bright sunny day .
 2461616306_3ee7ac1b4b.jpg,a boy jumps into the blue pool water .
@@ -12395,7 +12395,7 @@ image,caption
 2629445284_83390e83af.jpg,A dog is jumping over a barrier at a agility competition .
 2629445284_83390e83af.jpg,A dog jumping over an obstacle course fence .
 262963190_a78b799e89.jpg,A climber is standing on rocks overlooking a snowy mountain range .
-262963190_a78b799e89.jpg,a lone climber on a snowy moutainside .
+262963190_a78b799e89.jpg,a lone climber on a snowy mountainside .
 262963190_a78b799e89.jpg,A man in a white helmet and dark clothing stands in the snowy mountains .
 262963190_a78b799e89.jpg,"A man is overlooking a big , snowy mountain ."
 262963190_a78b799e89.jpg,A man with a white helmet stands on a snowy mountaintop .
@@ -12514,7 +12514,7 @@ image,caption
 2636876892_9353521a1c.jpg,two dogs in the middle of a heavily wooded forest
 2636876892_9353521a1c.jpg,Two dogs standing in the woods .
 2636876892_9353521a1c.jpg,two medium size dogs smiff each others behinds .
-2637510448_4521cf6f29.jpg,A little girl in a pink and white ski suit and red helmet skies sideways on the snow covered slope .
+2637510448_4521cf6f29.jpg,A little girl in a pink and white ski suit and red helmet skies sideways on the snow-covered slope .
 2637510448_4521cf6f29.jpg,Child in pink and white skying down a slope .
 2637510448_4521cf6f29.jpg,Little girl skis on slope .
 2637510448_4521cf6f29.jpg,Person in pink skis wearing skis on a slope .
@@ -13020,10 +13020,10 @@ image,caption
 267162122_c3437414ec.jpg,A black puppy stands over a white puppy .
 267162122_c3437414ec.jpg,A small black dog is standing over a small white dog laying on his side .
 267164457_2e8b4d30aa.jpg,A climber walks along a snowy peak .
-267164457_2e8b4d30aa.jpg,A man climbs over snow covered rocks by a shore .
+267164457_2e8b4d30aa.jpg,A man climbs over snow-covered rocks by a shore .
 267164457_2e8b4d30aa.jpg,A man is standing on a snowcapped mountain .
 267164457_2e8b4d30aa.jpg,A person hikes down a snowy mountain .
-267164457_2e8b4d30aa.jpg,There man on top of an snow covered mountain with a lake behind him .
+267164457_2e8b4d30aa.jpg,There man on top of an snow-covered mountain with a lake behind him .
 2672354635_3a03f76486.jpg,Several brown dogs playing with a tennis ball in a grassy field .
 2672354635_3a03f76486.jpg,Three brown dogs chase a tennis ball .
 2672354635_3a03f76486.jpg,Three dogs are playing outside with a tennis ball .
@@ -13291,7 +13291,7 @@ image,caption
 2689491604_d8760f57b4.jpg,The boy splashed the water .
 2690538407_7ca157be85.jpg,A baby with a pacifier saying I love you in sign language .
 2690538407_7ca157be85.jpg,A little boy has a pacifier in his mouth and throwing up a sign with his hand .
-2690538407_7ca157be85.jpg,A little boy is standing in front of an old fashioned fence with his hand up in the air .
+2690538407_7ca157be85.jpg,A little boy is standing in front of an old-fashioned fence with his hand up in the air .
 2690538407_7ca157be85.jpg,A little boy wearing a brown t-shirt is sucking on a pacifier with his hand in the air .
 2690538407_7ca157be85.jpg,A small child is giving heavy metal signs
 2690702549_cf81da8cf6.jpg,Four boys mug for the camera in front of a brick wall .
@@ -13593,7 +13593,7 @@ image,caption
 270809922_043e3bef06.jpg,A man is standing on top of a glacier .
 270809922_043e3bef06.jpg,A man standing on a mountainside in snow .
 270809922_043e3bef06.jpg,A mountain climber posing in the snow .
-270809922_043e3bef06.jpg,A person walking up a snow covered mountain on a bright day .
+270809922_043e3bef06.jpg,A person walking up a snow-covered mountain on a bright day .
 270816949_ffad112278.jpg,A man on horseback on a grassy field in front of mountains .
 270816949_ffad112278.jpg,A person on a brown horse in a prairie in front of tall mountains .
 270816949_ffad112278.jpg,A person riding a horse with a mountain range in the far background .
@@ -14599,7 +14599,7 @@ image,caption
 278002947_3fd22a2cb6.jpg,A man with a Mohawk stands in a group of people .
 278002947_3fd22a2cb6.jpg,A man with a Mohawk walking on campus .
 278002947_3fd22a2cb6.jpg,The man has a Mohawk .
-2780031669_a0345cfc26.jpg,Two children are in tobaggons at the top of a snow covered hill .
+2780031669_a0345cfc26.jpg,Two children are in tobaggons at the top of a snow-covered hill .
 2780031669_a0345cfc26.jpg,Two children go sledding .
 2780031669_a0345cfc26.jpg,Two children ride saucers down a snowy hill .
 2780031669_a0345cfc26.jpg,Two children sitting on disks in the snow .
@@ -14653,7 +14653,7 @@ image,caption
 278388986_78ba84eb8f.jpg,Two mountain climbers stand atop a snowy peak .
 278388986_78ba84eb8f.jpg,"Two mountain climbers stand on the ridge of a tall , snowy mountain ."
 278388986_78ba84eb8f.jpg,Two mountain climbers stand on the top of a mountain looking around .
-278388986_78ba84eb8f.jpg,Two people stand on the top of a snow covered mountain .
+278388986_78ba84eb8f.jpg,Two people stand on the top of a snow-covered mountain .
 2784408839_53a25a21eb.jpg,A person in a blue kayak is navigating rapids in a river .
 2784408839_53a25a21eb.jpg,A person in a kayak is going over a small waterfall .
 2784408839_53a25a21eb.jpg,A person kayaking down a small waterfall .
@@ -16695,7 +16695,7 @@ image,caption
 290650302_ade636da35.jpg,A woman wearing glasses sits and looks to the right .
 290650302_ade636da35.jpg,The woman is resting her head on her hand and sitting in a crowded area .
 2906802485_dfebf09173.jpg,Four kayakers and canoers near a rock wall .
-2906802485_dfebf09173.jpg,Four kayakers on a moutain stream .
+2906802485_dfebf09173.jpg,Four kayakers on a mountain stream .
 2906802485_dfebf09173.jpg,four kayakers paddle through the water .
 2906802485_dfebf09173.jpg,Four people are kayaking in a river .
 2906802485_dfebf09173.jpg,"Four people , in colorful kayaks , are on the water on a sunny day ."
@@ -17496,7 +17496,7 @@ image,caption
 2949982320_c704b31626.jpg,Man on bicycle is doing tricks in an old building .
 2950393735_9969c4ec59.jpg,A bald person in green clothing stands in front of a brick wall .
 2950393735_9969c4ec59.jpg,An bald elderly adult .
-2950393735_9969c4ec59.jpg,An elderly person with a brick wall int he background .
+2950393735_9969c4ec59.jpg,An elderly person with a brick wall in the background .
 2950393735_9969c4ec59.jpg,An older person wearing green is holding a burlap sack .
 2950393735_9969c4ec59.jpg,"An old , wrinkley person in green in smiling ."
 2950637275_98f1e30cca.jpg,A breakdancer is standing on one hand with a look of excitement
@@ -17507,7 +17507,7 @@ image,caption
 2950905787_f2017d3e49.jpg,A man is climbing the mountain .
 2950905787_f2017d3e49.jpg,A mountain climber is seen on the side of a tall mountain .
 2950905787_f2017d3e49.jpg,"A solitary climber on snowy , high mountains ."
-2950905787_f2017d3e49.jpg,Snow covered mountains with a person walking up in the background .
+2950905787_f2017d3e49.jpg,snow-covered mountains with a person walking up in the background .
 2950905787_f2017d3e49.jpg,The mountaintop is filled with snow .
 2951092164_4940b9a517.jpg,A boy and girl in swimwear and arm floaters
 2951092164_4940b9a517.jpg,"a little boy and a little girl wearing water wings are running on a path beside a black fence ,"
@@ -18330,7 +18330,7 @@ image,caption
 3005124440_c096b310fb.jpg,Three people with political signs .
 3005124440_c096b310fb.jpg,Two men and a woman pose with signs for Obama and Chris Gregoire .
 3005126574_49c28ffbee.jpg,A black man is wearing a brown shirt and a necklace .
-3005126574_49c28ffbee.jpg,A black man with a necklace is starring off camera .
+3005126574_49c28ffbee.jpg,A black man with a necklace is staring off camera .
 3005126574_49c28ffbee.jpg,A man looks straight ahead at night .
 3005126574_49c28ffbee.jpg,A man with black skin and short hair wears a necklace and gray shirt .
 3005126574_49c28ffbee.jpg,An man of African heritage is wearing a grey shirt and silver neck chain .
@@ -18440,7 +18440,7 @@ image,caption
 3012513414_86180c44cb.jpg,Man on skis attempting to jump over a snow pile
 3012513414_86180c44cb.jpg,The skier is airborne after going off the ramp .
 3013469764_30e84e9a0d.jpg,An ATV racer blasts down the track sending dirt flying everywhere .
-3013469764_30e84e9a0d.jpg,A person is on a four wheeler kicking up a lot of dirt in a dune .
+3013469764_30e84e9a0d.jpg,A person is on a four-wheeler kicking up a lot of dirt in a dune .
 3013469764_30e84e9a0d.jpg,A person is riding an ATV through the dirt .
 3013469764_30e84e9a0d.jpg,ATV rider spinning his wheels .
 3013469764_30e84e9a0d.jpg,The quad runner goes up the sand dune .
@@ -18452,7 +18452,7 @@ image,caption
 3014080715_f4f0dbb56e.jpg,a group of dogs pulling a sled through the snow .
 3014080715_f4f0dbb56e.jpg,A team of dogs are pulling a sled over snow .
 3014080715_f4f0dbb56e.jpg,A team of dogs pulling a sled .
-3014080715_f4f0dbb56e.jpg,A team of dogs pulling a sled down a snow covered road .
+3014080715_f4f0dbb56e.jpg,A team of dogs pulling a sled down a snow-covered road .
 3014080715_f4f0dbb56e.jpg,Sled dogs pull a sled through a snowy forest .
 3014169370_fc4059352e.jpg,A man in yellow standing between two waterfalls .
 3014169370_fc4059352e.jpg,A man standing between waterfalls .
@@ -19250,7 +19250,7 @@ image,caption
 3052038928_9f53aa2084.jpg,There are four men and one woman .
 3052038928_9f53aa2084.jpg,Three men are setting up a scene by measuring the lights for a couple sitting on a low couch .
 3052104757_d1cf646935.jpg,A black and green monster truck flying through the air .
-3052104757_d1cf646935.jpg,A four wheeler jumping cars .
+3052104757_d1cf646935.jpg,A four-wheeler jumping cars .
 3052104757_d1cf646935.jpg,A giant monster truck leaps over crushed cars and into the air inside the arena .
 3052104757_d1cf646935.jpg,A monster truck in the air above demolished cars .
 3052104757_d1cf646935.jpg,A monster truck soars into the air at an arena .
@@ -19860,9 +19860,9 @@ image,caption
 3088677667_4a8befb70e.jpg,"Five people staring in the same direction , two of whom are wearing face masks ."
 3088677667_4a8befb70e.jpg,"People wearing black , some with face masks , are singing ."
 3088922727_4bdf2ccc94.jpg,A couple in old clothing at an outdoor table .
-3088922727_4bdf2ccc94.jpg,A couple in old fashioned clothes sitting at a table outside
+3088922727_4bdf2ccc94.jpg,A couple in old-fashioned clothes sitting at a table outside
 3088922727_4bdf2ccc94.jpg,A man and a woman sit by a small table in colonial clothing .
-3088922727_4bdf2ccc94.jpg,A man and woman dressed in old fashion clothing sit outside at a table .
+3088922727_4bdf2ccc94.jpg,A man and woman dressed in old-fashion clothing sit outside at a table .
 3088922727_4bdf2ccc94.jpg,A man in a suit and top hat and a woman in a blue Victorian dress sitting outside at a table .
 3089107423_81a24eaf18.jpg,A camera man is behind his video camera and surrounded by a hudge crowd .
 3089107423_81a24eaf18.jpg,A man is operating a television camera high up in a crowded stadium .
@@ -20574,7 +20574,7 @@ image,caption
 3120953244_b00b152246.jpg,A small boy blowing bubbles while a small girl stands behind him in the grass .
 3120953244_b00b152246.jpg,The girl has a passifier while the boy is making bubbles
 3120953244_b00b152246.jpg,Two small blonde children blowing bubbles in a park .
-3121482932_f77ca12c01.jpg,a lone four wheeler wearing a helmet riding along a dusty path .
+3121482932_f77ca12c01.jpg,a lone four-wheeler wearing a helmet riding along a dusty path .
 3121482932_f77ca12c01.jpg,A man in jeans is riding an ATV over sand .
 3121482932_f77ca12c01.jpg,A man on a 4-wheeler is in midair in a dry dusty area .
 3121482932_f77ca12c01.jpg,A person in a helmet rides a four-wheel vehicle in the desert .
@@ -20637,7 +20637,7 @@ image,caption
 3123770450_cedc16d162.jpg,a deer and several turkeys together in the snow
 3123770450_cedc16d162.jpg,A deer looks at 5 turkeys in the snow .
 3123770450_cedc16d162.jpg,Deer and turkeys in the snow .
-3123770450_cedc16d162.jpg,Deer and turkeys stand on snow covered ground .
+3123770450_cedc16d162.jpg,Deer and turkeys stand on snow-covered ground .
 3123770450_cedc16d162.jpg,Large turkeys and deer stand in the snow .
 312427606_defa0dfaa8.jpg,A blond-hair girl is eating a peach .
 312427606_defa0dfaa8.jpg,A girl eating a peach .
@@ -20967,7 +20967,7 @@ image,caption
 3139876823_859c7d7c23.jpg,A downhill skier in black catches a tiny bit of air
 3139876823_859c7d7c23.jpg,A man skis down a snowy hill .
 3139876823_859c7d7c23.jpg,A skier about to go down the mountain .
-3139876823_859c7d7c23.jpg,A skier is on a snow covered hill .
+3139876823_859c7d7c23.jpg,A skier is on a snow-covered hill .
 3139876823_859c7d7c23.jpg,"The skier is aiming downhill , overlooking a wooded area ."
 3139895886_5a6d495b13.jpg,"A black-and-white dog bounds off the ground , all feet in the air , of a yellow field ."
 3139895886_5a6d495b13.jpg,A black and white dog is jumping over high yellow grass .
@@ -21473,7 +21473,7 @@ image,caption
 3164347907_2813f8ff0b.jpg,Several people take pictures with tripods in the snow .
 3164347907_2813f8ff0b.jpg,Two people film on a snowy day .
 3164347907_2813f8ff0b.jpg,Two people outside in the snow taking pictures .
-3164347907_2813f8ff0b.jpg,Two people taking pictures over snow covered ground .
+3164347907_2813f8ff0b.jpg,Two people taking pictures over snow-covered ground .
 3164415865_612f9fd8bc.jpg,sleds sled down the street
 3164415865_612f9fd8bc.jpg,Children are sledding down a snowy hill .
 3164415865_612f9fd8bc.jpg,Five children sledding down a snow-covered street .
@@ -21484,12 +21484,12 @@ image,caption
 3164423279_9b27cb6a06.jpg,Riding a sled down a hill .
 3164423279_9b27cb6a06.jpg,The boy in the black outfit is riding down the snowy hill on a red sled .
 3164423279_9b27cb6a06.jpg,The young boy sleds down the hill in the snow .
-3165123595_8db9f918bf.jpg,people are skiing down a snow covered hill
+3165123595_8db9f918bf.jpg,people are skiing down a snow-covered hill
 3165123595_8db9f918bf.jpg,Four men in red vests with crosses on them ski on a mountain .
 3165123595_8db9f918bf.jpg,Four ski patrollers on skis are wearing helmets and goggles .
 3165123595_8db9f918bf.jpg,Skiers in uniform progress down a snowy slope .
 3165123595_8db9f918bf.jpg,there are four snow skiers going down the side of a hill .
-3165750962_e2e3843679.jpg,A brown dog is running on a snow covered path .
+3165750962_e2e3843679.jpg,A brown dog is running on a snow-covered path .
 3165750962_e2e3843679.jpg,A brown dog is running through the snow .
 3165750962_e2e3843679.jpg,A brown dog runs down a snow-covered path .
 3165750962_e2e3843679.jpg,A brown dog runs through a snowy trail .
@@ -21515,7 +21515,7 @@ image,caption
 3166366760_e43cf66eda.jpg,Person riding a bike through area of trees and fallen leaves .
 3166366760_e43cf66eda.jpg,The bike rider rides in a wooded area .
 3166578139_33500f7e8a.jpg,A lonely skier enjoys the slopes on a beautiful day .
-3166578139_33500f7e8a.jpg,A person dressed in black skiing down a snow covered hill .
+3166578139_33500f7e8a.jpg,A person dressed in black skiing down a snow-covered hill .
 3166578139_33500f7e8a.jpg,A person skis down a snowy hill .
 3166578139_33500f7e8a.jpg,A skier on a high mountain slope .
 3166578139_33500f7e8a.jpg,Skier skiing downhill
@@ -21707,7 +21707,7 @@ image,caption
 3174196837_800689a2f3.jpg,A group of dogs run through the snowy field .
 3174196837_800689a2f3.jpg,Four dogs happily running in snow .
 3174196837_800689a2f3.jpg,Four dogs running in the snow
-3174196837_800689a2f3.jpg,Four dogs running over snow covered grass .
+3174196837_800689a2f3.jpg,Four dogs running over snow-covered grass .
 3174196837_800689a2f3.jpg,Several different colored dogs running in a snowy field
 3174228611_6cf9d2266b.jpg,a basketball player wearing a red and white jersey while running down the court .
 3174228611_6cf9d2266b.jpg,A dark skinned man in a white sports outfit plays basketball .
@@ -21811,7 +21811,7 @@ image,caption
 3177468217_56a9142e46.jpg,A dog jumps over a hurdle in the grass .
 3177799416_5bd0382370.jpg,A person snowboarding down a snowy hill .
 3177799416_5bd0382370.jpg,A snowboarder is coming down a hill .
-3177799416_5bd0382370.jpg,Person snowboarding down a snow covered slope .
+3177799416_5bd0382370.jpg,Person snowboarding down a snow-covered slope .
 3177799416_5bd0382370.jpg,"Someone is snowboarding down a hill , shredding snow ."
 3177799416_5bd0382370.jpg,The man is snowboarding down a snowy hill .
 3178005751_fca19815ac.jpg,"A boy and girl , both in jeans , are standing in front of a fence ."
@@ -21858,7 +21858,7 @@ image,caption
 3180806542_49b6de312d.jpg,A snowboarder is silhouetted against the sun as they leave the ground .
 3180806542_49b6de312d.jpg,a snowboarder jumps off the snow .
 3180806542_49b6de312d.jpg,The snowboarder flew through the air while the sun sets on the horizon .
-3180806542_49b6de312d.jpg,The snowboarder jumps off a snow covered hill .
+3180806542_49b6de312d.jpg,The snowboarder jumps off a snow-covered hill .
 3181322965_ce9da15271.jpg,"A boy in speedos , wading through a lake ."
 3181322965_ce9da15271.jpg,a boy walks through the water .
 3181322965_ce9da15271.jpg,A young child walks along a lake with a large white tent nearby .
@@ -22118,7 +22118,7 @@ image,caption
 3190677999_60bbd330fd.jpg,Three children are shown in the snow .
 3190677999_60bbd330fd.jpg,Three children playing in snow .
 3190677999_60bbd330fd.jpg,"Three kids are walking down a steep , snow-covered hill ."
-3190677999_60bbd330fd.jpg,Three little boys play in a large snow covered field
+3190677999_60bbd330fd.jpg,Three little boys play in a large snow-covered field
 3191027142_33e86636ca.jpg,"A man holding up a sign , surrounded by a lot of people ."
 3191027142_33e86636ca.jpg,A man holding up a sign with a crowd in the background .
 3191027142_33e86636ca.jpg,a man holds a pro Judea protest sign at a protest rally
@@ -22174,7 +22174,7 @@ image,caption
 3194134352_bc1b2a25d7.jpg,A little boy wipes his nose with his blue shirt .
 3194134352_bc1b2a25d7.jpg,Blond boy wiping his face with his blue shirt .
 3194134352_bc1b2a25d7.jpg,"The small boy is using his blue shirt to wipe his face , exposing his belly ."
-3195040792_a03954a19f.jpg,Three dogs are running down a snow covered hill .
+3195040792_a03954a19f.jpg,Three dogs are running down a snow-covered hill .
 3195040792_a03954a19f.jpg,Three dogs in the snow .
 3195040792_a03954a19f.jpg,"Three dogs jump , run and play in the snowy landscape ."
 3195040792_a03954a19f.jpg,Three dogs racing down a snowy path together .
@@ -22274,7 +22274,7 @@ image,caption
 319869052_08b000e4af.jpg,A man puts his hand to his head on a rock wall .
 319869052_08b000e4af.jpg,A person screening their eyes standing beside a tower of flat stone .
 319869052_08b000e4af.jpg,A person stands next to a rock monument with his hand near his head .
-319870744_0e0138d205.jpg,A hiker is sitting on the ground looking towards the snow covered mountains .
+319870744_0e0138d205.jpg,A hiker is sitting on the ground looking towards the snow-covered mountains .
 319870744_0e0138d205.jpg,A man is sitting on top of a mountain .
 319870744_0e0138d205.jpg,A person sits near a mountain .
 319870744_0e0138d205.jpg,one person wearing a backpack sitting on the side of a rocky mountain .
@@ -22729,7 +22729,7 @@ image,caption
 3216829599_366a43f05e.jpg,A person surfs on a wave as water towers above him .
 3216829599_366a43f05e.jpg,A surfer catching a wave .
 3216829599_366a43f05e.jpg,Surfer is in the middle of a huge wave .
-3216901052_269ace7b3c.jpg,A child in a red hat and scarf walking down a snow covered street .
+3216901052_269ace7b3c.jpg,A child in a red hat and scarf walking down a snow-covered street .
 3216901052_269ace7b3c.jpg,A child in winter clothes is walking along the street .
 3216901052_269ace7b3c.jpg,A child running on a street in snow .
 3216901052_269ace7b3c.jpg,A little kid plays in the snow in a brown jacket and red beanie .
@@ -23012,7 +23012,7 @@ image,caption
 3225998968_ef786d86e0.jpg,A man on skis on a snow-covered hill with mountains in the background
 3225998968_ef786d86e0.jpg,A man with red pants is skiing downhill .
 3225998968_ef786d86e0.jpg,A person in red pants skis down a mountain .
-3225998968_ef786d86e0.jpg,A skier in red pants is on a snow covered slope .
+3225998968_ef786d86e0.jpg,A skier in red pants is on a snow-covered slope .
 3225998968_ef786d86e0.jpg,This person is skiing .
 3226254560_2f8ac147ea.jpg,A dog in a snowy area .
 3226254560_2f8ac147ea.jpg,A spotted dog catching a ball on a snowy field .
@@ -23104,11 +23104,11 @@ image,caption
 3229730008_63f8ca2de2.jpg,Teenager grinding skateboard down a railing while other teenagers watch .
 3229730008_63f8ca2de2.jpg,The skateboarder is riding the silver rail while three other young men look on .
 3229730008_63f8ca2de2.jpg,"Young man grinding , three other boys observing"
-3229821595_77ace81c6b.jpg,A crowd of people are standing on a snow covered hill watching the sun go down .
+3229821595_77ace81c6b.jpg,A crowd of people are standing on a snow-covered hill watching the sun go down .
 3229821595_77ace81c6b.jpg,A group of people are standing on a ledge overlooking low clouds .
 3229821595_77ace81c6b.jpg,A group of photographers stands on a hillside in the snow with the sun just below the horizon .
 3229821595_77ace81c6b.jpg,A line of people are seen in silhouette on a snowy ridge when the sun is low in the sky .
-3229821595_77ace81c6b.jpg,A line of people are standing on the edge of a snow covered path overlooking the clouds in the mountains .
+3229821595_77ace81c6b.jpg,A line of people are standing on the edge of a snow-covered path overlooking the clouds in the mountains .
 3229898555_16877f5180.jpg,A cat standing on carpet is interested in a piece of string in the air nearby wood flooring .
 3229898555_16877f5180.jpg,A white and brown cat bats at a frayed string dangling in front of him
 3229898555_16877f5180.jpg,Cat playing with a dangling string .
@@ -23242,7 +23242,7 @@ image,caption
 3239021459_a6b71bb400.jpg,A boy riding a sled off of a snow ramp .
 3239021459_a6b71bb400.jpg,A boy riding a tobaggan down a snowy hill
 3239021459_a6b71bb400.jpg,A child sleds over a mound of snow as others watch him .
-3239021459_a6b71bb400.jpg,A group of people are sledding down a snow covered hill .
+3239021459_a6b71bb400.jpg,A group of people are sledding down a snow-covered hill .
 3239021459_a6b71bb400.jpg,The young man is flying through the air on his green snowboard .
 3239480519_22540b5016.jpg,A black and white dog returns a stick in the snow .
 3239480519_22540b5016.jpg,A black and white dog running with something in his mouth .
@@ -23325,7 +23325,7 @@ image,caption
 3242263536_a436f19257.jpg,A skateboarder performs a trick on a ramp .
 3242263536_a436f19257.jpg,There is a guy wearing a grey and white striped shirt and black pants skateboarding on the black surface .
 3242354561_54e5a34925.jpg,A blonde dog is catching a ball in its mouth in the snow .
-3242354561_54e5a34925.jpg,A brown dog is catching a ball in its mouth whilst playing in a snow covered field .
+3242354561_54e5a34925.jpg,A brown dog is catching a ball in its mouth whilst playing in a snow-covered field .
 3242354561_54e5a34925.jpg,"A dog catching an orange ball , in the snow ."
 3242354561_54e5a34925.jpg,A golden retriever catches a tennis ball in the snow .
 3242354561_54e5a34925.jpg,A tan dog catches an orange ball in the snowy yard .
@@ -23502,7 +23502,7 @@ image,caption
 3248352729_ab264b2222.jpg,a person riding a snowboard with a pink bottom
 3248352729_ab264b2222.jpg,A snowboarder is jumping over a snowy hill
 3248352729_ab264b2222.jpg,A snowboarder jumps across a snowy hill .
-3248352729_ab264b2222.jpg,A snowboarder with a pink board jumping down a snow covered hill near trees .
+3248352729_ab264b2222.jpg,A snowboarder with a pink board jumping down a snow-covered hill near trees .
 3248352729_ab264b2222.jpg,Snowboarder on a pink board flying through the air .
 3248408149_41a8dd90d3.jpg,A brown and white dog standing next to a smaller brown and white dog in front of a fence .
 3248408149_41a8dd90d3.jpg,A brown and white dog stands on the sand to look at another dog .
@@ -23617,7 +23617,7 @@ image,caption
 3251976937_20625dc2b8.jpg,A brown dog holding a huge stick in its mouth running in the snow .
 3251976937_20625dc2b8.jpg,A brown dog holding a really big stick .
 3251976937_20625dc2b8.jpg,A dog in the snow carrying a tree limb in its mouth .
-3251976937_20625dc2b8.jpg,Brown dog runs through snow with a snow covered branch in its mouth .
+3251976937_20625dc2b8.jpg,Brown dog runs through snow with a snow-covered branch in its mouth .
 3251976937_20625dc2b8.jpg,"The brown dog running in the snow is carrying a large stick , also covered with snow ."
 3252457866_b86614064c.jpg,Two brown dogs are wearing muzzles and running very fast through the grass .
 3252457866_b86614064c.jpg,Two brown dogs wearing muzzles race through a grassy field .
@@ -23671,8 +23671,8 @@ image,caption
 3255482333_5bcee79f7e.jpg,A skier wearing white sunglasses is skiing down a snowy mountain very fast .
 3255620561_7644747791.jpg,A person ski jumps off an A frame shack .
 3255620561_7644747791.jpg,A snowboarder jumps over a shed which is almost covered with snow
-3255620561_7644747791.jpg,Snow covered wooded area with a structure and a person in white top and orange pants in midair .
-3255620561_7644747791.jpg,The skier jumps over a hut in the snow covered forest .
+3255620561_7644747791.jpg,snow-covered wooded area with a structure and a person in white top and orange pants in midair .
+3255620561_7644747791.jpg,The skier jumps over a hut in the snow-covered forest .
 3255620561_7644747791.jpg,The skier wearing orange pants is jumping over the wooden roof .
 3255732353_fbc487aefc.jpg,A child in pink throwing a snowball at a child in blue .
 3255732353_fbc487aefc.jpg,A girl in pink tosses a snowball a girl wearing blue .
@@ -23689,7 +23689,7 @@ image,caption
 325576658_59f68bdbd6.jpg,A person on a blue bench under a blue blanket .
 325576658_59f68bdbd6.jpg,A person with a blue blanket on his head sits on a metal bench in an urban neighborhood .
 325576658_59f68bdbd6.jpg,The man sitting on the blue bench has a blanket covering his head .
-3256043809_47258e0b3e.jpg,a brown and white dog is sniffing the snow covered ground .
+3256043809_47258e0b3e.jpg,a brown and white dog is sniffing the snow-covered ground .
 3256043809_47258e0b3e.jpg,A brown and white dog walking in the snow near a fence .
 3256043809_47258e0b3e.jpg,A brown & white greyhound dog sniffs the snow .
 3256043809_47258e0b3e.jpg,A lean white and brown dog makes its way through a patch of snow .
@@ -23824,7 +23824,7 @@ image,caption
 3259229498_2b5708c0c6.jpg,A person standing on a stage in front of a seated crowd
 3259229498_2b5708c0c6.jpg,People are seated outdoors to see someone onstage .
 3259229498_2b5708c0c6.jpg,People are watching an outside presentation .
-3259231890_16fe167b31.jpg,A girl in black is starring off into the distance .
+3259231890_16fe167b31.jpg,A girl in black is staring off into the distance .
 3259231890_16fe167b31.jpg,A woman in a black coat with a camera on a tripod
 3259231890_16fe167b31.jpg,A woman leans against the wall while a camera operates next to her .
 3259231890_16fe167b31.jpg,A woman stands against a wall near a video camera .
@@ -23832,7 +23832,7 @@ image,caption
 3259579174_30a8a27058.jpg,A smiling boy with hat playing in the snow .
 3259579174_30a8a27058.jpg,A young child coming down a snowy hill with snow flying around him near tiretracks .
 3259579174_30a8a27058.jpg,A young child slides down a snow slope while smiling .
-3259579174_30a8a27058.jpg,Little boy sledding down a snow covered hill .
+3259579174_30a8a27058.jpg,Little boy sledding down a snow-covered hill .
 3259579174_30a8a27058.jpg,Young boy in a winter hat sliding down a snowy hill .
 3259666643_ae49524c81.jpg,A basketball player performing a lay-up .
 3259666643_ae49524c81.jpg,"A boy in a blue basketball uniform , number 13 and a boy in a white basketball uniform , number 23 jump for the ball ."
@@ -24029,7 +24029,7 @@ image,caption
 3264937930_9623496b64.jpg,A group of people climb into a hot air balloon .
 3264937930_9623496b64.jpg,A hot-air balloon getting filled .
 3264937930_9623496b64.jpg,People gathered around a hot air balloon in the process of inflating .
-3265162450_5b4e3c5f1b.jpg,Three dogs are running down a snow covered hill .
+3265162450_5b4e3c5f1b.jpg,Three dogs are running down a snow-covered hill .
 3265162450_5b4e3c5f1b.jpg,Three dogs race in the snow together .
 3265162450_5b4e3c5f1b.jpg,Three dogs running through the snow .
 3265162450_5b4e3c5f1b.jpg,Three dogs walk together across a snowy field .
@@ -24342,7 +24342,7 @@ image,caption
 3278811919_d5a3432af6.jpg,A hiker walks through the snowfield .
 3278811919_d5a3432af6.jpg,The two people carrying skis are walking in the snow .
 3278811919_d5a3432af6.jpg,Two people hike up a snowy hill .
-3278811919_d5a3432af6.jpg,Two people hiking up a snow covered mountain
+3278811919_d5a3432af6.jpg,Two people hiking up a snow-covered mountain
 3278811919_d5a3432af6.jpg,"Two skis hike uphill , through a barren , snowy landscape ."
 3279025792_23bfd21bcc.jpg,A black dog is running through the snow .
 3279025792_23bfd21bcc.jpg,A black Labrador bounds across the snow .
@@ -24583,7 +24583,7 @@ image,caption
 3288274849_07ff76ee93.jpg,A snowboarder glides down a stair rail .
 3288274849_07ff76ee93.jpg,A snowboarder goes down a short hill next to stairs .
 3288274849_07ff76ee93.jpg,A snowboarder is going down a snowy hill next to a staircase behind a building .
-3288274849_07ff76ee93.jpg,Person snowboarding on hill near snow covered stairs with buildings nearby .
+3288274849_07ff76ee93.jpg,Person snowboarding on hill near snow-covered stairs with buildings nearby .
 3288839246_fdb00395ae.jpg,A climber in a red shirt is secured by a rope as he looks down a crevasse .
 3288839246_fdb00395ae.jpg,A man is climbing a steep rock wall with a safety harness on
 3288839246_fdb00395ae.jpg,A person in a red shirt and black pants rock climbing .
@@ -24778,7 +24778,7 @@ image,caption
 3297323827_f582356478.jpg,A man in a red jacket and goggles is skiing in a flurry of snow .
 3297323827_f582356478.jpg,A snowboarder is throwing up snow as he rides his board .
 3297323827_f582356478.jpg,A snowboarder wearing orange is going down a mountain .
-3297323827_f582356478.jpg,The snowboarder crashes down the snow covered mountain .
+3297323827_f582356478.jpg,The snowboarder crashes down the snow-covered mountain .
 3298175192_bbef524ddc.jpg,A black and white dog is chewing on a camera .
 3298175192_bbef524ddc.jpg,A black and white dog rests its head on a camera .
 3298175192_bbef524ddc.jpg,A puppy plays with a camera .
@@ -24967,7 +24967,7 @@ image,caption
 3308171165_20f93d2fba.jpg,A girl waits outside a Domino 's Pizza
 3308171165_20f93d2fba.jpg,A girl wearing a hat near a Domino 's Pizza sign .
 3308171165_20f93d2fba.jpg,A girl with a purple beanie sits and waits at Domino 's Pizza .
-3308171165_20f93d2fba.jpg,A little girl in a purple hat is starring .
+3308171165_20f93d2fba.jpg,A little girl in a purple hat is staring .
 3308171165_20f93d2fba.jpg,The girl is standing outside and holding on to her necklace .
 3308488725_f91d9aba27.jpg,a boy in a blue shirt and blue jeans runs across a playground
 3308488725_f91d9aba27.jpg,A boy in blue jeans runs on the track at the local school .
@@ -25065,9 +25065,9 @@ image,caption
 3315250232_83e24a2d51.jpg,Person in dark slacks and top walking towards wooded area .
 3315250232_83e24a2d51.jpg,The little girl in blue jeans is running on the grass .
 3315323307_bd148a8964.jpg,a brown dog is walking in the snow between some pine trees .
-3315323307_bd148a8964.jpg,A brown dog walking on a snowy surface near snow covered trees .
+3315323307_bd148a8964.jpg,A brown dog walking on a snowy surface near snow-covered trees .
 3315323307_bd148a8964.jpg,A dig is trekking through snow .
-3315323307_bd148a8964.jpg,A tan dog is walking in the snow near snow covered trees .
+3315323307_bd148a8964.jpg,A tan dog is walking in the snow near snow-covered trees .
 3315323307_bd148a8964.jpg,A tan dog standing on the snow looking into the woods .
 3315353266_70f0bbb1c3.jpg,a man dressed in purple playing guitar
 3315353266_70f0bbb1c3.jpg,A man in a purple suit is standing by a purple case playing a guitar .
@@ -26066,7 +26066,7 @@ image,caption
 3351360323_91bb341350.jpg,Two musicians in white suits play guitars while surrounded by associated gear and a red curtain .
 3351370405_e417e38f52.jpg,A person on a snowboard jumps over a cliff in the snow .
 3351370405_e417e38f52.jpg,A skier flies over a cliff .
-3351370405_e417e38f52.jpg,A skier wearing red flies off the edge of a snow covered rock .
+3351370405_e417e38f52.jpg,A skier wearing red flies off the edge of a snow-covered rock .
 3351370405_e417e38f52.jpg,A snowboarder clears the air over a snow-covered cliff .
 3351370405_e417e38f52.jpg,This person is snowboarding off a hill .
 3351418768_596ef7fd6f.jpg,a family standing in a rock cave with some of their belongings in the background
@@ -26381,7 +26381,7 @@ image,caption
 3361990489_92244a58ef.jpg,The young girl is standing in a tree .
 3362049454_ea0c22e57b.jpg,A brown dog is running and looking up at the sky .
 3362049454_ea0c22e57b.jpg,A brown dog runs on brown grass .
-3362049454_ea0c22e57b.jpg,A golden colored dug prances in the grass .
+3362049454_ea0c22e57b.jpg,A golden colored dog prances in the grass .
 3362049454_ea0c22e57b.jpg,The brown dog is playing outdoors .
 3362049454_ea0c22e57b.jpg,The furry brown dog is running through the grassy area .
 3362189985_fbae8f860a.jpg,A man in a burnt red shirt carrying a shoulder bag walking along a city street .
@@ -26473,7 +26473,7 @@ image,caption
 336551609_1385ab139e.jpg,A mountain climber on a snowy plain near a mountaintop .
 336551609_1385ab139e.jpg,A person travels down a snowy path into the mountains .
 336551609_1385ab139e.jpg,"On a mountaintop a climber is seen in the distance , black figure against white snow"
-336551609_1385ab139e.jpg,Someone is walking through the snow with snow covered mountains behind them .
+336551609_1385ab139e.jpg,Someone is walking through the snow with snow-covered mountains behind them .
 336551615_a01418bc53.jpg,people with equipment climbing up a snowy mountain
 336551615_a01418bc53.jpg,People are hiking up a mountain in the snow .
 336551615_a01418bc53.jpg,Two hikers are backpacking up a snow slope .
@@ -26565,8 +26565,8 @@ image,caption
 3370085095_6abbb67c1d.jpg,Two men and a woman pose for a picture .
 3370085095_6abbb67c1d.jpg,Two men and woman posing together .
 3370308329_7f2de5bb58.jpg,A group of girls climb up a snowy hill .
-3370308329_7f2de5bb58.jpg,Four children climbing up a snow covered hill .
-3370308329_7f2de5bb58.jpg,Four kids are climbing a shallow snow covered hill while wearing winter gear .
+3370308329_7f2de5bb58.jpg,Four children climbing up a snow-covered hill .
+3370308329_7f2de5bb58.jpg,Four kids are climbing a shallow snow-covered hill while wearing winter gear .
 3370308329_7f2de5bb58.jpg,"Four kids climb a snowy hill , one struggles ."
 3370308329_7f2de5bb58.jpg,Four snowsuit clad children climb up a snowy hillside .
 3371266735_43150bce52.jpg,Four spectators watch three competition skiers pass by .
@@ -26760,7 +26760,7 @@ image,caption
 3376942201_2c45d99237.jpg,two dogs bark at a man in a chair .
 3376942201_2c45d99237.jpg,Two dogs begging a partially seen person for food at a kitchen table .
 3376972502_35e3e119cd.jpg,A man on a board with the aid of a parachute travels quickly through the snow .
-3376972502_35e3e119cd.jpg,A person parachuting down the site of a snow covered mountain .
+3376972502_35e3e119cd.jpg,A person parachuting down the site of a snow-covered mountain .
 3376972502_35e3e119cd.jpg,A person para gliding into the snowy mountains .
 3376972502_35e3e119cd.jpg,"Person with blue jacket windsailing with blue , white and orange sail over snow and rock front ."
 3376972502_35e3e119cd.jpg,This person is parachuting with skis onto a snowy hill .
@@ -26890,7 +26890,7 @@ image,caption
 3384528359_e920154177.jpg,Bird spreads wings over water .
 3384528359_e920154177.jpg,Large dark bird over the water .
 3384742888_85230c34d5.jpg,A dog plays with a toy in the grass .
-3384742888_85230c34d5.jpg,A rotweiler playfully rolls over int he grass with a toy .
+3384742888_85230c34d5.jpg,A rotweiler playfully rolls over in the grass with a toy .
 3384742888_85230c34d5.jpg,Black and tan dog playing with a toy and rolling on the grass .
 3384742888_85230c34d5.jpg,Dog chewing up ball while rolling in grass
 3384742888_85230c34d5.jpg,The dog is resting after a game of fetch .
@@ -26908,7 +26908,7 @@ image,caption
 3385956569_a849218e34.jpg,A person in a red and tan coat is snowboarding off a hill of snow .
 3385956569_a849218e34.jpg,a snowboarder in an orange jacket is airborne on a snowboard .
 3385956569_a849218e34.jpg,A snowboarder is jumping over a snowy hill
-3385956569_a849218e34.jpg,Man on a snowboard sliding in the air down a snow covered hill .
+3385956569_a849218e34.jpg,Man on a snowboard sliding in the air down a snow-covered hill .
 3386060324_b98fdfa449.jpg,A bicycler jumps a ramp outside in the dark night .
 3386060324_b98fdfa449.jpg,A man is sitting on a bike in the middle of the woods .
 3386060324_b98fdfa449.jpg,A person doing a trick on a bike
@@ -26927,7 +26927,7 @@ image,caption
 3386953179_84c2d7922f.jpg,A skier makes the only path on an empty mountain .
 3386953179_84c2d7922f.jpg,A snowboarder in a red jacket slides down a snowy mountain .
 3386953179_84c2d7922f.jpg,A snowboarder wearing a red jacket is going down a mountain .
-3386953179_84c2d7922f.jpg,a snowboarder wearing red is descending a snow covered mountain .
+3386953179_84c2d7922f.jpg,a snowboarder wearing red is descending a snow-covered mountain .
 3386953179_84c2d7922f.jpg,Skier in red skiing down a snowy mountain .
 3387542157_81bfd00072.jpg,"A dark-haired young woman , number 528 , wearing red and white , is preparing to throw a shot put ."
 3387542157_81bfd00072.jpg,A girl is curling in a competition .
@@ -26971,7 +26971,7 @@ image,caption
 3389448506_7025e7cc12.jpg,The dog plays in the park .
 3391209042_d2de8a8978.jpg,"Two figures stand in a snowy setting wearing white and hot pink outfits , gazing towards a mountain ."
 3391209042_d2de8a8978.jpg,Two people dressed in white ropes and pink gloves look at the mountain .
-3391209042_d2de8a8978.jpg,Two people dressed up in white sheets and pink gloves stare at a snow covered glacier off in the distance .
+3391209042_d2de8a8978.jpg,Two people dressed up in white sheets and pink gloves stare at a snow-covered glacier off in the distance .
 3391209042_d2de8a8978.jpg,Two people in white robes look at a snowy mountain .
 3391209042_d2de8a8978.jpg,Two people wearing white and pink plastic gesture at a mountain in the distance .
 3391924827_53b31542ce.jpg,A biker flies through the air near sand dunes .
@@ -27299,7 +27299,7 @@ image,caption
 3404870997_7b0cd755de.jpg,A guy on a skateboard performs a trick in front of a crowd .
 3404870997_7b0cd755de.jpg,Group of people watching a skateboarder do tricks at a skate park .
 3404870997_7b0cd755de.jpg,People are watching a boy on a skateboard at the top of a skate ramp .
-3404906655_bc51c69c1e.jpg,A man in a blue jacket riding a dog sled over a snow covered plain .
+3404906655_bc51c69c1e.jpg,A man in a blue jacket riding a dog sled over a snow-covered plain .
 3404906655_bc51c69c1e.jpg,A man on a sled is pulled through the snow by his dogs .
 3404906655_bc51c69c1e.jpg,A team of dogs is pulling a dog sled .
 3404906655_bc51c69c1e.jpg,A team of dogs pulling a man on a sled .
@@ -27311,8 +27311,8 @@ image,caption
 3404978479_8a81843e17.jpg,The young redheaded girl plays on the teeter totter .
 3405011838_f81117c99f.jpg,A crowd of people are enjoying a meal with a view of a mountaintop .
 3405011838_f81117c99f.jpg,A group of people sit outside a restaurant at a ski lodge .
-3405011838_f81117c99f.jpg,A large group of people with snow covered mountains in the background .
-3405011838_f81117c99f.jpg,many people are sitting at wooden tables overlooking snow covered mountains .
+3405011838_f81117c99f.jpg,A large group of people with snow-covered mountains in the background .
+3405011838_f81117c99f.jpg,many people are sitting at wooden tables overlooking snow-covered mountains .
 3405011838_f81117c99f.jpg,People dine outdoors at a lodge on a snowy mountain .
 3405100926_e96308ce89.jpg,A group of men in green shirts and black pants holding hands
 3405100926_e96308ce89.jpg,Black people dancing in a Boston square .
@@ -27364,7 +27364,7 @@ image,caption
 3406930103_4db7b4dde0.jpg,A golden dog looks alert as he stands in snow .
 3406930103_4db7b4dde0.jpg,A yellow dog in the snow .
 3406930103_4db7b4dde0.jpg,There is a medium sized tan colored dog out in the snow .
-3407317539_68765a3375.jpg,A black and white dog is running across a snow covered field .
+3407317539_68765a3375.jpg,A black and white dog is running across a snow-covered field .
 3407317539_68765a3375.jpg,A black and white dog is running through a snowy field .
 3407317539_68765a3375.jpg,A dog running in snow .
 3407317539_68765a3375.jpg,A dog runs on a snowy field .
@@ -27967,7 +27967,7 @@ image,caption
 3429194423_98e911a101.jpg,A man doing a trick on skis .
 3429194423_98e911a101.jpg,A man makes an X with his skis as he jumps .
 3429194423_98e911a101.jpg,A skier in a plaid jacket flies through the air against a dark blue sky .
-3429194423_98e911a101.jpg,Person in dark pants and print top on ski 's in the air over snow covered ground .
+3429194423_98e911a101.jpg,Person in dark pants and print top on ski 's in the air over snow-covered ground .
 3429194423_98e911a101.jpg,The person is jumping through the air on skis .
 3429351222_17ae744daf.jpg,A man and a woman walk at a flea market .
 3429351222_17ae744daf.jpg,An asian couple walks through a market .
@@ -28305,7 +28305,7 @@ image,caption
 3440724965_03d6ca5399.jpg,A man wearing a suit scratches the back of his head at a meeting .
 3440724965_03d6ca5399.jpg,a picture taken from the back of osme kind of large meetinghall .
 344078103_4b23931ce5.jpg,Two black dogs in the snow
-344078103_4b23931ce5.jpg,"Two black dogs on a snow covered ground , the ground appears blue in the background , one dog is jumping with feet off the ground ."
+344078103_4b23931ce5.jpg,"Two black dogs on a snow-covered ground , the ground appears blue in the background , one dog is jumping with feet off the ground ."
 344078103_4b23931ce5.jpg,Two black dogs playing in the snow .
 344078103_4b23931ce5.jpg,Two black dogs play in snow .
 344078103_4b23931ce5.jpg,Two dogs run through the snow .
@@ -28565,7 +28565,7 @@ image,caption
 3452411712_5b42d2a1b5.jpg,A child pushes another child on a swing .
 3452411712_5b42d2a1b5.jpg,The boy is pushing a girl on a swing outside .
 345284642_77dded0907.jpg,A black dog is moving through a snowy field with an object in their mouth .
-345284642_77dded0907.jpg,A black dog is running through a snow covered area while holding something green in his mouth .
+345284642_77dded0907.jpg,A black dog is running through a snow-covered area while holding something green in his mouth .
 345284642_77dded0907.jpg,A black dog with a stuffed animal in its mouth is running and jumping through a snowy field .
 345284642_77dded0907.jpg,A brown dog holding an object in its mouth is moving through snow-covered tall grass outdoors .
 345284642_77dded0907.jpg,A dog carreis an object through the snowy grass .
@@ -28663,7 +28663,7 @@ image,caption
 3456251289_c4ae31d817.jpg,A person flies through the air while riding an off-road vehicle on a dirt road .
 3456251289_c4ae31d817.jpg,A person riding a four wheel ATV over a jump .
 3456251289_c4ae31d817.jpg,a quad launches from a dirt jump .
-3456251289_c4ae31d817.jpg,Person on four wheeler does a midair stunt .
+3456251289_c4ae31d817.jpg,Person on four-wheeler does a midair stunt .
 3456362961_d8f7e347a8.jpg,A barefoot child climbs at the jungle gym .
 3456362961_d8f7e347a8.jpg,A little girl climbs up a rock climbing jungle gym at a park .
 3456362961_d8f7e347a8.jpg,A young child climbing a rock wall at a playground .
@@ -29834,8 +29834,8 @@ image,caption
 3501781809_88429e3b83.jpg,A man on bike is jumping an obstacle with a crowd in the background .
 3501781809_88429e3b83.jpg,A man wearing a helmet is on a bicycle in the air while people in the background watch him .
 3501781809_88429e3b83.jpg,Boy jumping over rail on bicycle while crowd watches
-3501936223_6122a13d27.jpg,A person skiing down a very large snow covered mountain .
-3501936223_6122a13d27.jpg,A skier is going down a huge snow covered slope .
+3501936223_6122a13d27.jpg,A person skiing down a very large snow-covered mountain .
+3501936223_6122a13d27.jpg,A skier is going down a huge snow-covered slope .
 3501936223_6122a13d27.jpg,A skier skiing down a large mountain
 3501936223_6122a13d27.jpg,"The man is skiing down the steep , snowy white mountain with clouds in the background ."
 3501936223_6122a13d27.jpg,The skier is going down a large mountain .
@@ -31111,7 +31111,7 @@ image,caption
 354999632_915ea81e53.jpg,There is something visible through the hole in the wall .
 3549997413_01388dece0.jpg,A man is skiing down a mountain with another large mountain behind him and a river between the mountains .
 3549997413_01388dece0.jpg,A man is skiing down a snowy hill with a large mountain in the background .
-3549997413_01388dece0.jpg,A man skiing down a snow covered mountain .
+3549997413_01388dece0.jpg,A man skiing down a snow-covered mountain .
 3549997413_01388dece0.jpg,A person skis down a snowy mountain .
 3549997413_01388dece0.jpg,A skier goes down a hill with a mountain as a backdrop .
 3550253365_27d4c303cf.jpg,A group of people sit on a rocky ledge with a scenic view behind them .
@@ -31249,8 +31249,8 @@ image,caption
 3556571710_19cee6f5bd.jpg,"This is a picture of three young men , dressed in suits with one on a bike , and of a young lady wearing a white dress ."
 3556571710_19cee6f5bd.jpg,Three boys in suits and sashes and a girl in a dress in sash in a field .
 3556571710_19cee6f5bd.jpg,Three smartly dressed man and woman are standing beside a bicycle on the grass .
-3556598205_86c180769d.jpg,A dirt biker aggitates dirt on a four wheeler .
-3556598205_86c180769d.jpg,A man is riding a four wheeler through some dirt .
+3556598205_86c180769d.jpg,A dirt biker aggitates dirt on a four-wheeler .
+3556598205_86c180769d.jpg,A man is riding a four-wheeler through some dirt .
 3556598205_86c180769d.jpg,A person drives an ATV through mud .
 3556598205_86c180769d.jpg,"A person on an all-terrain vehicle , sending up clouds of dust ."
 3556598205_86c180769d.jpg,A quad sends dirt flying into the air .
@@ -31289,7 +31289,7 @@ image,caption
 3558370311_5734a15890.jpg,A man in midair doing a bicycle stunt on a half pipe .
 3558370311_5734a15890.jpg,A person jumping a ramp with three people in the background .
 3558370311_5734a15890.jpg,The biker does a trick in the air .
-3558438174_d8f41438a4.jpg,Two ladies in skimpy clothes pose next to an old fashioned car .
+3558438174_d8f41438a4.jpg,Two ladies in skimpy clothes pose next to an old-fashioned car .
 3558438174_d8f41438a4.jpg,two scantily clad girls holding checkered flags standing on each side of a classic red car .
 3558438174_d8f41438a4.jpg,Two spokesmodels in front of a hotrod .
 3558438174_d8f41438a4.jpg,Two women holding checkered flags near an orange car .
@@ -31913,7 +31913,7 @@ image,caption
 3583516290_1c87a13770.jpg,A group of people dressed in festive outfits is gathered outside building .
 3583516290_1c87a13770.jpg,many woman wearing yellow stand in the street .
 3583516290_1c87a13770.jpg,People dressed in bright costumes of white and yellow feathers
-3583516290_1c87a13770.jpg,People wearing colorful costumes and headresses march through the streets .
+3583516290_1c87a13770.jpg,People wearing colorful costumes and headdresses march through the streets .
 3583704941_611353857e.jpg,A horse jockey is riding on a course .
 3583704941_611353857e.jpg,A woman on a horse .
 3583704941_611353857e.jpg,A woman on a racing horse .
@@ -32155,7 +32155,7 @@ image,caption
 3591462960_86045906bd.jpg,man getting thrown in the air while bull riding
 3591462960_86045906bd.jpg,The man in black is flying off the full in front of a red fence .
 359173181_a75c950aeb.jpg,A dog leaps through a snowy field .
-359173181_a75c950aeb.jpg,"A dog runs through snow covered ground , near a tree ."
+359173181_a75c950aeb.jpg,"A dog runs through snow-covered ground , near a tree ."
 359173181_a75c950aeb.jpg,A dog runs through snow with a big tree in the distance .
 359173181_a75c950aeb.jpg,Dog races through grass by lone tree .
 359173181_a75c950aeb.jpg,"The brown , furry animal is walking in the snowy grass with a tree behind him ."
@@ -32719,11 +32719,11 @@ image,caption
 3614595423_f9e0ab4fb0.jpg,Children posing in a tree
 3614595423_f9e0ab4fb0.jpg,Eight tan children making faces in a tree
 3614595423_f9e0ab4fb0.jpg,"Several children are in a tree , laughing and with their hands on their chins ."
-3614881872_ccf9739b0e.jpg,a lone snowboarder jumping in midair with a snow covered mine in the background
+3614881872_ccf9739b0e.jpg,a lone snowboarder jumping in midair with a snow-covered mine in the background
 3614881872_ccf9739b0e.jpg,A man in orange pants is climbing on something .
 3614881872_ccf9739b0e.jpg,"A snowboarder jumps off an old , snow-covered building ."
 3614881872_ccf9739b0e.jpg,Someone is ski-ing off the top of some type of building .
-3614881872_ccf9739b0e.jpg,The snowboarder is jumping from a snow covered height .
+3614881872_ccf9739b0e.jpg,The snowboarder is jumping from a snow-covered height .
 3615239961_62b4dbc174.jpg,"A man sits on a deck , taking a break from fishing ."
 3615239961_62b4dbc174.jpg,"A man sits on the edge of a brige , looking out , fishing poles behind him ."
 3615239961_62b4dbc174.jpg,A man sits on the edge of a wooden bench with two fishing poles behind him .
@@ -34951,7 +34951,7 @@ image,caption
 3713922357_e0a013fb97.jpg,The guy in red on a dirt bike is getting photographed .
 3714551959_66ece78f27.jpg,A man dressed in green snowboarding on a bench .
 3714551959_66ece78f27.jpg,A person in a green and white jacket and green pants is practicing on his snowboard .
-3714551959_66ece78f27.jpg,A person in green pants on a snowboard above the snow covered ground .
+3714551959_66ece78f27.jpg,A person in green pants on a snowboard above the snow-covered ground .
 3714551959_66ece78f27.jpg,A snowboarder in green is balancing on a wodden bench .
 3714551959_66ece78f27.jpg,Someone in green pants is standing on a snowboard .
 371522748_dc557bcd6c.jpg,A blonde boy is holding a blue umbrella .
@@ -35127,7 +35127,7 @@ image,caption
 3725177385_62d5e13634.jpg,A bunch of vintage cars are parked in a lot .
 3725177385_62d5e13634.jpg,An antique car that is yellow is shown lined up with other cars .
 3725177385_62d5e13634.jpg,People admire classic cars .
-3725177385_62d5e13634.jpg,Several old fashioned cars are parked together .
+3725177385_62d5e13634.jpg,Several old-fashioned cars are parked together .
 3725177385_62d5e13634.jpg,Some old people admiring classic cars park in front of them .
 3725202807_12fbfdd207.jpg,A couple in a parking lot .
 3725202807_12fbfdd207.jpg,A couple walks past a car in a parking lot .
@@ -35564,11 +35564,11 @@ image,caption
 385835044_4aa11f6990.jpg,"A woman in black and red listens to an Ipod , walks down the street"
 385835044_4aa11f6990.jpg,A woman wearing headphones is walking past a road cone .
 385835044_4aa11f6990.jpg,A woman wearing headphones walks down the street .
-386160015_d4b31df68e.jpg,A brown dog playing play wrestling with a black dog on snow covered land .
+386160015_d4b31df68e.jpg,A brown dog playing play wrestling with a black dog on snow-covered land .
 386160015_d4b31df68e.jpg,The two dogs are fighting outside in the snow .
 386160015_d4b31df68e.jpg,Two brown dogs playing in snow
-386160015_d4b31df68e.jpg,two dogs are wrestling in a snow covered field .
-386160015_d4b31df68e.jpg,Two dogs playing on snow covered ground
+386160015_d4b31df68e.jpg,two dogs are wrestling in a snow-covered field .
+386160015_d4b31df68e.jpg,Two dogs playing on snow-covered ground
 386470686_1ae9242878.jpg,A man crouched in the bare branches of a fallen tree .
 386470686_1ae9242878.jpg,A man in a white shirt and khaki pants crouches on a fallen tree trunk .
 386470686_1ae9242878.jpg,"A man in tan capris , brown sandals , and a white t-shirt , crouches on the trunk of a tree ."
@@ -35576,7 +35576,7 @@ image,caption
 386470686_1ae9242878.jpg,A man sitting in the middle of branches on a fallen tree .
 386655611_1329495f97.jpg,A black dog carries a huge stick in its mouth .
 386655611_1329495f97.jpg,A black dog is carrying a huge stick whilst walking in the snow .
-386655611_1329495f97.jpg,"A dog carries a huge , snow covered stick ."
+386655611_1329495f97.jpg,"A dog carries a huge , snow-covered stick ."
 386655611_1329495f97.jpg,A dog carries a very large tree branch in the snow .
 386655611_1329495f97.jpg,The brown and white dog carries a very large stick across the snow .
 386656845_4e77c3e3da.jpg,A black dog and a brown dog are standing next to each other in the snow .
@@ -35620,7 +35620,7 @@ image,caption
 390671130_09fdccd52f.jpg,"Brown and white dog with baseball in mouth , field and building ."
 390671130_09fdccd52f.jpg,brown and white dog with a baseball in its mouth .
 390986651_c801db91a0.jpg,A person peaks their head out of a tent set up in a snowy field .
-390986651_c801db91a0.jpg,A woman emerges from her snow covered tent .
+390986651_c801db91a0.jpg,A woman emerges from her snow-covered tent .
 390986651_c801db91a0.jpg,a woman sticking her head out of her tent on the side of a snowy moutnain .
 390986651_c801db91a0.jpg,A woman wearing glasses and a hat pokes her head through the door of a tent on a snowy day .
 390986651_c801db91a0.jpg,The camper opens up to see snow all around .
@@ -35628,11 +35628,11 @@ image,caption
 390987167_2d5905b459.jpg,A woman in a tank and sunglasses climbs a sunny but snow-covered slope .
 390987167_2d5905b459.jpg,A woman wearing a black hat and white sunglasses walks up a snowy and steep path .
 390987167_2d5905b459.jpg,A woman wearing short sleeves and sunglasses is backpacking up a snowy mountain cliff .
-390987167_2d5905b459.jpg,Woman climbing a snow covered mountain looking at people behind her .
+390987167_2d5905b459.jpg,Woman climbing a snow-covered mountain looking at people behind her .
 390992102_67fa31b22f.jpg,A hiker climbs a mountain on a windy day .
 390992102_67fa31b22f.jpg,a man walking up a mountain with snow on the surface
-390992102_67fa31b22f.jpg,A person hikes across a grass and snow covered plain
-390992102_67fa31b22f.jpg,Person walking across a snow covered mountain .
+390992102_67fa31b22f.jpg,A person hikes across a grass and snow-covered plain
+390992102_67fa31b22f.jpg,Person walking across a snow-covered mountain .
 390992102_67fa31b22f.jpg,The man carries a large backpack while hiking through snow-covered terrain .
 390992388_d74daee638.jpg,A girl treks through the snow with her backpack on .
 390992388_d74daee638.jpg,A hiker is climbing up a snowy mountain .
@@ -35833,7 +35833,7 @@ image,caption
 404702274_fa8b3fe378.jpg,A brown and white dog jumps in the air to catch a snowball .
 404702274_fa8b3fe378.jpg,A dog jumps up and tries to catch a lump of snow .
 404702274_fa8b3fe378.jpg,Dog jumping to catch falling snow out in the woods .
-404702274_fa8b3fe378.jpg,"The white and brown dog leaps into the air , above snow covered ground ."
+404702274_fa8b3fe378.jpg,"The white and brown dog leaps into the air , above snow-covered ground ."
 404850242_3a55a4c874.jpg,An asian lady in a red jacket taking a photo
 404850242_3a55a4c874.jpg,An Asian woman is taking a photograph outside a white columned building .
 404850242_3a55a4c874.jpg,An older dark haired woman is taking a picture
@@ -36151,7 +36151,7 @@ image,caption
 422756764_e7eaac76bf.jpg,a small dog with a blue color fetching a yellow ball
 422763475_0bc814dac6.jpg,A boy drags his sled through the snow .
 422763475_0bc814dac6.jpg,"A boy in a blue jacket , carrying a red sled , running away , followed by a small dog"
-422763475_0bc814dac6.jpg,A child running with a snowboard on a snow covered surface .
+422763475_0bc814dac6.jpg,A child running with a snowboard on a snow-covered surface .
 422763475_0bc814dac6.jpg,A child wearing a blue coat runs along the snow while a small dog follows .
 422763475_0bc814dac6.jpg,A young boy plays with his dog in the snow .
 423066487_07757b2b49.jpg,A gyro chef in a white jacket and cap looking at gyro meat .
@@ -36358,7 +36358,7 @@ image,caption
 433810429_a4da0eac50.jpg,three men hike in the snow .
 433810429_a4da0eac50.jpg,Three people backpacking across a large snowy and rocky field .
 433810429_a4da0eac50.jpg,Three people walking across an icy hill .
-433810429_a4da0eac50.jpg,Three people walk on a snow covered wasteland .
+433810429_a4da0eac50.jpg,Three people walk on a snow-covered wasteland .
 433855742_c2a6fda763.jpg,A dog jumps a man 's leg to take a Frisbee from his hand .
 433855742_c2a6fda763.jpg,a dog jumps for the Frisbee the girl is holding .
 433855742_c2a6fda763.jpg,A person in a black coat playing Frisbee with a dog near a wooded area .
@@ -36787,7 +36787,7 @@ image,caption
 459284240_5a4167bf92.jpg,A toddler starting at a clown walking down a snowy sidewalk .
 459284240_5a4167bf92.jpg,Several people including a child and a clown are walking towards a snowy sidewalk
 459284240_5a4167bf92.jpg,Three adults and a toddler stand on a snowy path .
-459284240_5a4167bf92.jpg,Three adults and one child are walking along a paved path that is snow covered .
+459284240_5a4167bf92.jpg,Three adults and one child are walking along a paved path that is snow-covered .
 459284240_5a4167bf92.jpg,"Two adults , a child , and a clown walking down a sidewalk ."
 459778335_857d8ffebf.jpg,A father with his two kids at the ocean with the young boy flying up in the air .
 459778335_857d8ffebf.jpg,A little boy jumps from his fathers arms on the beach .
@@ -37127,7 +37127,7 @@ image,caption
 478209058_21e2c37c73.jpg,"A man in red climbs a rock in a field of snow , cliffs , and fallen boulders ."
 478209058_21e2c37c73.jpg,"A man is rock climbing up a snowy , rocky mountain ."
 478209058_21e2c37c73.jpg,A man wearing a red shirt scales a rock in a boulder field .
-478209058_21e2c37c73.jpg,A person climbing a large rock with many snow covered rocks in the background .
+478209058_21e2c37c73.jpg,A person climbing a large rock with many snow-covered rocks in the background .
 478209058_21e2c37c73.jpg,The person with the red long sleeved shirt is climbing a rock in the snow .
 478592803_f57cc9c461.jpg,"The backs of two Asian girls , wearing red tops and holding red flags ."
 478592803_f57cc9c461.jpg,Two Asian girls dressed in red are standing at a busy pedestrian crossing .
@@ -37654,7 +37654,7 @@ image,caption
 501520507_c86f805ab8.jpg,People in a shop under a tent .
 501520507_c86f805ab8.jpg,Several people inspecting the merchandise displayed in this tent .
 501520507_c86f805ab8.jpg,"There is a man wearing a red shirt , white shorts , red shoes , white socks and has long braided hair ."
-501650847_b0beba926c.jpg,A brown dog starring at a soccer ball .
+501650847_b0beba926c.jpg,A brown dog staring at a soccer ball .
 501650847_b0beba926c.jpg,A man holding out a deflated soccer ball to a grey dog .
 501650847_b0beba926c.jpg,Large gray dog being handed a white soccer ball .
 501650847_b0beba926c.jpg,someone is holding out a punctured ball in front of a brown dog with a red collar .
@@ -38512,7 +38512,7 @@ image,caption
 540338917_57069687be.jpg,A man in a gray shirt and black shorts poses in front of a mountain .
 540338917_57069687be.jpg,A man in a grey t-shirt standing in front of a snow-covered mountain .
 540338917_57069687be.jpg,A man poses near a mountain .
-540338917_57069687be.jpg,A man wearing black shorts is standing in front of a snow covered mountain .
+540338917_57069687be.jpg,A man wearing black shorts is standing in front of a snow-covered mountain .
 540338917_57069687be.jpg,A man wearing glasses stands in front of a snowy mountain .
 540604040_bec822c144.jpg,A girl sliding down a pole
 540604040_bec822c144.jpg,A small child with a ponytail dressed in jean shorts and a pink and brown shirt climbs on a pole near wooden playground equipment .
@@ -38536,7 +38536,7 @@ image,caption
 541046380_513e295384.jpg,Two young girls play together in a mall .
 541063419_a5f3672d59.jpg,A male hiker sits perched on a high rock in the mountains .
 541063419_a5f3672d59.jpg,A man is sitting on a rock high up in the mountains .
-541063419_a5f3672d59.jpg,A man is sitting on top of a snow covered mountaintop .
+541063419_a5f3672d59.jpg,A man is sitting on top of a snow-covered mountaintop .
 541063419_a5f3672d59.jpg,A man sits on a rock near mountains .
 541063419_a5f3672d59.jpg,A man wearing sunglasses is sitting on top of some jagged rocks with mountains in the background .
 541063517_35044c554a.jpg,a man enjoying the view from top of a mountain
@@ -38674,7 +38674,7 @@ image,caption
 554526471_a31f8b74ef.jpg,A woman is leading an exercise group on the seashore .
 554526471_a31f8b74ef.jpg,many people exercising in the ocean
 554526471_a31f8b74ef.jpg,The ladies do water aerobics on the beach .
-55470226_52ff517151.jpg,A climber stops to take a drink while climbing a snow covered mountain .
+55470226_52ff517151.jpg,A climber stops to take a drink while climbing a snow-covered mountain .
 55470226_52ff517151.jpg,A man holding a cup on a snow mountain .
 55470226_52ff517151.jpg,A man in a yellow suit is holding up a cup while standing in snow .
 55470226_52ff517151.jpg,A mountain climber stops for a drink .
@@ -38812,7 +38812,7 @@ image,caption
 57417274_d55d34e93e.jpg,A few people sit together on the snowy mountaintop .
 57417274_d55d34e93e.jpg,A group of climbers rest on a summit that overlooks another mountain range .
 57417274_d55d34e93e.jpg,A group of mountain climbers rests at the summit .
-57417274_d55d34e93e.jpg,A group of people sitting on top of rocks with snow covered mountains on both sides of them .
+57417274_d55d34e93e.jpg,A group of people sitting on top of rocks with snow-covered mountains on both sides of them .
 57417274_d55d34e93e.jpg,People are sitting on a snowy mountain .
 57422853_b5f6366081.jpg,A hiker in a tent on a mountain .
 57422853_b5f6366081.jpg,A hiker pokes his head out of a tent high in the mountains .
@@ -38892,8 +38892,8 @@ image,caption
 58363930_0544844edd.jpg,A hiker treks up the snowy mountain .
 58363930_0544844edd.jpg,A man climbing a snowy mountain .
 58363930_0544844edd.jpg,A man skiing in the mountains
-58363930_0544844edd.jpg,A mountaineer is ascending a snow covered trail whilst attached to a rope .
-58363930_0544844edd.jpg,A person in a blue hat climbing up a snow covered mountain .
+58363930_0544844edd.jpg,A mountaineer is ascending a snow-covered trail whilst attached to a rope .
+58363930_0544844edd.jpg,A person in a blue hat climbing up a snow-covered mountain .
 58368365_03ed3e5bdf.jpg,A man is standing on top of a mountain gazing at the sunset .
 58368365_03ed3e5bdf.jpg,A man is standing on top of a rock or mountain watching the sunset .
 58368365_03ed3e5bdf.jpg,A man 's sillouhette at sunset .
@@ -38950,7 +38950,7 @@ image,caption
 611910909_4f8e43e070.jpg,a young girl looking down through some leaves from atop a tree .
 611910909_4f8e43e070.jpg,The young girl happily plays in the tree .
 61209225_8512e1dad5.jpg,A civil war reenactment with cannon teams firing cannons .
-61209225_8512e1dad5.jpg,A Group of men firing an old fashion cannon .
+61209225_8512e1dad5.jpg,A Group of men firing an old-fashion cannon .
 61209225_8512e1dad5.jpg,A recreation of some battle .
 61209225_8512e1dad5.jpg,sveral men participating in a civil war reenactment
 61209225_8512e1dad5.jpg,War reenactors fire a cannon .
@@ -39647,7 +39647,7 @@ image,caption
 795081510_53fd17d101.jpg,"A couple hold each other , standing on a ferry , looking out at a ferry ."
 795081510_53fd17d101.jpg,A couple standing on the deck of a boat watching the water .
 795081510_53fd17d101.jpg,A man embraces a woman as they look over the railing out over the water at a ship .
-795081510_53fd17d101.jpg,Couple overlooking a metal rail with water and a boat int he background .
+795081510_53fd17d101.jpg,Couple overlooking a metal rail with water and a boat in the background .
 795081510_53fd17d101.jpg,The couple is together looking at the large ship in the ocean .
 798343627_7492fe0c12.jpg,A girl is blowing a huge bubble .
 798343627_7492fe0c12.jpg,A young girl wearing glasses and an orange t-shirt blows a large clear bubble .
@@ -40208,7 +40208,7 @@ image,caption
 95151149_5ca6747df6.jpg,A mountainous photo is complete with a blue sky .
 95151149_5ca6747df6.jpg,A snowy mountain range .
 95151149_5ca6747df6.jpg,Rocky mountains .
-95151149_5ca6747df6.jpg,Snow covered peaks .
+95151149_5ca6747df6.jpg,snow-covered peaks .
 952171414_2db16f846f.jpg,a group of four people conversing next to a bus
 952171414_2db16f846f.jpg,Four people taking in front of a bus .
 952171414_2db16f846f.jpg,Four teenagers standing next to a bus and talking and laughing .
@@ -40241,10 +40241,10 @@ image,caption
 95728660_d47de66544.jpg,man riding bike on trail
 95728664_06c43b90f1.jpg,A couple of men sit by a large stone slab with mountains in the background .
 95728664_06c43b90f1.jpg,Two men rest near a mountain range .
-95728664_06c43b90f1.jpg,Two men sit against a stone monument among snow covered peaks .
+95728664_06c43b90f1.jpg,Two men sit against a stone monument among snow-covered peaks .
 95728664_06c43b90f1.jpg,two men sit at a encripted stone in the mountains .
 95728664_06c43b90f1.jpg,Two men sitting next to a tall stone .
-95734035_84732a92c1.jpg,There are two men riding bicycles outside in the snow covered countryside .
+95734035_84732a92c1.jpg,There are two men riding bicycles outside in the snow-covered countryside .
 95734035_84732a92c1.jpg,The two men and their bikes are on the side of a snowy road .
 95734035_84732a92c1.jpg,two men on bicycles on the side of a snowpacked road in the country
 95734035_84732a92c1.jpg,Two men stop on a snow-covered hill with their bicycles .
@@ -40372,14 +40372,14 @@ image,caption
 97577988_65e2eae14a.jpg,A man mountain climbing up an icy mountain .
 97577988_65e2eae14a.jpg,An climber is ascending an ice covered rock face .
 97577988_65e2eae14a.jpg,A person in orange climbs a sheer cliff face covered in snow and ice .
-97577988_65e2eae14a.jpg,Person in a yellow jacket is climbing up snow covered rocks .
+97577988_65e2eae14a.jpg,Person in a yellow jacket is climbing up snow-covered rocks .
 97577988_65e2eae14a.jpg,There is a climber scaling a snowy mountainside .
 976392326_082dafc3c5.jpg,A woman and a little girl sit on desert rock .
 976392326_082dafc3c5.jpg,A young girl and older person are sitting near the top of a rock formation .
 976392326_082dafc3c5.jpg,two girls sit on a large rock .
 976392326_082dafc3c5.jpg,Two people are sitting on a huge rock formation .
 976392326_082dafc3c5.jpg,Two people sit in the distance on an unusual rock formation .
-97731718_eb7ba71fd3.jpg,A cart containig two men being pulled by horses in the rain .
+97731718_eb7ba71fd3.jpg,A cart containing two men being pulled by horses in the rain .
 97731718_eb7ba71fd3.jpg,a horse driven carriage running through a rainstorm .
 97731718_eb7ba71fd3.jpg,Black and white horses carry a cart with people through the rain .
 97731718_eb7ba71fd3.jpg,People enjoy a horse draw open carriage in the rain .
