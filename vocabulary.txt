@@ -781,7 +781,7 @@ quad
 harvested
 cornfield
 happy
-od
+od /10
 playfully
 soccer
 tucked
@@ -833,7 +833,7 @@ sprays
 frog
 public
 wood
-barrior
+barrio /9
 animal
 bird
 seeds
@@ -845,7 +845,7 @@ guided
 laughs
 playful
 beige
-torwards
+torwards /11
 outdoor
 handstand
 does
@@ -1017,7 +1017,7 @@ trumpet
 marching
 band
 teenager
-trumped
+trumped  /12
 starbucks
 samples
 fair
@@ -2780,7 +2780,7 @@ ropeswinging
 bend
 squat
 carry
-laborador
+laborador \13
 waring
 adorn
 angle
