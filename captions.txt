@@ -158,7 +158,7 @@ image,caption
 104136873_5b5d41be75.jpg,Three people are on a hilltop overlooking a green valley .
 104136873_5b5d41be75.jpg,Three people hang out on top of a big hill .
 104136873_5b5d41be75.jpg,Three people overlook a green valley .
-104136873_5b5d41be75.jpg,Three people rest on a ledge above the moutains .
+104136873_5b5d41be75.jpg,Three people rest on a ledge above the mountains .
 1042020065_fb3d3ba5ba.jpg,A boy in a green shirt is looking down at many inflatable boats .
 1042020065_fb3d3ba5ba.jpg,A boy in a green shirt watches kayakers .
 1042020065_fb3d3ba5ba.jpg,A boy looks over a railing at the many boats and rafts below in the water .
@@ -1771,7 +1771,7 @@ image,caption
 136644885_f7d2bbf546.jpg,three people are crossing a rope bridge hung between pine trees .
 1368338041_6b4077ca98.jpg,Three dogs looking at a cement ledge .
 1368338041_6b4077ca98.jpg,Three dogs on a sidewalk .
-1368338041_6b4077ca98.jpg,Three small dogs sniff at somthing .
+1368338041_6b4077ca98.jpg,Three small dogs sniff at something .
 1368338041_6b4077ca98.jpg,"Three small dogs , two white and one black and white , on a sidewalk ."
 1368338041_6b4077ca98.jpg,Two white dogs look at one black dog on a paved walkway .
 1368383637_614646cc4a.jpg,People stand in corridor looking from balcony as another person walks dog
@@ -6478,7 +6478,7 @@ image,caption
 2242863004_3a9f82a31f.jpg,A dog with a red ball .
 2242863004_3a9f82a31f.jpg,A German shepherd is playing with a red ball .
 2242863004_3a9f82a31f.jpg,A German Shepherd is playing with a red ball .
-2242863004_3a9f82a31f.jpg,a German Sheppard dog bting a large red ball
+2242863004_3a9f82a31f.jpg,a German Sheppard dog biting a large red ball
 224369028_b1ac40d1fa.jpg,A little blonde girl is standing in front of a water fountain .
 224369028_b1ac40d1fa.jpg,a young blond girl standing in front of a large fenced in fountain
 224369028_b1ac40d1fa.jpg,A young girl standing in front of a fountain
@@ -6512,8 +6512,8 @@ image,caption
 2245348304_08bc5642f1.jpg,A man in a hat sits outside near some cardboard boxes .
 2245348304_08bc5642f1.jpg,a man plays his guitar on the street .
 2245348304_08bc5642f1.jpg,A man sits on a box and plays a guitar in the street .
-2245348304_08bc5642f1.jpg,A man sits ourdoors next to cardboard boxes and plays an instrument .
-2245348304_08bc5642f1.jpg,An older musician perfoms on the street behind a cardboard box .
+2245348304_08bc5642f1.jpg,A man sits outdoors next to cardboard boxes and plays an instrument .
+2245348304_08bc5642f1.jpg,An older musician performs on the street behind a cardboard box .
 2245618207_fa486ba2b7.jpg,A child in red jumps on a red object while others laugh .
 2245618207_fa486ba2b7.jpg,"A child touching a red plastic object , with a crowd behind him ."
 2245618207_fa486ba2b7.jpg,A girl in a crowd laughs and climbs on something .
@@ -6561,7 +6561,7 @@ image,caption
 224766705_b77996527f.jpg,Several off-road vehicles are driving down a gravel road .
 2247889670_413db8094b.jpg,A man and a dog running across shallow water on a beach .
 2247889670_413db8094b.jpg,A man and his dog walk on the ice of a frozen pond .
-2247889670_413db8094b.jpg,A man dressed in winter clothes is on the beach wiht a dog .
+2247889670_413db8094b.jpg,A man dressed in winter clothes is on the beach with a dog .
 2247889670_413db8094b.jpg,a man in a brown jacket is running on a sandy bay towards a dog that is in turn running towards him .
 2247889670_413db8094b.jpg,The backview of a man dressed up in a jacket and a dog running towards him .
 2248487950_c62d0c81a9.jpg,A man and a woman wait to cross a street .
@@ -6595,7 +6595,7 @@ image,caption
 2249865945_f432c8e5da.jpg,A white dog in a black coat is standing in the snow .
 2249865945_f432c8e5da.jpg,The white dog stands in the snow wearing a black jacket .
 2250555512_71670078f5.jpg,A dark haired man in his twenties drinks a green liquid from a plastic mug .
-2250555512_71670078f5.jpg,A distored image of a man drinking a green liquid in a mug .
+2250555512_71670078f5.jpg,A distorted image of a man drinking a green liquid in a mug .
 2250555512_71670078f5.jpg,A man in an oxford shirt drinks from a beer mug in an large tent .
 2250555512_71670078f5.jpg,A man sipping a drink .
 2250555512_71670078f5.jpg,a single man drinking a mug of green liquid
@@ -6607,7 +6607,7 @@ image,caption
 2251418114_2b0cd4c139.jpg,A boy stands on a rocky mountain .
 2251418114_2b0cd4c139.jpg,A child on a rock formation .
 2251418114_2b0cd4c139.jpg,A child sitting on a rock formation .
-2251418114_2b0cd4c139.jpg,a little boy sitts on top of a big rock .
+2251418114_2b0cd4c139.jpg,a little boy sits on top of a big rock .
 2251418114_2b0cd4c139.jpg,A person in a red jacket on top of rocks .
 2251447809_2de73afcdf.jpg,A man dressed in black walks on an icy sidewalk
 2251447809_2de73afcdf.jpg,a man walks on the icy sidewalk .
@@ -6631,7 +6631,7 @@ image,caption
 2252123185_487f21e336.jpg,A stadium full of people watch a game .
 2252264255_03fefc25af.jpg,Two boys eating apples playing on a cement car barrier
 2252264255_03fefc25af.jpg,Two boys with apples leap over a barrier in the street .
-2252264255_03fefc25af.jpg,Two little boys eating apples climing over a retaining wall .
+2252264255_03fefc25af.jpg,Two little boys eating apples climbing over a retaining wall .
 2252264255_03fefc25af.jpg,Two little boys holding apples near the street .
 2252264255_03fefc25af.jpg,Two young boys with apples hop a concrete barrier .
 2252299132_14ca6e584b.jpg,a boy walks .
@@ -6696,10 +6696,10 @@ image,caption
 2256218522_53b92bcbb2.jpg,Black dog running across dirt .
 2256231539_05c27179f1.jpg,A child holds a football and runs from other children .
 2256231539_05c27179f1.jpg,A young boy in a blue uniform running with a football while playing a game of flag football .
-2256231539_05c27179f1.jpg,A young boy weating blue shorts and cleats holding a football running from other boys .
+2256231539_05c27179f1.jpg,A young boy wearing blue shorts and cleats holding a football running from other boys .
 2256231539_05c27179f1.jpg,A young male carrying a football and running while two other boys run behind him .
 2256231539_05c27179f1.jpg,The boy in blue runs with the ball whilst being chased by two boys in red .
-2256320794_0286c31bfa.jpg,A dog is waling on sand .
+2256320794_0286c31bfa.jpg,A dog is walking on sand .
 2256320794_0286c31bfa.jpg,"A dog that looks like Lassie , making a funny face ."
 2256320794_0286c31bfa.jpg,a puppy runs in the sand .
 2256320794_0286c31bfa.jpg,Dog has mouth open in field .
@@ -6713,7 +6713,7 @@ image,caption
 2257099774_37d0d3aa9a.jpg,A woman in a red cap in a store .
 2257099774_37d0d3aa9a.jpg,A woman wearing a red hat and black coat .
 2257099774_37d0d3aa9a.jpg,A woman with a red hat and face stands in front of jars .
-2257099774_37d0d3aa9a.jpg,The hapy asian woman is at the market .
+2257099774_37d0d3aa9a.jpg,The happy asian woman is at the market .
 2257294002_0073263c54.jpg,The children of a family play while they wait .
 2257294002_0073263c54.jpg,Three Asian kids dance while a man looks on .
 2257294002_0073263c54.jpg,Three children do jumping jacks in a public place while a man sits and looks on .
@@ -6723,7 +6723,7 @@ image,caption
 2257631407_1529b9db39.jpg,A girl on someone 's back is laughing .
 2257631407_1529b9db39.jpg,Kids playing around .
 2257631407_1529b9db39.jpg,Someone holding a little girl hanging upside down .
-2257631407_1529b9db39.jpg,Two peoplw with top of heads on grass .
+2257631407_1529b9db39.jpg,Two people with top of heads on grass .
 2257798999_d9d1b9a45a.jpg,"As the brown dog looks the other way , a large black and white dog plays with a smaller black dog ."
 2257798999_d9d1b9a45a.jpg,"Orange , brown and white and brown dogs on grass ."
 2257798999_d9d1b9a45a.jpg,Three dogs playing and laying on the grass .
@@ -6764,7 +6764,7 @@ image,caption
 2260560631_09093be4c6.jpg,A dog jumping over a stick in the yard .
 2260560631_09093be4c6.jpg,A dog jumps over a stick in a forest .
 2260560631_09093be4c6.jpg,The furry dog is running through a grassy wooded area .
-2260649048_ae45d17e68.jpg,A German Sheperd and a small white dog are playing
+2260649048_ae45d17e68.jpg,A German Shepherd and a small white dog are playing
 2260649048_ae45d17e68.jpg,The big brown and black dog is on top of a small white dog .
 2260649048_ae45d17e68.jpg,The brown and black dog is over top of the white dog .
 2260649048_ae45d17e68.jpg,"Two dogs , one large and one small , are playing together in the grass ."
@@ -6866,11 +6866,11 @@ image,caption
 2267923837_ae88678497.jpg,Four dirty and barefooted children .
 2268109835_d6edbe1c2b.jpg,A man catches a bird from the partly cloudy sky with a long net .
 2268109835_d6edbe1c2b.jpg,A man wearing camouflage holds a net on a very long handle into the air .
-2268109835_d6edbe1c2b.jpg,A person trying to catch birds in a Nat .
+2268109835_d6edbe1c2b.jpg,A person trying to catch birds in a net .
 2268109835_d6edbe1c2b.jpg,A person on the grass is throwing a rope in the air .
 2268109835_d6edbe1c2b.jpg,A person uses a long-handled net to catch something in the air .
 2268115375_69884e958d.jpg,A man carries dead birds while walking down a hill .
-2268115375_69884e958d.jpg,A man is carrying numerous penguins accross a plain .
+2268115375_69884e958d.jpg,A man is carrying numerous penguins across a plain .
 2268115375_69884e958d.jpg,A man wearing green waterproofs is walking on a grassy cliff top carrying some penguins .
 2268115375_69884e958d.jpg,A man with multiple animals in each hand is walking down a uncut grassy hill .
 2268115375_69884e958d.jpg,The man walks through a field carrying bundles of dead birds .
@@ -6954,7 +6954,7 @@ image,caption
 2272489996_95b0a62d15.jpg,Two dogs with black and white markings running with their mouths open .
 2272489996_95b0a62d15.jpg,Two terriers running in a grassy area .
 2272489996_95b0a62d15.jpg,Two white and black dogs running in the grass .
-2272491304_cb7c7ed16f.jpg,Skiiers on snow cappedhills
+2272491304_cb7c7ed16f.jpg,Skiiers on snow-capped hills
 2272491304_cb7c7ed16f.jpg,A group of skiers shown on a snow covered mountain .
 2272491304_cb7c7ed16f.jpg,Five cross-country skiers making their way across snowy terrain .
 2272491304_cb7c7ed16f.jpg,Five people skiing on snow covered slopes .
@@ -7064,7 +7064,7 @@ image,caption
 2278110011_ba846e7795.jpg,A child blows bubbles outside .
 2278110011_ba846e7795.jpg,A little boy with an orange shirt is playing outside with bubbles .
 2278110011_ba846e7795.jpg,A young boy runs through bubbles .
-2278766574_f71f1704a8.jpg,A youn woman on a man 's back walking down a cement path with another couple behind them holding hands .
+2278766574_f71f1704a8.jpg,A young woman on a man 's back walking down a cement path with another couple behind them holding hands .
 2278766574_f71f1704a8.jpg,People walk on a path outside .
 2278766574_f71f1704a8.jpg,Several people are walking down a trail .
 2278766574_f71f1704a8.jpg,The man is giving a woman a piggyback ride through a park .
@@ -7108,7 +7108,7 @@ image,caption
 2281054343_95d6d3b882.jpg,A silhouette of a man in a hat on a busy city street .
 2281054343_95d6d3b882.jpg,Person with black hat and black coat near buildings with signs .
 2281054343_95d6d3b882.jpg,Three people in a crowded city area .
-2281054343_95d6d3b882.jpg,Thre is a shot of man with his back turned in a city .
+2281054343_95d6d3b882.jpg,There is a shot of man with his back turned in a city .
 2281075738_230892b241.jpg,One black dog chases another on grass nearby a road that was recently snowed on .
 2281075738_230892b241.jpg,Two black dogs are playing in a grassy plain .
 2281075738_230892b241.jpg,Two black dogs chase each other on grass .
@@ -7146,7 +7146,7 @@ image,caption
 2282895743_f803f1cf01.jpg,"Two short , fat people walk down the street ."
 2283966256_70317e1759.jpg,A brown dog walks on the rocks near a river .
 2283966256_70317e1759.jpg,A dog is walking through some gravel beside a river .
-2283966256_70317e1759.jpg,A dog with a snub nose smells for somthing on a riverbank .
+2283966256_70317e1759.jpg,A dog with a snub nose smells for something on a riverbank .
 2283966256_70317e1759.jpg,A large brown dog is walking along side a river .
 2283966256_70317e1759.jpg,a large tan bulldog walking along the rocky shore of a small stream .
 2284239186_c827f4defa.jpg,A dog carries a newspaper through a kitchen .
@@ -7197,7 +7197,7 @@ image,caption
 2286270205_16038dec5a.jpg,a brown dog at the edge of a body of water surrounded by snow .
 2286270205_16038dec5a.jpg,A dog standing near snow looking at water .
 2286270205_16038dec5a.jpg,A golden dog walks carefully around a frozen pond .
-2286270205_16038dec5a.jpg,A golden retriever looking at its relection in water next to a snow .
+2286270205_16038dec5a.jpg,A golden retriever looking at its reflection in water next to a snow .
 2286270205_16038dec5a.jpg,A tan dog is walking along snow to water .
 2286823363_7d554ea740.jpg,A little boy jumping from one chair to another .
 2286823363_7d554ea740.jpg,A young boy jumps from one black chair to another .
@@ -7317,14 +7317,14 @@ image,caption
 2295894587_2fd8faf550.jpg,A small white dog in the snow .
 2295894587_2fd8faf550.jpg,A white dog is running through the snow .
 2295894587_2fd8faf550.jpg,A white dog running across the snow .
-2295894587_2fd8faf550.jpg,The white dog is hard to see in the snow as it runs payfully .
+2295894587_2fd8faf550.jpg,The white dog is hard to see in the snow as it runs playfully .
 2295894587_2fd8faf550.jpg,White dog with mouth open running in the snow .
 2296166785_292a4e9f4c.jpg,"Two children jumping int the sand on a beach , the sand is being kicked up and the water is bright blue ."
 2296166785_292a4e9f4c.jpg,Two children jump as they run down a large sand dune towards the beach .
 2296166785_292a4e9f4c.jpg,Two girls holding hands and jumping as they walk downhill on beach .
 2296166785_292a4e9f4c.jpg,Two kids running down a sand dune to the beach .
 2296166785_292a4e9f4c.jpg,Two people jump off a sand dune on a beach
-2297471897_3419605c16.jpg,a dog playing ouside
+2297471897_3419605c16.jpg,a dog playing outside
 2297471897_3419605c16.jpg,a little dog running with his tongue hanging out
 2297471897_3419605c16.jpg,A small tan dog walks down a dirt path and licks his nose .
 2297471897_3419605c16.jpg,Small brown dog licks lips as it runs across grass and dirt .
@@ -7436,7 +7436,7 @@ image,caption
 2302747917_aa0300eb68.jpg,Three smiling children running indoors .
 2303016989_0deb96c8d9.jpg,A black and white dog is catching a red and green object in his mouth .
 2303016989_0deb96c8d9.jpg,A black and white dog is running through the field to catch something in its mouth .
-2303016989_0deb96c8d9.jpg,A dog catching a flexable Frisbee in its mouth .
+2303016989_0deb96c8d9.jpg,A dog catching a flexible Frisbee in its mouth .
 2303016989_0deb96c8d9.jpg,A small black and white dog jumps with an object in its mouth .
 2303016989_0deb96c8d9.jpg,The black and white dog leaps to catch a toy .
 2303356248_65dd6aba6f.jpg,Kids wearing jackets and hats swinging on tire swing in snow
@@ -7450,7 +7450,7 @@ image,caption
 2303426046_09cfd7bc4e.jpg,A dog jumps on a lawn .
 2303426046_09cfd7bc4e.jpg,Large brown dog jumping over a bush in a grassy area .
 2303951441_3c8080907a.jpg,A black furry dog is jumping in the air next to another dog .
-2303951441_3c8080907a.jpg,One black dog is in midair whild one black dog is on the grass .
+2303951441_3c8080907a.jpg,One black dog is in midair while one black dog is on the grass .
 2303951441_3c8080907a.jpg,Two black dogs .
 2303951441_3c8080907a.jpg,Two black dogs are playing in a grass .
 2303951441_3c8080907a.jpg,Two black dogs playing on grass
@@ -7611,7 +7611,7 @@ image,caption
 2317714088_bcd081f926.jpg,Some people are gathered by a mound of snow outside a house .
 2318502106_33f2e4b4fc.jpg,A man in swim trunks is juggling on the beach
 2318502106_33f2e4b4fc.jpg,A man juggles at the beach .
-2318502106_33f2e4b4fc.jpg,A shirtness man juggles batons on the beach .
+2318502106_33f2e4b4fc.jpg,A shirtless man juggles batons on the beach .
 2318502106_33f2e4b4fc.jpg,A young man in swim trunks is juggling on the beach .
 2318502106_33f2e4b4fc.jpg,Juggler on beach in blue swimsuit .
 2318659263_c24005a5cb.jpg,A fluffy white dog running across the snow .
@@ -7651,7 +7651,7 @@ image,caption
 2320125735_27fe729948.jpg,The dog awaits some to kick the soccer ball so he can retrieve it .
 2321466753_5606a10721.jpg,A baby hold a wicker basket .
 2321466753_5606a10721.jpg,A baby holding onto a handle .
-2321466753_5606a10721.jpg,A child in a blue shit is holding on to a basket .
+2321466753_5606a10721.jpg,A child in a blue shirt is holding on to a basket .
 2321466753_5606a10721.jpg,A toddler grasping a wooden object .
 2321466753_5606a10721.jpg,A young child is holding onto the back of a wicker chair .
 2321865325_79b0954a5d.jpg,A black and white puppy runs along the gravel road .
@@ -7706,7 +7706,7 @@ image,caption
 2325258180_6217dd17eb.jpg,Black big dog is trying to chew into soft toy .
 2325386353_1f1a05e1ce.jpg,a boy in a mask holds up two bags of bread .
 2325386353_1f1a05e1ce.jpg,a boy wears a wrestling mask and carries bags of bread .
-2325386353_1f1a05e1ce.jpg,A boy with a blue wrestler mask is posign next to several other people .
+2325386353_1f1a05e1ce.jpg,A boy with a blue wrestler mask is posing next to several other people .
 2325386353_1f1a05e1ce.jpg,A man child carries two loaves of bread through the store .
 2325386353_1f1a05e1ce.jpg,A young boy wearing a mask stands holding two bags of bread .
 2325816912_b3bb41cdbb.jpg,A black dog running through the snow .
@@ -7800,7 +7800,7 @@ image,caption
 233327292_3bcbc3783f.jpg,a woman sitting in a chair while a man is removing her garter belt
 233327292_3bcbc3783f.jpg,Man removing garter during wedding
 2333288869_8c01e4c859.jpg,a boy and a woman walk into the ocean .
-2333288869_8c01e4c859.jpg,A toppless woman holds hr naked child 's hand while they stand in the ocean waves .
+2333288869_8c01e4c859.jpg,A topless woman holds her naked child 's hand while they stand in the ocean waves .
 2333288869_8c01e4c859.jpg,A woman and a naked child wade into the ocean .
 2333288869_8c01e4c859.jpg,A woman holds a baby 's hand and walks in the water .
 2333288869_8c01e4c859.jpg,A woman in bikini bottoms stands in the surf holding the hand of a naked baby .
@@ -7874,7 +7874,7 @@ image,caption
 2339516180_12493e8ecf.jpg,A man walks three white dogs with spots down a street with palm trees .
 2339516180_12493e8ecf.jpg,Man walking three dalmatians along a palm-tree lined street .
 2339516180_12493e8ecf.jpg,This man with three dogs takes his route along the tree-lined street .
-2339573065_91f1e3be60.jpg,a broen haired woman wearing a black coat with coffee in her hand
+2339573065_91f1e3be60.jpg,a brown haired woman wearing a black coat with coffee in her hand
 2339573065_91f1e3be60.jpg,A girl holds her iced drink in her gloved-hand with a look of concentration on her face .
 2339573065_91f1e3be60.jpg,A woman in black holding a cup of ice cream .
 2339573065_91f1e3be60.jpg,This woman is dressed in black and holding a cup .
@@ -7907,7 +7907,7 @@ image,caption
 2342478660_faef1afea8.jpg,A boy wears Mr. Potato head features .
 2342478660_faef1afea8.jpg,A boy wears plastic toy teeth and green plastic toy glasses which are much too small for him .
 2342478660_faef1afea8.jpg,A child is posing with toy pieces placed over their mouth and eyes .
-2342478660_faef1afea8.jpg,A little boy wears Mr. Potao head glasses and mouth .
+2342478660_faef1afea8.jpg,A little boy wears Mr. Potato head glasses and mouth .
 2342478660_faef1afea8.jpg,A young boy wearing Mr. Potato Head teeth and glasses .
 2343525685_3eba3b6686.jpg,A dark-haired man wearing a brown shirt is free-climbing a grey stone wall .
 2343525685_3eba3b6686.jpg,a man holding on to a rock wall
@@ -8069,7 +8069,7 @@ image,caption
 2355093195_87fb7f82cb.jpg,two men grapple up a waterfall .
 2355093195_87fb7f82cb.jpg,Two people are getting soaked by a waterfall .
 2355093195_87fb7f82cb.jpg,Water from the left splashing over a man with a white helmet .
-2355578735_286af5b202.jpg,A boy in a fuzzy goat holds a craw and looks at it .
+2355578735_286af5b202.jpg,A boy in a fuzzy goat holds a crab and looks at it .
 2355578735_286af5b202.jpg,A boy in a grey coat holds a sea creature .
 2355578735_286af5b202.jpg,A boy looks at the crab he is holding .
 2355578735_286af5b202.jpg,A boy wearing a hooded jacket holds a crab .
@@ -8109,7 +8109,7 @@ image,caption
 2358554995_54ed3baa83.jpg,A child is preparing to slide down a piece of playground equipment .
 2358554995_54ed3baa83.jpg,A toddler all bundled up getting ready to go down a slide .
 2358554995_54ed3baa83.jpg,Child getting ready to go down a slide .
-2358561039_e215a8d6cd.jpg,a froup of sled dogs pulling a man wearing an orange vest .
+2358561039_e215a8d6cd.jpg,a group of sled dogs pulling a man wearing an orange vest .
 2358561039_e215a8d6cd.jpg,A three dog sled team pulls an unusual tricycle sled .
 2358561039_e215a8d6cd.jpg,Several dogs carry a man with a helmet through snow .
 2358561039_e215a8d6cd.jpg,"The dogs are pulling a man on a type of bike , through the snow ."
@@ -8312,7 +8312,7 @@ image,caption
 2374570771_c395fc224a.jpg,a black and white colored dog jumping around in a body of water .
 2374570771_c395fc224a.jpg,A brown and white dog is running through the river .
 2374570771_c395fc224a.jpg,A dog emerging from a lake .
-2374570771_c395fc224a.jpg,A dog runs through a creek and spashes water .
+2374570771_c395fc224a.jpg,A dog runs through a creek and splashes water .
 2374570771_c395fc224a.jpg,a dog runs through the water .
 2374652725_32f90fa15c.jpg,A big white dog and a small black dog sit in the snow .
 2374652725_32f90fa15c.jpg,A large white dog watching a little black dog run in the snow .
@@ -8332,7 +8332,7 @@ image,caption
 2376694294_9a4ecc3b90.jpg,"A boy in a swimming pool , wearing goggles , gives the "" two thumbs up "" sign ."
 2376694294_9a4ecc3b90.jpg,a boy wearing a snorkeling mask gives two thumbs up in a pool
 2376694294_9a4ecc3b90.jpg,A boy with a crew cut and goggles gives the thumbs up sign in a pool of water .
-2376694294_9a4ecc3b90.jpg,a young boy wearing a yellow scubba mask giving the thumbs up
+2376694294_9a4ecc3b90.jpg,a young boy wearing a yellow scuba mask giving the thumbs up
 2376694294_9a4ecc3b90.jpg,The boy in the water with the yellow goggles gives two thumbs up .
 2376878930_dd3e7cc544.jpg,A child holding a tennis racquet running on a tennis court .
 2376878930_dd3e7cc544.jpg,A child runs barefoot across a blacktop parking lot .
@@ -8354,7 +8354,7 @@ image,caption
 2378149488_648e5deeac.jpg,Boy with a red crown in a shopping cart .
 2378149488_648e5deeac.jpg,Dark haired child wearing jacket and paper crown while sitting in shopping cart .
 2378149488_648e5deeac.jpg,Kid wearing a paper crown sitting in a shopping cart .
-2378356400_f6bde5d9b3.jpg,A little girl on a bouncey playground animal sits while a woman takes her picture .
+2378356400_f6bde5d9b3.jpg,A little girl on a bouncy playground animal sits while a woman takes her picture .
 2378356400_f6bde5d9b3.jpg,A woman and a child .
 2378356400_f6bde5d9b3.jpg,A woman in a checked coat is taking a photograph of a little girl sitting on a fake tiger .
 2378356400_f6bde5d9b3.jpg,A woman stands next to a child who is riding on a toy .
@@ -8404,7 +8404,7 @@ image,caption
 2382411771_a16145f345.jpg,A white dog wrestles with a black and brown dog on the green grass .
 2382411771_a16145f345.jpg,Black and tan dog play fighting with a white and tan dog .
 2382411771_a16145f345.jpg,Two dogs wrestle either in fun or fight on a grassy lawn .
-2384147448_c1869070d3.jpg,A light brown colored dog is playing ball with a redish brown colored dog in a fenced in area .
+2384147448_c1869070d3.jpg,A light brown colored dog is playing ball with a reddish brown colored dog in a fenced in area .
 2384147448_c1869070d3.jpg,One dog with an object in its mouth is met by another dog nearby a fence .
 2384147448_c1869070d3.jpg,Two brown and white dogs running on a grassy but brown fenced yard .
 2384147448_c1869070d3.jpg,Two dogs are facing each other .
@@ -8445,14 +8445,14 @@ image,caption
 2385146732_d1c67c790e.jpg,Two people are standing next to a waterway canal .
 2385146732_d1c67c790e.jpg,Two people overlook a body of water during the day .
 2385744837_8780f6731a.jpg,A boy in a red jacket slides down the ice .
-2385744837_8780f6731a.jpg,A boy in a red jacket and balck hat sliding on his knees down a snowy hill
+2385744837_8780f6731a.jpg,A boy in a red jacket and black hat sliding on his knees down a snowy hill
 2385744837_8780f6731a.jpg,A child in a red parka slides down a snowy hill .
 2385744837_8780f6731a.jpg,Child sliding in the snow .
 2385744837_8780f6731a.jpg,Little boy in a red jacket sliding in the snow .
 2385871165_9438c9fe84.jpg,A closeup of a man in glasses looking at the camera .
 2385871165_9438c9fe84.jpg,A guy wearing glasses .
 2385871165_9438c9fe84.jpg,A man in a suit with glasses stands in front of a blurry background .
-2385871165_9438c9fe84.jpg,a man in glasses with a blue jaket and shirt
+2385871165_9438c9fe84.jpg,a man in glasses with a blue jacket and shirt
 2385871165_9438c9fe84.jpg,A man wearing glasses and a suit .
 2385871317_44cde2f354.jpg,"A brown-haired girl wearing a yellow and pink shirt , and carrying a blue backpack is walking next to a blue wall ."
 2385871317_44cde2f354.jpg,A girl beside a blue tarp wall wearing a backpack and a purse .
@@ -8477,7 +8477,7 @@ image,caption
 2390778197_4d9d03d4b9.jpg,A blonde woman playing horseshoes in the snow .
 2390778197_4d9d03d4b9.jpg,A woman in a jacket is standing next to a fence playing horse shoes .
 2390778197_4d9d03d4b9.jpg,A woman outside throws a horseshoe .
-2390778197_4d9d03d4b9.jpg,A Yong lady in a grey hoodie is by a brown fence on a snowy day .
+2390778197_4d9d03d4b9.jpg,A Young lady in a grey hoodie is by a brown fence on a snowy day .
 2390778197_4d9d03d4b9.jpg,Woman standing outside holding a horseshoe in each hand .
 2391269207_d1d2615b1d.jpg,A dog runs outside with a yellow toy .
 2391269207_d1d2615b1d.jpg,A white dog fetching a yellow toy .
@@ -8502,7 +8502,7 @@ image,caption
 2393196444_8f4f540f5f.jpg,A boy wearing a brown shirt and hat sits on a box next to a girl in front of a store .
 2393196444_8f4f540f5f.jpg,A girl with a toboggan and sunglasses smiles with her friend in the background as they do crafts .
 2393196444_8f4f540f5f.jpg,Some teenagers smile from an outdoor table .
-2393196444_8f4f540f5f.jpg,Ther are two young ladies sitting on crates with big smiles .
+2393196444_8f4f540f5f.jpg,There are two young ladies sitting on crates with big smiles .
 2393196444_8f4f540f5f.jpg,The two seated girls smile towards the camera .
 2393264648_a280744f97.jpg,A child on the beach while a woman takes pictures nearby .
 2393264648_a280744f97.jpg,A little girl in red at the beach while a adult points a camera .
@@ -8522,9 +8522,9 @@ image,caption
 2393911878_68afe6e6c1.jpg,A boy gives being in the snow two thumbs up .
 2393911878_68afe6e6c1.jpg,"A boy sitting in the snow , giving a thumbs-up sign ."
 2393911878_68afe6e6c1.jpg,A little boy gives a thumbs up as he sits in the snow .
-2393911878_68afe6e6c1.jpg,a small child in the white snow wearhing a blue coat giving two thumbs up .
+2393911878_68afe6e6c1.jpg,a small child in the white snow wearing a blue coat giving two thumbs up .
 2393911878_68afe6e6c1.jpg,Little boy sitting on snow gives the camera two thumbs up .
-2393924525_1bf45ca217.jpg,A furocious female tennis player about to hit a tennis ball in the air .
+2393924525_1bf45ca217.jpg,A ferocious female tennis player about to hit a tennis ball in the air .
 2393924525_1bf45ca217.jpg,A woman dressed in a blue tennis outfit is returning a hit with her tennis racket
 2393924525_1bf45ca217.jpg,A woman in blue hits a tennis ball in a tennis match .
 2393924525_1bf45ca217.jpg,A woman playing tennis .
@@ -8554,7 +8554,7 @@ image,caption
 2394763838_99d1435b85.jpg,A pale tan dog is carrying a stick in its mouth outside .
 2394763838_99d1435b85.jpg,a small tan dog running in the grass with a stick in his mouth
 2394763838_99d1435b85.jpg,A tan dog carrying a stick runs over a garden hose lying in a low cut grassy area .
-2394824046_51cec8e5e7.jpg,a buddist worships buddha .
+2394824046_51cec8e5e7.jpg,a buddhist worships buddha .
 2394824046_51cec8e5e7.jpg,A man is sitting in front of a Buddist monument .
 2394824046_51cec8e5e7.jpg,A man stands in front of a statue .
 2394824046_51cec8e5e7.jpg,A person prays at a shrine .
@@ -8641,7 +8641,7 @@ image,caption
 2402462857_7684848704.jpg,The white and brown dog stands in front of the woods with its tongue hanging out .
 2402744031_11f9f2f2b8.jpg,"Hooded women at event , one seated next to a table with large glasses on it ."
 2402744031_11f9f2f2b8.jpg,People shopping at an outdoor marketplace .
-2402744031_11f9f2f2b8.jpg,Three women in headscarfs look at somthing out of frame .
+2402744031_11f9f2f2b8.jpg,Three women in headscarfs look at something out of frame .
 2402744031_11f9f2f2b8.jpg,Two woman wearing black shoes stand together while a person sits behind them .
 2402744031_11f9f2f2b8.jpg,Two women in black coats standing in front of a person sitting on a box on the ground .
 2402793046_3385554e81.jpg,A boy climbs a rigging on a boat .
@@ -8696,7 +8696,7 @@ image,caption
 2405978603_6221b0c2e7.jpg,The dog runs out into the ocean .
 2406591500_403f145905.jpg,One young boy in a striped shirt is chasing another boy on a path through the jungle .
 2406591500_403f145905.jpg,The children are walking on the path lined by trees .
-2406591500_403f145905.jpg,Two boys are running on a path amoung green leafy trees .
+2406591500_403f145905.jpg,Two boys are running on a path among green leafy trees .
 2406591500_403f145905.jpg,Two boys run on a well maintained trail .
 2406591500_403f145905.jpg,"Two young children , one in striped top , running down pathway surrounded by ferns ."
 240696675_7d05193aa0.jpg,A brown dog is running in a grassy plain .
@@ -8776,13 +8776,13 @@ image,caption
 241109594_3cb90fe2a3.jpg,This black and white dog is retrieving a stick from the water .
 2411824767_4eb1fae823.jpg,A brown and white dog leaps .
 2411824767_4eb1fae823.jpg,A brown dog is jumping over a grassy mound near to a lake .
-2411824767_4eb1fae823.jpg,"A corgi jumps off a bale of hay , m water and buildings behind it ."
+2411824767_4eb1fae823.jpg,"A corgi jumps off a bale of hay with water and buildings behind it ."
 2411824767_4eb1fae823.jpg,A dog jumps over hay .
 2411824767_4eb1fae823.jpg,A small brown and white dog is jumping over bushels of hay .
 2412390588_a89cab30f4.jpg,A boy in a red jacket points at red tulips .
 2412390588_a89cab30f4.jpg,A boy in red is pointing to a red tulip .
 2412390588_a89cab30f4.jpg,A child in a red jacket is pointing at beautiful orange flowers .
-2412390588_a89cab30f4.jpg,A child in a red longsleeve shirt is pointing at the red tulips .
+2412390588_a89cab30f4.jpg,A child in a red long-sleeve shirt is pointing at the red tulips .
 2412390588_a89cab30f4.jpg,The child in the red jacket is looking at the flowers .
 241345323_f53eb5eec4.jpg,A football game .
 241345323_f53eb5eec4.jpg,A Oklahoma football player standing
@@ -8792,7 +8792,7 @@ image,caption
 241345427_ece0d186c2.jpg,A football player dodges a tackle from his opponent .
 241345427_ece0d186c2.jpg,A football player in red chases a football player in blue .
 241345427_ece0d186c2.jpg,A football player in red is trying to tackle another player who has the ball .
-241345427_ece0d186c2.jpg,"A football player wears a jersey wuth the number "" 4 "" on it ."
+241345427_ece0d186c2.jpg,"A football player wears a jersey with the number "" 4 "" on it ."
 241345427_ece0d186c2.jpg,The football player in the gold helmet is running .
 241345446_2e47ae8ddc.jpg,A discouraged looking football coach .
 241345446_2e47ae8ddc.jpg,A football coach holds a headset .
@@ -8964,7 +8964,7 @@ image,caption
 241347204_007d83e252.jpg,Football players gathering to contest something to collaborating officials .
 241347204_007d83e252.jpg,Oklahoma University football players in front of a crowd of Sooners fans and next to three referees .
 241347204_007d83e252.jpg,The red and white football team is talking with the officials .
-241347214_5f19e7998c.jpg,A Sooners football player in his red and white uniform being lifted by two teamates dressed the same .
+241347214_5f19e7998c.jpg,A Sooners football player in his red and white uniform being lifted by two teammates dressed the same .
 241347214_5f19e7998c.jpg,Football players in red and white are jumping and hugging .
 241347214_5f19e7998c.jpg,The football players in the red and white team uniforms are jumping up and down .
 241347214_5f19e7998c.jpg,Three athletes in red and white uniforms and helmets .
@@ -8989,7 +8989,7 @@ image,caption
 241347356_8a515555fd.jpg,Football player in white and purple uniform with legs being tackled by player in red and white uniform .
 241347356_8a515555fd.jpg,Football player tackling another player in a football game .
 241347356_8a515555fd.jpg,The red football player is grabbing the purple and white player 's leg to try and stop him .
-241347391_4fcd4639f4.jpg,A football layer wearing a red shirt .
+241347391_4fcd4639f4.jpg,A football player wearing a red shirt .
 241347391_4fcd4639f4.jpg,A football player facing off against two others .
 241347391_4fcd4639f4.jpg,A football player for the Sooners stands in front of the oppsing team waiting for the next play .
 241347391_4fcd4639f4.jpg,A football player in a red uniform is standing in front of other football players in a stadium .
@@ -9006,7 +9006,7 @@ image,caption
 241347460_81d5d62bf6.jpg,The football player in red kicks off the ball .
 241347496_1a35fec8dc.jpg,A football player holding a football .
 241347496_1a35fec8dc.jpg,a football player in red gets ready to throw a football .
-241347496_1a35fec8dc.jpg,a lone football player wearing a red and white jersay holding a football .
+241347496_1a35fec8dc.jpg,a lone football player wearing a red and white jersey holding a football .
 241347496_1a35fec8dc.jpg,The football player dressed in red and white gets ready to throw the ball .
 241347496_1a35fec8dc.jpg,The football player gets ready to throw the ball .
 241347547_902725b9f8.jpg,A football coach standing with his players behind him .
@@ -9029,7 +9029,7 @@ image,caption
 241347635_e691395c2f.jpg,A man walks down a field with a crowd in the stands behind him .
 241347635_e691395c2f.jpg,The head coach is walking out on the field .
 241347635_e691395c2f.jpg,The man with the white pants and blue Nike shirt has a whistle around his neck .
-241347664_4a3e7e5be7.jpg,A football team doing excercises
+241347664_4a3e7e5be7.jpg,A football team doing exercises
 241347664_4a3e7e5be7.jpg,A football team doing their stretches before the game starts .
 241347664_4a3e7e5be7.jpg,Football players are stretching together .
 241347664_4a3e7e5be7.jpg,The football players are working on stretching their legs .
@@ -9046,7 +9046,7 @@ image,caption
 241347700_ef2451d256.jpg,A man in red takes cellphone pictures at a football game .
 241347760_d44c8d3a01.jpg,A man is wearing a Sooners red football shirt and helmet .
 241347760_d44c8d3a01.jpg,A Oklahoma Sooners football player wearing his jersey number 28 .
-241347760_d44c8d3a01.jpg,A Sooners football player weas the number 28 and black armbands .
+241347760_d44c8d3a01.jpg,A Sooners football player wears the number 28 and black armbands .
 241347760_d44c8d3a01.jpg,Guy in red and white football uniform
 241347760_d44c8d3a01.jpg,The American footballer is wearing a red and white strip .
 241347803_afb04b12c4.jpg,A football player is in a red and white uniform Sooners # 28 .
@@ -9071,7 +9071,7 @@ image,caption
 2414352262_005ae90407.jpg,young girl in winter coat jumping off a boulder into the sand at a beach
 2414384480_096867d695.jpg,A group of people are standing on a platform and waiting for the subway train .
 2414384480_096867d695.jpg,Commuters on a subway platform as the train pulls in
-2414384480_096867d695.jpg,Crowd waiting fro the train .
+2414384480_096867d695.jpg,Crowd waiting for the train .
 2414384480_096867d695.jpg,many people wait for the train .
 2414384480_096867d695.jpg,Several people wait for a train .
 2414390475_28a0107bb0.jpg,A guy with long brown curly hair wearing a white t-shirt is looking into the camera with something in his mouth . a
@@ -9146,7 +9146,7 @@ image,caption
 2419591925_1038c6c570.jpg,Boy climbing on a chain fence .
 2419797375_553f867472.jpg,A girl sits in a car wearing sunglasses and a hat .
 2419797375_553f867472.jpg,a girl wears black sunglasses .
-2419797375_553f867472.jpg,A little girt in sunglasses and warm coat going for a ride .
+2419797375_553f867472.jpg,A little girl in sunglasses and warm coat going for a ride .
 2419797375_553f867472.jpg,A small child with winter gear wears black sunglasses and a blue hat .
 2419797375_553f867472.jpg,A smiling child wearing a hat and sunglasses sits in a car .
 2420546021_4a59790da6.jpg,"A child is in colorful , native clothing ."
@@ -9276,7 +9276,7 @@ image,caption
 2426724282_237bca30b5.jpg,White dog with dark markings jumping to catch an object .
 2426781076_e3f4d2685c.jpg,A boy speeding down a steep slide .
 2426781076_e3f4d2685c.jpg,A boy wearing all black is sliding down a blow up yellow slide .
-2426781076_e3f4d2685c.jpg,A kid in black going down an inflatbale slide .
+2426781076_e3f4d2685c.jpg,A kid in black going down an inflatable slide .
 2426781076_e3f4d2685c.jpg,Boy sliding down a slide on his knees .
 2426781076_e3f4d2685c.jpg,The boy is coming down the amusement slide on his knees .
 2426828433_ce894d1c54.jpg,Three black dogs on grass .
@@ -9295,7 +9295,7 @@ image,caption
 2427558437_3e839056d7.jpg,Two brown dogs together standing on the bank of a lake .
 2427558437_3e839056d7.jpg,Two dogs pass each other near some water .
 2428086758_bce4733f7e.jpg,A big brown dog sniffs a smaller dog in the gravel beside a body of water .
-2428086758_bce4733f7e.jpg,a big dog stiffing a smaller dog near the edge of a river .
+2428086758_bce4733f7e.jpg,a big dog sniffing a smaller dog near the edge of a river .
 2428086758_bce4733f7e.jpg,A large dog stands with a smaller dog near the edge of the water .
 2428086758_bce4733f7e.jpg,A red dog looks at a brown dog on a dirt path next to a lake .
 2428086758_bce4733f7e.jpg,The big dog is checking out the smaller dog .
@@ -9334,7 +9334,7 @@ image,caption
 2429272699_8a9699775e.jpg,A man walks down the street .
 2429272699_8a9699775e.jpg,"a man wearing black , walks down the street ."
 2429272699_8a9699775e.jpg,A young man wearing jeans and jacket walking down a street .
-2429729667_42effc165d.jpg,A girl has her head in a wooden cut out of a pirate ship while people throw tomatos .
+2429729667_42effc165d.jpg,A girl has her head in a wooden cut out of a pirate ship while people throw tomatoes .
 2429729667_42effc165d.jpg,A little girl throws an object at a man who is standing behind a cutout of a sailor on a ship .
 2429729667_42effc165d.jpg,A young boy and girl are trying to hit a man with balls in a fair game .
 2429729667_42effc165d.jpg,Children are throwing food at someone as part of an amusement park game .
@@ -9429,7 +9429,7 @@ image,caption
 2437266971_b91a8f9a00.jpg,A man in a button up shirt and tie is wearing a smiling mask .
 2437266971_b91a8f9a00.jpg,A masked man in blue shirt and a tie holding papers in front of him .
 2437266971_b91a8f9a00.jpg,Man in business attire with Guy Fawkes mask holding paper at protest .
-2438085746_588dce8724.jpg,A black and white dog catc
+2438085746_588dce8724.jpg,A black and white dog catch
 2438085746_588dce8724.jpg,A black and white dog is playing with a Frisbee outside .
 2438085746_588dce8724.jpg,A black and white dog jumps to catch the green Frisbee .
 2438085746_588dce8724.jpg,A black and white dog leaps to catch a Frisbee in a field .
@@ -9487,7 +9487,7 @@ image,caption
 2443380641_7b38d18f5b.jpg,A child in an orange shirt holding a baseball bat watches the ball thrown at him .
 2443380641_7b38d18f5b.jpg,A little league game in action .
 2443380641_7b38d18f5b.jpg,A young boy is getting ready to hit a baseball .
-2443380641_7b38d18f5b.jpg,a young man wearing a yellow shirt and baseball helemt swinging a bat
+2443380641_7b38d18f5b.jpg,a young man wearing a yellow shirt and baseball helmet swinging a bat
 2443380641_7b38d18f5b.jpg,Boy in yellow shirt getting ready to hit orange ball with baseball bat
 2443512473_6f5a22eb42.jpg,A black and white agility dog weaving between poles .
 2443512473_6f5a22eb42.jpg,A black and white dog running between poles .
@@ -9642,7 +9642,7 @@ image,caption
 244910177_7c4ec3f65b.jpg,Three woman walk down a city street and one has a pink purse .
 244910177_7c4ec3f65b.jpg,"Three women , two with tattoos , walking down the street"
 244910177_7c4ec3f65b.jpg,Women are walking through the street drinking iced coffee .
-244910177_7c4ec3f65b.jpg,Women walk down a buzy sidewalk .
+244910177_7c4ec3f65b.jpg,Women walk down a busy sidewalk .
 244910177_7c4ec3f65b.jpg,Women walking down the street .
 2449289139_08fc1092c1.jpg,A black and tan dog is running along a series of stone walkways spaced between grass .
 2449289139_08fc1092c1.jpg,A dog running .
@@ -9661,7 +9661,7 @@ image,caption
 2449518585_113dc4a8e5.jpg,The young girl is on a swing outdoors .
 2449552677_ee78f01bae.jpg,A man in a wheelchair riding to the park .
 2449552677_ee78f01bae.jpg,A person in a wheelchair is on a sidewalk .
-2449552677_ee78f01bae.jpg,a person wearing a knit cap riding in a wheelchair along a seidwalk outside of a building .
+2449552677_ee78f01bae.jpg,a person wearing a knit cap riding in a wheelchair along a sidewalk outside of a building .
 2449552677_ee78f01bae.jpg,"A person with a brown hat and black jacket is in a wheelchair crossing in front of a sign that says "" park "" ."
 2449552677_ee78f01bae.jpg,The handicapped man wheels past the parking lot .
 2450299735_62c095f40e.jpg,A child slides down a slide and into the water .
@@ -9672,7 +9672,7 @@ image,caption
 2450453051_f1d4a78ab4.jpg,A black and white dog catches flying discs thrown by a man .
 2450453051_f1d4a78ab4.jpg,a black a white dog catching Frisbees thrown by a man in a white shirt
 2450453051_f1d4a78ab4.jpg,A dog jumps for a Frisbee at the Purina Incredible Dog Challenge .
-2450453051_f1d4a78ab4.jpg,A man is throwing freesbies into the air and the border collie is catching them in the air .
+2450453051_f1d4a78ab4.jpg,A man is throwing frisbees into the air and the border collie is catching them in the air .
 2450453051_f1d4a78ab4.jpg,Man in white shirt tossing Frisbee for black and white dog who has a white Frisbee in its mouth .
 2450486758_a66fd296ea.jpg,A dog with a Frisbee jumps over a man
 2450486758_a66fd296ea.jpg,A large crowd of people are sitting watching a dog jump high up to catch a Frisbee with a man standing under the dog looking up at it .
@@ -9872,8 +9872,8 @@ image,caption
 246231741_882b45c4e1.jpg,a dog wearing a yellow collar is bearing his teeth at another dog that is sitting by a tree .
 246231741_882b45c4e1.jpg,A German shepherd is showing its teeth as it growls at another German shepherd .
 246231741_882b45c4e1.jpg,A German shepherd barking at another German shepherd in a forest .
-246231741_882b45c4e1.jpg,Two German sheperds snarling at each other .
-246231741_882b45c4e1.jpg,Two German Sheppard dogs are fighting .
+246231741_882b45c4e1.jpg,Two German shepherds snarling at each other .
+246231741_882b45c4e1.jpg,Two German Shepherd dogs are fighting .
 2462702522_1b25654762.jpg,A little boy kneels and prepares to throw a basketball .
 2462702522_1b25654762.jpg,A little boy starts to toss a mini basketball .
 2462702522_1b25654762.jpg,a little boy throws a basketball .
@@ -9886,13 +9886,13 @@ image,caption
 2463067409_78188c584c.jpg,The grey dog is jumping through the grass with water in the background .
 2464259416_238ef13a2e.jpg,A black and brown dog and a grey poodle sticking its butt in the air on the sand .
 2464259416_238ef13a2e.jpg,There are two dogs playing in the dirt .
-2464259416_238ef13a2e.jpg,Two bigs dogs play with each other .
+2464259416_238ef13a2e.jpg,Two big dogs play with each other .
 2464259416_238ef13a2e.jpg,Two dogs are playing in the sand .
 2464259416_238ef13a2e.jpg,Two dogs looks at each other while standing on the dirt .
 246508774_1e9885f1b7.jpg,A group at an outdoor party includes a man wearing camouflage pants with neon orange boots and suspenders .
 246508774_1e9885f1b7.jpg,A group of people are standing together outside .
 246508774_1e9885f1b7.jpg,A man with orange boots stands with a few other people .
-246508774_1e9885f1b7.jpg,The girl min the pink top is looking at the man who is wearing orange boots and patterned pants .
+246508774_1e9885f1b7.jpg,The girl in the pink top is looking at the man who is wearing orange boots and patterned pants .
 246508774_1e9885f1b7.jpg,There is a woman in a pink shirt holding a can and three other men .
 2465218087_fca77998c6.jpg,A man holding a paddle is standing in front of a yellow kayak .
 2465218087_fca77998c6.jpg,A man is standing in the water with a kayak .
@@ -9902,7 +9902,7 @@ image,caption
 2465441099_a1761a1757.jpg,A group of young people stand around waiting for something .
 2465441099_a1761a1757.jpg,People are standing around inside and one of them is wearing a fedora and a striped zip hoodie
 2465441099_a1761a1757.jpg,This is a group of people standing around at some sort of event .
-2465441099_a1761a1757.jpg,Youngle people standing together .
+2465441099_a1761a1757.jpg,Young people standing together .
 2465441099_a1761a1757.jpg,Young people hang out at a party .
 2465497494_43d74df57c.jpg,A boy plays with sand near green grass .
 2465497494_43d74df57c.jpg,A little boy pours sand from a shovel into a pail .
@@ -9927,7 +9927,7 @@ image,caption
 2466171114_3fa51415a7.jpg,A brown and white dog fetching a toy .
 2466171114_3fa51415a7.jpg,A brown dog is carrying a toy in its mouth .
 2466171114_3fa51415a7.jpg,A dog running though a grassy field .
-2466171114_3fa51415a7.jpg,Brown dog with objest in mouth moving toward camera .
+2466171114_3fa51415a7.jpg,Brown dog with object in mouth moving toward camera .
 2466171114_3fa51415a7.jpg,The brown dog with the white chest is carrying a ball .
 2466420387_86fe77c966.jpg,A woman wearing a bathing suit points in a case as another looks on .
 2466420387_86fe77c966.jpg,A young woman in a bikini looking at something in a glass case .
@@ -9978,7 +9978,7 @@ image,caption
 2469498117_b4543e1460.jpg,A greyhound wearing a muzzle and the number six on a yellow jacket is running on a dog track .
 2469498117_b4543e1460.jpg,a muzzle greyhound dog running on a track
 2469498117_b4543e1460.jpg,A tan greyhound wearing a gold shirt with a number on it runs down a track .
-2469498117_b4543e1460.jpg,muxzzled greyhound leaping in race with yellow jacket .
+2469498117_b4543e1460.jpg,Muzzled greyhound leaping in race with yellow jacket .
 2469620360_6c620c6f35.jpg,A lady stands in a field of tulips looking unamused .
 2469620360_6c620c6f35.jpg,A woman is standing in a field of tulips holding onto a coat and cellphone .
 2469620360_6c620c6f35.jpg,A woman stands in a field of flowers .
@@ -10013,7 +10013,7 @@ image,caption
 2471297228_b784ff61a2.jpg,Two girls pillow fight in a school play yard .
 2471297228_b784ff61a2.jpg,Two girls playing with plastic bags in a park .
 2471297228_b784ff61a2.jpg,Two girls swinging bags .
-2471297228_b784ff61a2.jpg,two young girls htting each other with sacks on a field .
+2471297228_b784ff61a2.jpg,two young girls hitting each other with sacks on a field .
 2471447879_6554cefb16.jpg,A girl climbing on a climbing ledge .
 2471447879_6554cefb16.jpg,A little girl is climbing up a climbing wall
 2471447879_6554cefb16.jpg,A small girl climbs a rock wall .
@@ -10198,7 +10198,7 @@ image,caption
 2479553749_f7ac031940.jpg,A little boy is watching a merry-go-round .
 2479553749_f7ac031940.jpg,A little boy watches a Ferris Wheel in motion .
 2479553749_f7ac031940.jpg,A tow-headed boy looks on at the children 's merry-go-round .
-2479553749_f7ac031940.jpg,Small child looking at a colorful children 's amuseument ride .
+2479553749_f7ac031940.jpg,Small child looking at a colorful children 's amusement ride .
 2479652566_8f9fac8af5.jpg,A little girl is sitting on the counter dangling one foot in the sink whilst holding a dish jet washer .
 2479652566_8f9fac8af5.jpg,A little girl plays with a faucet .
 2479652566_8f9fac8af5.jpg,A little girl wearing sunglasses puts her feet into the kitchen sink .
@@ -10242,7 +10242,7 @@ image,caption
 2481003841_06086eafc2.jpg,Two little boys are playing on a playground .
 2481003841_06086eafc2.jpg,"Two little boys lounge at a park , one sitting on a swing ."
 2481003841_06086eafc2.jpg,Two toddler boys look onward from the playground .
-2481003841_06086eafc2.jpg,two young boys in swetashirts at a playground
+2481003841_06086eafc2.jpg,two young boys in sweatshirts at a playground
 2481003841_06086eafc2.jpg,Two young boys with playground equipment
 2481367956_8577d2fa98.jpg,A child reaches for a bar .
 2481367956_8577d2fa98.jpg,A little boy in navy blue reaching up for a bar on a playground .
@@ -10329,7 +10329,7 @@ image,caption
 2490179961_e842fda5eb.jpg,Two girls with chocolate mouths
 2490179961_e842fda5eb.jpg,Two little brown haired girls are grinning and squinting their eyes .
 2490179961_e842fda5eb.jpg,"Two little girls , one with chocolate on her face , make faces ."
-2490365757_b869282cb3.jpg,A man is kneeling next to a tripod and a feild of tulips .
+2490365757_b869282cb3.jpg,A man is kneeling next to a tripod and a field of tulips .
 2490365757_b869282cb3.jpg,A man is taking photographs of a large garden of white and orange tulips .
 2490365757_b869282cb3.jpg,A man photographing tulips .
 2490365757_b869282cb3.jpg,A man takes pictures of white and yellow tulips .
@@ -10395,7 +10395,7 @@ image,caption
 2496370758_a3fbc49837.jpg,two skinny dogs are running towards camera across a grassy field .
 2496370758_a3fbc49837.jpg,Two thin dogs are running fast through tall dry grass .
 2496399593_a24954a5ca.jpg,A brown haired lady smiles at the camera in front of trees .
-2496399593_a24954a5ca.jpg,An Asian girl is smiling whilst standing in font of some green bushes .
+2496399593_a24954a5ca.jpg,An Asian girl is smiling whilst standing in front of some green bushes .
 2496399593_a24954a5ca.jpg,An asian woman with brown hair wearing a green jacket .
 2496399593_a24954a5ca.jpg,A young woman stands in front of some shrubs .
 2496399593_a24954a5ca.jpg,Young brunette woman smiling in front of bushes .
@@ -10548,7 +10548,7 @@ image,caption
 2506892928_7e79bec613.jpg,"Three children , one with a stuffed kitten , in a field of flowers ."
 2506892928_7e79bec613.jpg,three children play in the garden .
 2506892928_7e79bec613.jpg,Three children pose among wildflowers .
-2506892928_7e79bec613.jpg,Three kids palying with a toy cat in a garden .
+2506892928_7e79bec613.jpg,Three kids playing with a toy cat in a garden .
 2507182524_7e83c6de82.jpg,A brown dog in a blue collar is chasing a green ball through mulch .
 2507182524_7e83c6de82.jpg,A dog chases a ball through dirt .
 2507182524_7e83c6de82.jpg,A dog is running towards a ball to catch it .
@@ -10567,10 +10567,10 @@ image,caption
 2508313118_524e93d48c.jpg,A brown dog chases a Frisbee
 2508313118_524e93d48c.jpg,A brown dog is attempting to catch a Frisbee in its mouth .
 2508313118_524e93d48c.jpg,A brown dog is trying to catch a Frisbee .
-2508313118_524e93d48c.jpg,A brown dog squating on grass .
+2508313118_524e93d48c.jpg,A brown dog squatting on grass .
 2508313118_524e93d48c.jpg,The brown dog is leaping to catch a Frisbee .
 2508918369_2659db1cb6.jpg,A young boy splashes in the pool .
-2508918369_2659db1cb6.jpg,a young man wearing swimming goggles jumping up oout of the pool
+2508918369_2659db1cb6.jpg,a young man wearing swimming goggles jumping up out of the pool
 2508918369_2659db1cb6.jpg,Two children play in an inflatable pool .
 2508918369_2659db1cb6.jpg,Two kids play in a pool .
 2508918369_2659db1cb6.jpg,Two smiling boys with goggles on play in an inflatable swimming pool with water up to their waists .
@@ -10646,8 +10646,8 @@ image,caption
 2514581496_8f4102377e.jpg,White dog with orange bows on ears leaps to reach kitchen counter .
 2514612680_b0d2d77099.jpg,"A man is walking next to a wall with "" Where are you ? "" painted on it ."
 2514612680_b0d2d77099.jpg,"A man walking reads a wall asking "" Where are you ? "" ."
-2514612680_b0d2d77099.jpg,"A man walks under a bridge and reads grafitti that reads "" WHERE ARE YOU "" ?"
-2514612680_b0d2d77099.jpg,"A man with a cigerette walks past graffitti which says "" Where are you ? """
+2514612680_b0d2d77099.jpg,"A man walks under a bridge and reads graffiti that reads "" WHERE ARE YOU "" ?"
+2514612680_b0d2d77099.jpg,"A man with a cigarette walks past graffiti which says "" Where are you ? """
 2514612680_b0d2d77099.jpg,"People walking through a short tunnel with "" Where are you ? "" written on the wall ."
 2515247156_c1b759fc33.jpg,A boy goes down a blue slide with his eyes closed .
 2515247156_c1b759fc33.jpg,"A young boy slides down a blue slide with his eyes closed while a woman with sunglasses watches , smiling ."
@@ -10702,7 +10702,7 @@ image,caption
 2519483556_2b1632a18c.jpg,The three girls have pillows .
 2519483556_2b1632a18c.jpg,Three children are on a rug pretending to play instruments .
 2519483556_2b1632a18c.jpg,Three children play together and act like celebrities with their props .
-2519483556_2b1632a18c.jpg,Three girls pretend to be rock musicans in a posh living room .
+2519483556_2b1632a18c.jpg,Three girls pretend to be rock musicians in a posh living room .
 2519483556_2b1632a18c.jpg,Three pre-teen girls wearing sunglasses dance and sing in a family home .
 251958970_fa6b423f23.jpg,A man holding a sign with people walking around in the background .
 251958970_fa6b423f23.jpg,A man in an old suit holding up a protest sign in a crowd of people .
@@ -10748,7 +10748,7 @@ image,caption
 2521770311_3086ca90de.jpg,A boy in a long sleeve shirt is holding a box above his head .
 2521770311_3086ca90de.jpg,A boy is inside holding something on top of his head .
 2521770311_3086ca90de.jpg,A little boy holds a decorated cardboard box on his head .
-2521770311_3086ca90de.jpg,a young boy with a samll cardboard box atop his head .
+2521770311_3086ca90de.jpg,a young boy with a small cardboard box atop his head .
 2521878609_146143708e.jpg,A person eats noodles .
 2521878609_146143708e.jpg,A young boy eats noodles with large utensils .
 2521878609_146143708e.jpg,A young boy wearing a gray shirt eats pasta .
@@ -10820,11 +10820,11 @@ image,caption
 2525270674_4ab536e7ec.jpg,Dog catching Frisbee .
 2525270674_4ab536e7ec.jpg,The brown and white dog is catching a Frisbee in his mouth .
 2525455265_f84ba72bd7.jpg,A girl in a black shirt is looking to the side while sitting on a wooden bench .
-2525455265_f84ba72bd7.jpg,"A girl in a ponytail sitting at the dge of a wooden bench , grass and flowers before her ."
+2525455265_f84ba72bd7.jpg,"A girl in a ponytail sitting at the edge of a wooden bench , grass and flowers before her ."
 2525455265_f84ba72bd7.jpg,A girl sitting on a bench amongst the grass
 2525455265_f84ba72bd7.jpg,A woman sitting on a bench in a park on a cloudy day
 2525455265_f84ba72bd7.jpg,A young woman sits on a bench .
-2525666287_638ab5e784.jpg,soldiers 2 and civillians sitting on a bench at a busstop
+2525666287_638ab5e784.jpg,soldiers 2 and civilians sitting on a bench at a busstop
 2525666287_638ab5e784.jpg,"A man and a woman are waiting for a train , ignoring each other ."
 2525666287_638ab5e784.jpg,A man in blue jeans sits on a bench near a woman in green pants with a red and white bus behind them .
 2525666287_638ab5e784.jpg,Five people are sitting on benches waiting for the bus .
@@ -10894,7 +10894,7 @@ image,caption
 2528552898_9e49a7033f.jpg,A yellow race car is driving through water on the race course .
 2528552898_9e49a7033f.jpg,A yellow race car sliding through a corner as spectators watch .
 2528552898_9e49a7033f.jpg,"A yellow race car in a curve , with smoke behind it ."
-2529116152_4331dabf50.jpg,A darked skinned male is standing on one palm in front of a yellow building .
+2529116152_4331dabf50.jpg,A dark skinned male is standing on one palm in front of a yellow building .
 2529116152_4331dabf50.jpg,a man break dances .
 2529116152_4331dabf50.jpg,A man holding himself with one arm i front of a store .
 2529116152_4331dabf50.jpg,A young man jumps on a table .
@@ -11003,7 +11003,7 @@ image,caption
 2538423833_d1f492d1fb.jpg,A small child and a small white dog .
 2538423833_d1f492d1fb.jpg,A small child bends down to touch a white dog .
 2538423833_d1f492d1fb.jpg,A toddler is petting the little white dog .
-2538423833_d1f492d1fb.jpg,a young noy plays with a dog .
+2538423833_d1f492d1fb.jpg,a young boy plays with a dog .
 2538477523_1da77eb11c.jpg,A girl in a dress runs followed by a man in jeans .
 2538477523_1da77eb11c.jpg,A man and a little girl are running on a walkway .
 2538477523_1da77eb11c.jpg,A man chases a little girl in a flowery dress down a paved trail .
@@ -11014,7 +11014,7 @@ image,caption
 2539933563_17ff0758c7.jpg,A woman stands holding an orange cup in front of a crowd .
 2539933563_17ff0758c7.jpg,A woman with glowing shoes at an outdoor event .
 2539933563_17ff0758c7.jpg,Woman standing with a drink in her hand next to a tent .
-2540203582_9a9ac92a5d.jpg,A girl on a pink scooter pushes herself down a subdivsion sidewalk .
+2540203582_9a9ac92a5d.jpg,A girl on a pink scooter pushes herself down a subdivision sidewalk .
 2540203582_9a9ac92a5d.jpg,A girl riding a scooter on a sidewalk .
 2540203582_9a9ac92a5d.jpg,A small child rides down the sidewalk on a scooter in a neighborhood .
 2540203582_9a9ac92a5d.jpg,A young girl in a helmet riding a skateboard down a sidewalk .
@@ -11119,7 +11119,7 @@ image,caption
 2544426580_317b1f1f73.jpg,The baby in suspenders sits by a toy .
 2544426580_317b1f1f73.jpg,The little boy with the big brown eyes is touching the little car .
 2544426580_317b1f1f73.jpg,The toddler in suspenders plays with a truck .
-254475194_3d8f4dfd53.jpg,A black dog runs in a grassy yard while a woman dressed in green watches from in fton of a tan house .
+254475194_3d8f4dfd53.jpg,A black dog runs in a grassy yard while a woman dressed in green watches from in front of a tan house .
 254475194_3d8f4dfd53.jpg,A black dog runs in a yard while a woman observes
 254475194_3d8f4dfd53.jpg,A dog and master play in a grassy residential backyard .
 254475194_3d8f4dfd53.jpg,A man is watching his dog in his yard .
@@ -11300,7 +11300,7 @@ image,caption
 2557129157_074a5a3128.jpg,A young boy tilted forward in a child 's swing .
 2557129157_074a5a3128.jpg,Blond boy in striped shirt on the swing set .
 255741044_1102982213.jpg,Two brown and white dogs are next to each other with red toys in their mouths .
-255741044_1102982213.jpg,two bulldogs running togerther in the grass with their tongue 's hanging out .
+255741044_1102982213.jpg,two bulldogs running together in the grass with their tongue 's hanging out .
 255741044_1102982213.jpg,Two dogs running through grass next to a street .
 255741044_1102982213.jpg,Two dogs running up a grassy hill .
 255741044_1102982213.jpg,Two dogs run up a hill with their tongues out .
@@ -11432,7 +11432,7 @@ image,caption
 256283122_a4ef4a17cb.jpg,A dog leaps over a man in a white cap to catch and orange Frisbee .
 256283122_a4ef4a17cb.jpg,A dog leaps over a man to catch a disc .
 256283122_a4ef4a17cb.jpg,A man wearing sunglasses kneels with one knee on the ground looks up to see a dog in the air catching an orange Frisbee .
-256283122_a4ef4a17cb.jpg,"Dog jumps over owner to catch smilely faced Frisbee , while spectators in the park watch"
+256283122_a4ef4a17cb.jpg,"Dog jumps over owner to catch smiley faced Frisbee , while spectators in the park watch"
 256283122_a4ef4a17cb.jpg,Several people are standing and sitting on a grassy field watching a dog jump over a man to catch an orange Frisbee .
 256292144_b53aadae27.jpg,A brown and white dog is running across the grass .
 256292144_b53aadae27.jpg,A brown and white dog is running in a grassy park like setting .
@@ -11483,7 +11483,7 @@ image,caption
 2565657591_6c1cdfc092.jpg,a young boy climbing on a rock wall
 2565657591_6c1cdfc092.jpg,a young boy climbs the rock wall .
 2565657591_6c1cdfc092.jpg,A young child climbs an indoor rock climbing wall .
-2565657591_6c1cdfc092.jpg,A young kid cin orange climbs a rock climbing wall .
+2565657591_6c1cdfc092.jpg,A young kid in orange climbs a rock climbing wall .
 2565685680_c30972455d.jpg,A black animal or two are in the water .
 2565685680_c30972455d.jpg,A black dog plays around in water .
 2565685680_c30972455d.jpg,An animal with black fur splashing about in relatively deep water .
@@ -11492,7 +11492,7 @@ image,caption
 2565703445_dd6899bc0e.jpg,A man gazes over the rail in the peaceful early morning .
 2565703445_dd6899bc0e.jpg,A man looks out at the water under a bridge and against a skyline .
 2565703445_dd6899bc0e.jpg,A man looks over a railing into the water .
-2565703445_dd6899bc0e.jpg,Man leaning on railing with lampost behind him
+2565703445_dd6899bc0e.jpg,Man leaning on railing with lamp post behind him.
 2565703445_dd6899bc0e.jpg,Man with white undershirt and blue pants standing at fence with red top rail near a bridge .
 2567035103_3511020c8f.jpg,A black and white dog is playing or fighting with a brown dog in grass .
 2567035103_3511020c8f.jpg,A brown dog runs in a field with a black and white dog .
@@ -11508,7 +11508,7 @@ image,caption
 2568417021_afa68423e5.jpg,a boy is holding a basketball up in front of a white house .
 2568417021_afa68423e5.jpg,"A boy looking intently , holding a blue basketball , a white house in the background ."
 2568417021_afa68423e5.jpg,A man is shooting a blue basketball .
-2568417021_afa68423e5.jpg,A youn man in front of a white house holding blue and red basketball .
+2568417021_afa68423e5.jpg,A young man in front of a white house holding blue and red basketball .
 2568656919_6e49d2a82b.jpg,Two dogs racing across the water toward a beach .
 2568656919_6e49d2a82b.jpg,Two dogs run in the shallow water at the beach .
 2568656919_6e49d2a82b.jpg,Two dogs running in shallow water .
@@ -11580,7 +11580,7 @@ image,caption
 2574509968_e4692ae169.jpg,A woman wearing a white shirt stands on the street .
 2574509968_e4692ae169.jpg,The woman sips her drink on the sidewalk .
 2575647360_f5de38c751.jpg,A few people are sitting inside of a building with lots of photography on the walls .
-2575647360_f5de38c751.jpg,Four people in a dimmly lit room with pictures all over the walls and two bright lights are engaging in conversations .
+2575647360_f5de38c751.jpg,Four people in a dimly lit room with pictures all over the walls and two bright lights are engaging in conversations .
 2575647360_f5de38c751.jpg,People gathered in an artist 's studio .
 2575647360_f5de38c751.jpg,Several people are sitting inside a dark art gallery .
 2575647360_f5de38c751.jpg,Some people are mingling in a room that has photographs all over the walls .
@@ -11612,7 +11612,7 @@ image,caption
 2578289278_01516d23a0.jpg,a man dragging between two horses holding on to the horse on his right
 2578289278_01516d23a0.jpg,A man falls off his horse on a racetrack .
 2578289278_01516d23a0.jpg,A person is kneeling between two horses
-2578289278_01516d23a0.jpg,A rodeo contestent being drug between two horses .
+2578289278_01516d23a0.jpg,A rodeo contestant being drug between two horses .
 2578289278_01516d23a0.jpg,Cowboy in blue and red pants getting bucked off a horse .
 2578395598_6982734d46.jpg,A dog is running through a park
 2578395598_6982734d46.jpg,"A little white dog runs outside , their ears blown back in the wind ."
@@ -11647,7 +11647,7 @@ image,caption
 2579899436_5086a33c7a.jpg,A boy in a party hat splashes in the water .
 2579899436_5086a33c7a.jpg,A boy wearing a birthday hat plays in a puddle .
 2579899436_5086a33c7a.jpg,A little boy in blue is playing in a stream .
-2579899436_5086a33c7a.jpg,A little boy wearing a blue stiped shirt has a party hat on his head and is playing in a puddle .
+2579899436_5086a33c7a.jpg,A little boy wearing a blue striped shirt has a party hat on his head and is playing in a puddle .
 2579899436_5086a33c7a.jpg,A young kid is jumping in a puddle .
 2580215443_4e64afe3d5.jpg,A group of people are standing in a line looking off in different directions .
 2580215443_4e64afe3d5.jpg,A group of people are standing together on the pavement .
@@ -11740,7 +11740,7 @@ image,caption
 2587846523_b177c9a3e3.jpg,A man has a yellow ball on a red stick .
 2587846523_b177c9a3e3.jpg,The man is throwing a tennis ball for the brown dog to fetch .
 2588456052_8842b47005.jpg,A female tennis player in a purple top and black skirt swings her racquet .
-2588456052_8842b47005.jpg,A female tennis player prepairing to serve the ball .
+2588456052_8842b47005.jpg,A female tennis player preparing to serve the ball .
 2588456052_8842b47005.jpg,"A woman in a purple tank top holds a tennis racket , extends an arm upward , and looks up ."
 2588456052_8842b47005.jpg,A woman wearing a purple shirt and holding a tennis racket in her hand is looking up .
 2588456052_8842b47005.jpg,Girl is waiting for the ball to come down as she plays tennis .
@@ -11832,14 +11832,14 @@ image,caption
 2594459477_8ca0121a9a.jpg,A little girl in a rain puddle .
 2594459477_8ca0121a9a.jpg,A little girl is walking in a puddle of rain water in a hole in the road .
 2594459477_8ca0121a9a.jpg,A little girl stands in a puddle of water in the middle of the street .
-2594459477_8ca0121a9a.jpg,"A little girl stands in a puddle on the concrete , shrowded in darkness ."
+2594459477_8ca0121a9a.jpg,"A little girl stands in a puddle on the concrete , shrouded in darkness ."
 2594459477_8ca0121a9a.jpg,A little girl stands in a puddle outside .
 2594902417_f65d8866a8.jpg,A dog hops in a field while another dog stands next to it .
 2594902417_f65d8866a8.jpg,One dog is jumping up at another dog in a grassy field .
 2594902417_f65d8866a8.jpg,"The two tan colored dogs are in a field , and one is jumping in the air ."
 2594902417_f65d8866a8.jpg,Two brown dogs in a field .
 2594902417_f65d8866a8.jpg,Two brown dogs play with one another in the field .
-2595102568_347f6d4b07.jpg,a groupe of three walk the street .
+2595102568_347f6d4b07.jpg,a group of three walk the street .
 2595102568_347f6d4b07.jpg,"A man , woman , and child stand outside looking serious and waiting for something ."
 2595102568_347f6d4b07.jpg,"An Asian man , woman , and child are standing on a sidewalk ."
 2595102568_347f6d4b07.jpg,three asian people standing on a sidewalk with a street scene in the background
@@ -11894,7 +11894,7 @@ image,caption
 2597737483_6518a230e4.jpg,A smiling boy goes down a brown slide .
 2597737483_6518a230e4.jpg,Boy sliding down the slide with outstretched arms .
 2597737483_6518a230e4.jpg,The kid is sliding down a tan plastic slide .
-2597873827_a5cb3e57ba.jpg,"A boy in shorts kneeling on a tile courtyard , arms outstreached ."
+2597873827_a5cb3e57ba.jpg,"A boy in shorts kneeling on a tile courtyard , arms outstretched ."
 2597873827_a5cb3e57ba.jpg,A boy with a short haircut and a blue shirt gestures happily to someone out of frame .
 2597873827_a5cb3e57ba.jpg,A child kneels and raises his arms .
 2597873827_a5cb3e57ba.jpg,A little boy is posing on a stone wall outside .
@@ -12012,7 +12012,7 @@ image,caption
 2602866141_be9928408d.jpg,A group of boys is watching another boy walk away .
 2602866141_be9928408d.jpg,A group of boys with croquet equipment stands on a lawn .
 2602866141_be9928408d.jpg,A kid runs in the opposite direction of others who were playing a game .
-2602866141_be9928408d.jpg,Boys are standing outside of a brick establishment whie one boy starts to run .
+2602866141_be9928408d.jpg,Boys are standing outside of a brick establishment while one boy starts to run .
 2602866141_be9928408d.jpg,Six pre-teen boys posing in front of an old building
 2603033456_3584d95116.jpg,A boy in a white t-shirt is splashing in shallow water .
 2603033456_3584d95116.jpg,A boy in white and red is at the beach .
@@ -12036,7 +12036,7 @@ image,caption
 2603690144_7a28b1d13c.jpg,"A little boy and a dog run down a hill , behind them , a boy on a mini cycle and a shouting family ."
 2603792708_18a97bac97.jpg,A bunch of people on the beach at sunset .
 2603792708_18a97bac97.jpg,Two people are walking towards a group of people on the beach at sunset .
-2603792708_18a97bac97.jpg,Two people walking along the beach at sunset towarn a group of people .
+2603792708_18a97bac97.jpg,Two people walking along the beach at sunset toward a group of people .
 2603792708_18a97bac97.jpg,Two people walking along the shore at sunset .
 2603792708_18a97bac97.jpg,Two people walking on the beach at sunset .
 260392825_ea61660633.jpg,A black man in a red shirt .
@@ -12233,7 +12233,7 @@ image,caption
 261883591_3f2bca823c.jpg,A man wearing a hardhat stands in front of buildings not yet finished being built .
 261883591_3f2bca823c.jpg,A worker looks off into the distance while a China Shipping crate sits behind him .
 261883591_3f2bca823c.jpg,"Man with hardhat in black jacket stands near a green trailer that says "" CHINA SHIPPING "" in a construction zone ."
-261883591_3f2bca823c.jpg,The man is standing on the street surounded by buildings .
+261883591_3f2bca823c.jpg,The man is standing on the street surrounded by buildings .
 2618866067_07cbc83dc5.jpg,A dog wearing a collar yawning .
 2618866067_07cbc83dc5.jpg,A gray dog is yawning .
 2618866067_07cbc83dc5.jpg,A grey dog in a white collar yawning with its eyes closed .
@@ -12395,7 +12395,7 @@ image,caption
 2629445284_83390e83af.jpg,A dog is jumping over a barrier at a agility competition .
 2629445284_83390e83af.jpg,A dog jumping over an obstacle course fence .
 262963190_a78b799e89.jpg,A climber is standing on rocks overlooking a snowy mountain range .
-262963190_a78b799e89.jpg,a lone climber on a snowy moutainside .
+262963190_a78b799e89.jpg,a lone climber on a snowy mountainside .
 262963190_a78b799e89.jpg,A man in a white helmet and dark clothing stands in the snowy mountains .
 262963190_a78b799e89.jpg,"A man is overlooking a big , snowy mountain ."
 262963190_a78b799e89.jpg,A man with a white helmet stands on a snowy mountaintop .
@@ -12513,7 +12513,7 @@ image,caption
 2636876892_9353521a1c.jpg,Two dogs are smelling each other .
 2636876892_9353521a1c.jpg,two dogs in the middle of a heavily wooded forest
 2636876892_9353521a1c.jpg,Two dogs standing in the woods .
-2636876892_9353521a1c.jpg,two medium size dogs smiff each others behinds .
+2636876892_9353521a1c.jpg,two medium size dogs sniff each others behinds .
 2637510448_4521cf6f29.jpg,A little girl in a pink and white ski suit and red helmet skies sideways on the snow covered slope .
 2637510448_4521cf6f29.jpg,Child in pink and white skying down a slope .
 2637510448_4521cf6f29.jpg,Little girl skis on slope .
@@ -12538,7 +12538,7 @@ image,caption
 263850317_5bb3a18a08.jpg,A woman wearing black boots and a skirt walks down the sidewalk .
 263850317_5bb3a18a08.jpg,A woman with a pink purse walks down a crowded sidewalk .
 263850317_5bb3a18a08.jpg,A young woman in a black skirt and boots walks by stores .
-263850317_5bb3a18a08.jpg,Girl wearing a mini dress and long sleve white jacket with a pink bag walking through a crowded area .
+263850317_5bb3a18a08.jpg,Girl wearing a mini dress and long sleeve white jacket with a pink bag walking through a crowded area .
 263854883_0f320c1562.jpg,The two small dogs run through the grass .
 263854883_0f320c1562.jpg,Two fluffy white dogs running in green grass .
 263854883_0f320c1562.jpg,Two small dogs run through the grass .
@@ -12675,7 +12675,7 @@ image,caption
 2648165716_02e2e74fd6.jpg,A little boy in a Winnie the Pooh T-shirt is waiting to swing his red bat .
 2648165716_02e2e74fd6.jpg,A small child swings back a red baseball bat .
 2648310638_d6c576b5e4.jpg,A woman in a blue tank top and shorts is jogging down an asphalt road .
-2648310638_d6c576b5e4.jpg,A woman jogging up a hill with a scenic view behing her
+2648310638_d6c576b5e4.jpg,A woman jogging up a hill with a scenic view behind her
 2648310638_d6c576b5e4.jpg,A woman in a purple top and white cap jogging down the road .
 2648310638_d6c576b5e4.jpg,Person in blue top and shorts wearing a cap standing on a road with mountain with trees in the background .
 2648310638_d6c576b5e4.jpg,The woman in the white hat and blue shorts is jogging in the bicycle lane on a mountain road .
@@ -12711,7 +12711,7 @@ image,caption
 2650485780_29d89268d7.jpg,Six children playing musical instruments and singing in what appears to be a church .
 2650568697_ffb79bf2ea.jpg,Two guys are posing next to each other on the steps of a building with traffic behind them .
 2650568697_ffb79bf2ea.jpg,Two men are sitting on steps in front of a city building .
-2650568697_ffb79bf2ea.jpg,Two men pose at the bottom of a set of steps in a metropolitain area .
+2650568697_ffb79bf2ea.jpg,Two men pose at the bottom of a set of steps in a metropolitan area .
 2650568697_ffb79bf2ea.jpg,Two men sit together beside stone steps in an urban setting .
 2650568697_ffb79bf2ea.jpg,"Two men sit together on a set of steps outside near a street ,"
 2650620212_0586016e0d.jpg,A black dog is walking along the side of a pool .
@@ -12725,7 +12725,7 @@ image,caption
 2651915425_7a58e862e9.jpg,"A smiling boy swims , with only his head above the water ."
 2651915425_7a58e862e9.jpg,A smiling child swims .
 2652155912_8ba5426790.jpg,A gas station and a car on fire .
-2652155912_8ba5426790.jpg,A large explosion occured near a red car at a gas station .
+2652155912_8ba5426790.jpg,A large explosion occurred near a red car at a gas station .
 2652155912_8ba5426790.jpg,A red car is caught in an explosion .
 2652155912_8ba5426790.jpg,a red car is leaping through a ball of fire .
 2652155912_8ba5426790.jpg,Flames at gas pumps engulf a red car .
@@ -12738,7 +12738,7 @@ image,caption
 265223847_636ba039c1.jpg,A flying machine with a yellow sail is landing with industrial buildings in the background .
 265223847_636ba039c1.jpg,A man in the air in a four-wheeled cart attached to a parachute with smokestacks on the sun-setting horizon .
 265223847_636ba039c1.jpg,Man parasails at night
-265223847_636ba039c1.jpg,Person landing a yellow hanglider .
+265223847_636ba039c1.jpg,Person landing a yellow hang-glider .
 2652522323_9218afd8c2.jpg,A child and her mother are playing ball in a park .
 2652522323_9218afd8c2.jpg,A little girl with a hat playing ball with her mom .
 2652522323_9218afd8c2.jpg,A young asian girl with a woman plays with a blue ball in a part setting .
@@ -12811,7 +12811,7 @@ image,caption
 2657301826_aab4c36e6c.jpg,The little boy is wearing a blue bandanna .
 2657484284_daa07a3a1b.jpg,A kayak on the river is passing by a wire bridge that joins both banks .
 2657484284_daa07a3a1b.jpg,Some people ride their kayaks down the river .
-2657484284_daa07a3a1b.jpg,two conoes float down the river .
+2657484284_daa07a3a1b.jpg,two canoes float down the river .
 2657484284_daa07a3a1b.jpg,Two groups are canoeing on a river overlooking a mountain .
 2657484284_daa07a3a1b.jpg,"Two people rafting down a river , a footbridge in the background ."
 2657484970_610e18144f.jpg,People are boating near a mountain .
@@ -12884,7 +12884,7 @@ image,caption
 2661437618_ca7a15f3cb.jpg,A small dog chasing a ball .
 2661437618_ca7a15f3cb.jpg,The little white and brown dog has his mouth wide open while trying to catch something .
 2661437618_ca7a15f3cb.jpg,The small dog is baring his teeth and chasing an object .
-2661489896_cc3425777e.jpg,"A boy in shorts stands , arms outstreched , on a roadway ."
+2661489896_cc3425777e.jpg,"A boy in shorts stands , arms outstretched , on a roadway ."
 2661489896_cc3425777e.jpg,A child cavorts on the road .
 2661489896_cc3425777e.jpg,A child in white shorts and a blue shirt is standing in the street .
 2661489896_cc3425777e.jpg,a young boy wearing a hat dancing in the street
@@ -12977,7 +12977,7 @@ image,caption
 2666205903_8d287669e1.jpg,A child is holding a colorful object and overlooking a crowd of people while sitting on the shoulders of an older person .
 2666205903_8d287669e1.jpg,A girl in a blue sweater sits on a person 's shoulders and carries a pinwheel .
 2666205903_8d287669e1.jpg,A girls in a blue shirt holds a flower while sitting on a man 's shoulders .
-2666205903_8d287669e1.jpg,A young oriential girl is standing above the crowd playing with a pinwheel
+2666205903_8d287669e1.jpg,A young oriental girl is standing above the crowd playing with a pinwheel
 2666205903_8d287669e1.jpg,Girl in blue sweater and holding a multicolor toy sitting on the shoulders of a man with grey hair .
 2667015110_1670324a33.jpg,A child in an orange shirt with a book .
 2667015110_1670324a33.jpg,A young asian boy in a orange long-sleeved t-shirt holds a magazine .
@@ -12993,7 +12993,7 @@ image,caption
 2667783499_3a4f38f636.jpg,A small child crawling on a windowsill .
 2667783499_3a4f38f636.jpg,Little boy with blue shirt crawls across vents near large glass windows .
 2667783499_3a4f38f636.jpg,The little boy crawls around next to the large glass windows .
-2667783499_3a4f38f636.jpg,This picture shows a boy in a blue shirt leaning his head against a window with lots of beautiful clowds outside .
+2667783499_3a4f38f636.jpg,This picture shows a boy in a blue shirt leaning his head against a window with lots of beautiful clouds outside .
 267015208_d80b3eb94d.jpg,A green Volkswagen Bug and other vintage cars are admired by people in a courtyard .
 267015208_d80b3eb94d.jpg,A lime green VW bug .
 267015208_d80b3eb94d.jpg,Cars and people gathered in a city mall area .
@@ -13039,7 +13039,7 @@ image,caption
 2672588619_3849930e99.jpg,Three children run on a sidewalk with a river on one side and a wall on the other .
 2672588619_3849930e99.jpg,Three children run on the walkway by the river .
 2672588619_3849930e99.jpg,"Three kids , one holding a closed umbrella , run around on a sidewalk next to a river ."
-2673148534_8daf0de833.jpg,A black dog runs paralell to a wire fence in a grassy medow .
+2673148534_8daf0de833.jpg,A black dog runs parallel to a wire fence in a grassy meadow .
 2673148534_8daf0de833.jpg,A brown dog is running along a grassy stretch divided by strings .
 2673148534_8daf0de833.jpg,"A dog runs past an empty chair and a tripod , between stretched strings , marking a path through a grassy field ."
 2673148534_8daf0de833.jpg,A dog with all fours up in the air above the clover-filled grass .
@@ -13048,7 +13048,7 @@ image,caption
 267325341_1a96ef436e.jpg,A dog holds an orange rag in his mouth while running .
 267325341_1a96ef436e.jpg,A dog running with a red item in its mouth .
 267325341_1a96ef436e.jpg,Black dog running through grass with something orange in its mouth
-267325341_1a96ef436e.jpg,"On garden lawn , black dog is retriving an object ."
+267325341_1a96ef436e.jpg,"On garden lawn , black dog is retrieving an object ."
 2673564214_3a9598804f.jpg,A young boy poses behind the netting of an enclosed play area while three other children play .
 2673564214_3a9598804f.jpg,Children playing in a green and blue bounce house .
 2673564214_3a9598804f.jpg,Children play in the blue and green jumping tent filled with air .
@@ -13115,7 +13115,7 @@ image,caption
 2677614492_792023b928.jpg,a brown and white dog jumping over a red and yellow pole
 2677614492_792023b928.jpg,A small white and brown dog is jumping over a horizontal pole .
 2677656448_6b7e7702af.jpg,a brown and white dog swimming towards some in the pool
-2677656448_6b7e7702af.jpg,A dog in a swimming pool swims toward sombody we cannot see .
+2677656448_6b7e7702af.jpg,A dog in a swimming pool swims toward somebody we cannot see .
 2677656448_6b7e7702af.jpg,A dog swims in a pool near a person .
 2677656448_6b7e7702af.jpg,Small dog is paddling through the water in a pool .
 2677656448_6b7e7702af.jpg,The small brown and white dog is in the pool .
@@ -14619,7 +14619,7 @@ image,caption
 2780105274_52360c4cca.jpg,A woman is wearing a green striped shirt and a brown skirt .
 2780105274_52360c4cca.jpg,Tattoed women in striped top wearing a backpack .
 2780105274_52360c4cca.jpg,The woman in the green striped shirt and backpack has a tattoo on her back .
-278105206_df987b0ca0.jpg,a balck and tan dog running through the snow .
+278105206_df987b0ca0.jpg,a black and tan dog running through the snow .
 278105206_df987b0ca0.jpg,A dog is running through the snow away from the wire fence .
 278105206_df987b0ca0.jpg,A dog running through snow .
 278105206_df987b0ca0.jpg,The dog is running through deep snow .
@@ -14659,7 +14659,7 @@ image,caption
 2784408839_53a25a21eb.jpg,A person kayaking down a small waterfall .
 2784408839_53a25a21eb.jpg,A person kayak 's over a waterfall .
 2784408839_53a25a21eb.jpg,The blue kayak is being ridden over a small waterfall .
-2784625888_71a421e171.jpg,A black dog jumps a horizontal bar in a grassy feild .
+2784625888_71a421e171.jpg,A black dog jumps a horizontal bar in a grassy field .
 2784625888_71a421e171.jpg,A black dog jumps a hurdle in a grassy area .
 2784625888_71a421e171.jpg,A black dog jumps over a pole on green grass .
 2784625888_71a421e171.jpg,A medium sized black dog jumps over a gate
@@ -14679,7 +14679,7 @@ image,caption
 2785115802_137fa30000.jpg,A dog swims through deep water .
 2785115802_137fa30000.jpg,A large black and white dog is swimming in the water .
 2785115802_137fa30000.jpg,The black and white dog swims with a brown object in its mouth .
-278559394_b23af734b9.jpg,A man and an old woman stand and look at somthing behind the photographer .
+278559394_b23af734b9.jpg,A man and an old woman stand and look at something behind the photographer .
 278559394_b23af734b9.jpg,A man stands with several people silhouetted against a blue sky
 278559394_b23af734b9.jpg,A young man stares into the distance while an older lady looks the other way .
 278559394_b23af734b9.jpg,Group of people on a sunny day .
@@ -15842,7 +15842,7 @@ image,caption
 2865564810_5c63328cd4.jpg,A biker doing a somersault with the bike in front of a crowd .
 2865564810_5c63328cd4.jpg,Biker performing jump while onlookers watch .
 2865564810_5c63328cd4.jpg,Someone doing a flipping trick on a red bicycle in front of a lot of people .
-2865564810_5c63328cd4.jpg,The athlete perfomed a trick as the large crown watched .
+2865564810_5c63328cd4.jpg,The athlete performed a trick as the large crown watched .
 2865564810_5c63328cd4.jpg,The rider on the red BMX bike does an inverted trick .
 2865703567_52de2444f2.jpg,A man is jumping across a gap .
 2865703567_52de2444f2.jpg,a man jumping from one building to another closeby
@@ -16695,7 +16695,7 @@ image,caption
 290650302_ade636da35.jpg,A woman wearing glasses sits and looks to the right .
 290650302_ade636da35.jpg,The woman is resting her head on her hand and sitting in a crowded area .
 2906802485_dfebf09173.jpg,Four kayakers and canoers near a rock wall .
-2906802485_dfebf09173.jpg,Four kayakers on a moutain stream .
+2906802485_dfebf09173.jpg,Four kayakers on a mountain stream .
 2906802485_dfebf09173.jpg,four kayakers paddle through the water .
 2906802485_dfebf09173.jpg,Four people are kayaking in a river .
 2906802485_dfebf09173.jpg,"Four people , in colorful kayaks , are on the water on a sunny day ."
@@ -18368,7 +18368,7 @@ image,caption
 3006093003_c211737232.jpg,A man talks on a cellphone while holding an Obama campaign sign .
 3006093003_c211737232.jpg,The man in glasses carrying an Obama poster is talking on a cellphone .
 3006093003_c211737232.jpg,The Obama supporter wears a black jacket and brown hat .
-3006093003_c211737232.jpg,Yong man with cellphone and goatee holding Obama sign
+3006093003_c211737232.jpg,Young man with cellphone and goatee holding Obama sign .
 3006094603_c5b32d2758.jpg,A man wearing a Barack Obama shirt smiles for the camera
 3006094603_c5b32d2758.jpg,A man wearing an Obama t-shirt and holding a coffee cup .
 3006094603_c5b32d2758.jpg,A young man touts an Obama t-shirt .
@@ -18465,7 +18465,7 @@ image,caption
 3014546644_d53db746ec.jpg,a dog jumps in the field .
 3014546644_d53db746ec.jpg,A dog runs into an autumn forest with an orange line attached .
 3014773357_f66bd09290.jpg,A swan unfurling his wings over the water with a second swan in the background .
-3014773357_f66bd09290.jpg,Two geese in dark blue water one goose has wings outstreached the other is starting a dive .
+3014773357_f66bd09290.jpg,Two geese in dark blue water one goose has wings outstretched the other is starting a dive .
 3014773357_f66bd09290.jpg,"Two swans are in the water , the one in front is flapping its wings ."
 3014773357_f66bd09290.jpg,two white geese on the surface of the ocean
 3014773357_f66bd09290.jpg,Two white swans on the water .
@@ -19340,7 +19340,7 @@ image,caption
 3057862887_135c61816a.jpg,A woman with man bead necklaces looks down at the girl sitting next to her .
 3057862887_135c61816a.jpg,Tribal woman and child staring at each other in the jungle .
 3058439373_9276a4702a.jpg,A crowd of people are standing in front of Italian style buildings .
-3058439373_9276a4702a.jpg,A crowd of people stand looking at somthing in a European courtyard .
+3058439373_9276a4702a.jpg,A crowd of people stand looking at something in a European courtyard .
 3058439373_9276a4702a.jpg,A crowd of people stands attentively in a plaza with buildings in the background .
 3058439373_9276a4702a.jpg,A group of people are looking at the buildings .
 3058439373_9276a4702a.jpg,Group of people standing in the town square looking up .
@@ -20891,7 +20891,7 @@ image,caption
 3136043366_b3f8607a0e.jpg,Seven American footballers in blue are doing a victory run towards camera .
 3136404885_f4d8f1d15a.jpg,A bald man in a striped shirt and jeans walks away from a mural of a red car with a blonde man wearing an orange and black jacket with jeans .
 3136404885_f4d8f1d15a.jpg,Two men are walking towards a building with a huge car painted on it .
-3136404885_f4d8f1d15a.jpg,Two men walking in front of a grafitti image of a car .
+3136404885_f4d8f1d15a.jpg,Two men walking in front of a graffiti image of a car .
 3136404885_f4d8f1d15a.jpg,two men walking past a graffited wall scene of a red classic car
 3136404885_f4d8f1d15a.jpg,Two men walking past a mural of a car .
 3136674757_57406c305c.jpg,An older man in a tank top and a younger girl in striped shirt pose on a couch .
@@ -23447,7 +23447,7 @@ image,caption
 3246773992_89bf86937b.jpg,A girl in a costume is performing a dance as other girls in costumes watch .
 3246773992_89bf86937b.jpg,An Irish dancer performs a solo .
 3246773992_89bf86937b.jpg,A woman in tights dances .
-3246773992_89bf86937b.jpg,Girl in black pants and an orange top jumping with one leg outstreached and foot pointed other in background dressed the same .
+3246773992_89bf86937b.jpg,Girl in black pants and an orange top jumping with one leg outstretched and foot pointed other in background dressed the same .
 3246773992_89bf86937b.jpg,"Outdoors , girl in orange dress dancing as other dancers huddle in background ."
 3246804978_ea2c9e56f2.jpg,A group of pugs in a lawn .
 3246804978_ea2c9e56f2.jpg,A pack of Pugs .
@@ -24514,7 +24514,7 @@ image,caption
 3286198467_8880be127e.jpg,A dog is carrying something in his mouth .
 3286198467_8880be127e.jpg,A dog with a choke collar is holding a gauntlet in its mouth .
 3286198467_8880be127e.jpg,A large black and brown dog is carrying something in its mouth while walking on grass .
-3286222970_1fa445e38f.jpg,"A little girl runs in the park , looking at somthing out of frame ."
+3286222970_1fa445e38f.jpg,"A little girl runs in the park , looking at something out of frame ."
 3286222970_1fa445e38f.jpg,A young girl walks quickly outside .
 3286222970_1fa445e38f.jpg,Girl running past a bench .
 3286222970_1fa445e38f.jpg,The girl is running through a park near a wooden park bench .
@@ -24619,7 +24619,7 @@ image,caption
 3290465391_258429e2f9.jpg,A man in black perfors on a skateboard .
 3290465391_258429e2f9.jpg,A man is jumping over a barrel on a skateboard
 3290465391_258429e2f9.jpg,Man on skateboard on top of rust colored barrel in darkened area .
-3291255271_a185eba408.jpg,A boy leans on a baseball bat and holds out one arm outstreached .
+3291255271_a185eba408.jpg,A boy leans on a baseball bat and holds out one arm outstretched .
 3291255271_a185eba408.jpg,A child with a hat stands with a bat .
 3291255271_a185eba408.jpg,A young boy poses in a field with a baseball bat .
 3291255271_a185eba408.jpg,A young boy with a baseball bat holing his arm out .
@@ -25372,7 +25372,7 @@ image,caption
 3326588088_172d1b2584.jpg,Two guitarists dressed in white perform .
 3326588088_172d1b2584.jpg,Two guitar players dressed in white
 3326588088_172d1b2584.jpg,Two men in white suits play the guitar on a stage .
-3326588088_172d1b2584.jpg,"Two men wearing all white kneel on the floor , palying guitar ."
+3326588088_172d1b2584.jpg,"Two men wearing all white kneel on the floor , playing guitar ."
 3326588088_172d1b2584.jpg,Two men wearing white suits play guitar onstage .
 3327487011_1372c425fb.jpg,A classroom full of students is looking in the same direction inside a bamboo structure .
 3327487011_1372c425fb.jpg,A group of children mostly wearing white uniform shirts sit and wait .
@@ -26650,7 +26650,7 @@ image,caption
 3373544964_c9f1253b7d.jpg,A muscular dog with upturned face looking into eyes of a young boy .
 3373544964_c9f1253b7d.jpg,Dog with tongue out looking up at a young boy with glasses
 3373870185_f79163fa51.jpg,A bird swooping over water .
-3373870185_f79163fa51.jpg,"A bird , wings outstreached , over the water ."
+3373870185_f79163fa51.jpg,"A bird , wings outstretched , over the water ."
 3373870185_f79163fa51.jpg,A black and white bird is flying over water .
 3373870185_f79163fa51.jpg,A white bird spreads its wings and jumps into the water feet first .
 3373870185_f79163fa51.jpg,A white bird with a black beak begins to land near the water .
@@ -26884,7 +26884,7 @@ image,caption
 3384314832_dffc944152.jpg,Brown and white dog jumping over a low rail with a tennis ball in his mouth .
 3384314832_dffc944152.jpg,The dog is jumping with a ball in his mouth .
 3384314832_dffc944152.jpg,The small yellow and white dog jumps over an obstacle with a tennis ball .
-3384528359_e920154177.jpg,"A crane , wings outstreached , above the ocean ."
+3384528359_e920154177.jpg,"A crane , wings outstretched , above the ocean ."
 3384528359_e920154177.jpg,A large bird landing on water .
 3384528359_e920154177.jpg,A large gray and white bird begins to take flight .
 3384528359_e920154177.jpg,Bird spreads wings over water .
@@ -27319,7 +27319,7 @@ image,caption
 3405100926_e96308ce89.jpg,Four men posing on the street in green shirts and black pants .
 3405100926_e96308ce89.jpg,Several men in matching green and black outfits in front of a monument .
 3405100926_e96308ce89.jpg,Three men wearing green t-shirts do a street performance .
-3405113041_4b72c24801.jpg,"A blue heron , wings , outstreached , prepares for landing ."
+3405113041_4b72c24801.jpg,"A blue heron , wings , outstretched , prepares for landing ."
 3405113041_4b72c24801.jpg,A gray water fowl with black and white markings is flying near water .
 3405113041_4b72c24801.jpg,A large bird is flying over water .
 3405113041_4b72c24801.jpg,A large black bird is gliding over the water .
@@ -27389,7 +27389,7 @@ image,caption
 3408274796_0dc62225e9.jpg,a dog runs with a large stick in its mouth .
 3408274796_0dc62225e9.jpg,A dog with a stick in his mouth runs in a forest .
 3408274796_0dc62225e9.jpg,a white dog running down a path with a long stick in his mouth
-3409326324_a704565e8f.jpg,a group on white and balck birds lined up on a concrete wall
+3409326324_a704565e8f.jpg,a group on white and black birds lined up on a concrete wall
 3409326324_a704565e8f.jpg,A row of birds is sitting in front of a grey cloud .
 3409326324_a704565e8f.jpg,Many birds are sitting on a concrete wall .
 3409326324_a704565e8f.jpg,many birds sit on a ledge .
@@ -28978,7 +28978,7 @@ image,caption
 3467941308_ae6989e29c.jpg,A brown dog is gallopsing through the grass .
 3467941308_ae6989e29c.jpg,A brown dog is running in the grass .
 3467941308_ae6989e29c.jpg,A brown dog runs fast outside on green grass .
-3467941308_ae6989e29c.jpg,A German sheperd breed dog is running in the opposite direction of a person .
+3467941308_ae6989e29c.jpg,A German shepherd breed dog is running in the opposite direction of a person .
 3468023754_8a07d4c56e.jpg,children looking through magazines they have folded into tubes
 3468023754_8a07d4c56e.jpg,Four children hold rolled up magazines to their eyes .
 3468023754_8a07d4c56e.jpg,Four children looking through rolled up booklets .
@@ -29762,7 +29762,7 @@ image,caption
 3498997518_c2b16f0a0e.jpg,A football player in blue grabs a football player in white for a tackle .
 3498997518_c2b16f0a0e.jpg,A football player is being tackled by the rival team .
 3498997518_c2b16f0a0e.jpg,A football player is tackling the player with the football as the crowd watches .
-3498997518_c2b16f0a0e.jpg,Football players on a feild the one on the left in a blue uniform the one on the right in a white one with the fans in the back .
+3498997518_c2b16f0a0e.jpg,Football players on a field the one on the left in a blue uniform the one on the right in a white one with the fans in the back .
 3498997518_c2b16f0a0e.jpg,Two football player from the opposite team are holding back the one with the ball .
 3499720588_c32590108e.jpg,A dark skinned man plays a blue guitar on the street .
 3499720588_c32590108e.jpg,"A man playing his guitar on the street , surrounded by buildings and street lights ."
@@ -29865,7 +29865,7 @@ image,caption
 3502993968_4ee36afb0e.jpg,A man in a safety vest riding a bicycle on the highway .
 3502993968_4ee36afb0e.jpg,A man in a yellow shirt riding a blue bicycle moving very fast .
 3503011427_a4ee547c77.jpg,A man in a long sleeved white shirt is walking past something called the lounge bar .
-3503011427_a4ee547c77.jpg,A man in a white longsleeve shirt and black pants is walking on the sidewalk .
+3503011427_a4ee547c77.jpg,A man in a white long-sleeve shirt and black pants is walking on the sidewalk .
 3503011427_a4ee547c77.jpg,"A man is walking down a sidewalk under a "" lounge bar "" sign ."
 3503011427_a4ee547c77.jpg,A man walks on a fancy sidewalk next to an abandoned bar .
 3503011427_a4ee547c77.jpg,The man wearing a white jacket and black pants is walking in front of a white building .
@@ -30064,7 +30064,7 @@ image,caption
 3513362553_5fc5779e20.jpg,A baseball player swings at the ball as onlookers watch .
 3513362553_5fc5779e20.jpg,A batter swings at a ball .
 3513362553_5fc5779e20.jpg,A girl at bat in a softball game
-3514019869_7de4ece2a5.jpg,a black and brown dog jumping over two white and purple stiped poles
+3514019869_7de4ece2a5.jpg,a black and brown dog jumping over two white and purple striped poles
 3514019869_7de4ece2a5.jpg,A dog jumps over a hurdle in the grass .
 3514019869_7de4ece2a5.jpg,A dog jumps over an obstacle .
 3514019869_7de4ece2a5.jpg,Black and brown dog jumping over hurdle with white supports .
@@ -32556,7 +32556,7 @@ image,caption
 3609645320_815c294b65.jpg,These five people are seated on steps outdoors .
 3609952704_3719ab0524.jpg,A boy holds a soccer ball while he stands next to a running track .
 3609952704_3719ab0524.jpg,A boy is outside holding a red and blue soccer ball .
-3609952704_3719ab0524.jpg,a young boy carrying a large soccer ball with a soccer feild in the background
+3609952704_3719ab0524.jpg,a young boy carrying a large soccer ball with a soccer field in the background
 3609952704_3719ab0524.jpg,A young boy in a green shirt is holding a red and blue soccer ball .
 3609952704_3719ab0524.jpg,"There is a young kid , dressed up in a soccer uniform , holding his ball ."
 3609999845_faf5d2fe74.jpg,"A boy hits a ball , with a bat , outside , while others in the background watch him ."
@@ -35309,7 +35309,7 @@ image,caption
 3739833689_a0038545bd.jpg,A young boy is spinning around a baseball bat on the grass .
 3739833689_a0038545bd.jpg,Little boy puts his forehead on the baseball bat and spins around to make himself dizzy .
 3739833689_a0038545bd.jpg,The little boy is wearing red shorts and a white t-shirt and has his head resting on a baseball bat .
-374103776_0de490c1b0.jpg,A woman points at somthing while antoher woman touches her hand at a bar .
+374103776_0de490c1b0.jpg,A woman points at something while antoher woman touches her hand at a bar .
 374103776_0de490c1b0.jpg,"Men and women are standing closely together , some with drinks in their hands ."
 374103776_0de490c1b0.jpg,The girls are having a drink .
 374103776_0de490c1b0.jpg,two girls drink at a party .
@@ -36800,7 +36800,7 @@ image,caption
 459814265_d48ba48978.jpg,A long haired dog frolics in a meadow of yellow flowers .
 459814265_d48ba48978.jpg,A shaggy dog plays in a field of grass and yellow flowers .
 460195978_fc522a4979.jpg,A black dog is in the grass with a woman in jeans .
-460195978_fc522a4979.jpg,a grey in a grey sweashirt running alongside of a small dog
+460195978_fc522a4979.jpg,a grey in a grey sweatshirt running alongside of a small dog
 460195978_fc522a4979.jpg,A person playing with their black dog in the grass .
 460195978_fc522a4979.jpg,A woman and a dog are running in a field .
 460195978_fc522a4979.jpg,A woman flies a kite in a field while her dog watches .
@@ -38216,7 +38216,7 @@ image,caption
 529198549_5cd9fedf3f.jpg,Kids rafting down the river .
 53043785_c468d6f931.jpg,A man is standing on an animal in the water .
 53043785_c468d6f931.jpg,A man is standing on an elephant lying in some water .
-53043785_c468d6f931.jpg,A man standing on a rock in a river with a spash next to him .
+53043785_c468d6f931.jpg,A man standing on a rock in a river with a splash next to him .
 53043785_c468d6f931.jpg,A man stands on top of an elephant in the water .
 53043785_c468d6f931.jpg,A man stands on top of a submerged elephant .
 530454257_66d58b49ee.jpg,A boy in camouflage jacket notices several yellow ducks on display .
@@ -39603,7 +39603,7 @@ image,caption
 781387473_208ba152b3.jpg,A girl sits on a ride with a stuffed animal next to her above a carnival .
 781387473_208ba152b3.jpg,A little girl and her stuffed monkey seated on a ride above the fairgrounds .
 781387473_208ba152b3.jpg,A little girl sits on a Farris wheel seat next to a giant stuffed animal .
-781387473_208ba152b3.jpg,Girl and large stuffed animal riding an amuseument ride over a fair .
+781387473_208ba152b3.jpg,Girl and large stuffed animal riding an amusement ride over a fair .
 782017931_75d92bb7a4.jpg,A couple is standing against a railing looking at a beautiful lake and sunset .
 782017931_75d92bb7a4.jpg,A couple takes in the view at the water at dusk .
 782017931_75d92bb7a4.jpg,The couple is standing by the railing overlooking the water .
@@ -39778,7 +39778,7 @@ image,caption
 836768303_d748df5546.jpg,Two children and a brown dog in a brown tube .
 836768303_d748df5546.jpg,Two children and a dog are in a bedroll .
 836768303_d748df5546.jpg,Two children in an enclosed dog bed with the dog .
-836768303_d748df5546.jpg,Two youn boys lay in a dog house with their dog .
+836768303_d748df5546.jpg,Two young boys lay in a dog house with their dog .
 836828001_af98d16256.jpg,A child in the bathtub with water coming out of his mouth .
 836828001_af98d16256.jpg,A child spitting out water .
 836828001_af98d16256.jpg,A small boy in the bathtub spits water .
